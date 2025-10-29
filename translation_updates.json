@@ -1,0 +1,101 @@
+{
+  "en": {
+    "services": {
+      "uiux": {
+        "specialOffer": {
+          "badge": "Special Offer",
+          "title": "High-Converting Landing Page UI/UX Redesign Services",
+          "subtitle": "Need better results from your landing page? Struggling with low conversions? Let's Fix That.",
+          "description": "It will be visually aligned with your brand, load fast and get more clicks. Here's what's included:",
+          "features": {
+            "strategy": "UX strategy based on user behavior",
+            "wireframe": "Wireframes and interactive prototypes",
+            "design": "Clean, modern UI that fits your brand",
+            "revisions": "Up to 2 rounds of revisions for fine-tuning design",
+            "consultation": "1-hour strategy call with our design team"
+          },
+          "valueProps": {
+            "quick": "Quick turnaround for fast launches",
+            "conversion": "Layouts built to convert",
+            "userCentered": "Focus on ease of use and clear messaging",
+            "perfect": "We redesign underperforming landing pages into fast, mobile-first layouts optimized for speed, with a clear call to action. All designs are optimized for Core Web Vitals and built to meet Google's UX standards."
+          },
+          "cta": {
+            "title": "Get Started Now",
+            "description": "We redesign underperforming landing pages into fast, mobile-first layouts optimized for speed, with a clear call to action. All designs are optimized for Core Web Vitals and built to meet Google's UX standards.",
+            "bottomLine1": "👉 Ideal for product launches, service pages and lead generation campaigns.",
+            "bottomLine2": "📈 Results: Faster load times, better engagement, more signups",
+            "btn1": "Get Started Now",
+            "btn2": "🔍 View Examples"
+          }
+        }
+      }
+    }
+  },
+  "de": {
+    "services": {
+      "uiux": {
+        "specialOffer": {
+          "badge": "Spezielles Angebot",
+          "title": "UI/UX-Redesign-Services für Landingpages mit hoher Conversion",
+          "subtitle": "Du brauchst bessere Ergebnisse von deiner Landingpage? Niedrige Conversions? Lass uns das gemeinsam lösen.",
+          "description": "Sie wird visuell zu deiner Marke passen, schnell laden und mehr Klicks bringen. Das ist enthalten:",
+          "features": {
+            "strategy": "UX-Strategie basierend auf dem Verhalten deiner Nutzer:innen",
+            "wireframe": "Wireframes und interaktive Prototypen",
+            "design": "Sauberes, modernes UI, das zu deiner Marke passt",
+            "revisions": "Bis zu 2 Überarbeitungsrunden zur Feinabstimmung des Designs",
+            "consultation": "1-stündiges Strategiegespräch mit unserem Designteam"
+          },
+          "valueProps": {
+            "quick": "Schnelle Umsetzung für einen zügigen Launch",
+            "conversion": "Layouts, die auf Conversion ausgelegt sind",
+            "userCentered": "Fokus auf Benutzerfreundlichkeit und klare Kommunikation",
+            "perfect": "Wir überarbeiten schlecht performende Landingpages zu schnellen, mobiloptimierten Layouts mit klaren Call-to-Actions. Alle Designs sind auf Core Web Vitals optimiert und erfüllen die UX-Richtlinien von Google."
+          },
+          "cta": {
+            "title": "Jetzt starten",
+            "description": "Wir überarbeiten schlecht performende Landingpages zu schnellen, mobiloptimierten Layouts mit klaren Call-to-Actions. Alle Designs sind auf Core Web Vitals optimiert und erfüllen die UX-Richtlinien von Google.",
+            "bottomLine1": "👉 Perfekt für Produkteinführungen, Serviceseiten und Kampagnen zur Lead-Generierung.",
+            "bottomLine2": "📈 Ergebnisse: Schnellere Ladezeiten, bessere Nutzerbindung, mehr Anmeldungen",
+            "btn1": "Jetzt starten",
+            "btn2": "🔍 Beispiele ansehen"
+          }
+        }
+      }
+    }
+  },
+  "sr": {
+    "services": {
+      "uiux": {
+        "specialOffer": {
+          "badge": "Posebna ponuda",
+          "title": "UI/UX redizajn landing stranica koje donose konverzije",
+          "subtitle": "Trebaš bolje rezultate od svoje landing stranice? Mučiš se sa niskom stopom konverzije? Hajde da to rešimo.",
+          "description": "Stranica će vizuelno pratiti tvoj brend, brzo se učitavati i privući više klikova. Uključeno u uslugu:",
+          "features": {
+            "strategy": "UX strategija zasnovana na ponašanju korisnika",
+            "wireframe": "Wireframe-ovi i interaktivni prototipi",
+            "design": "Čist, moderan UI koji se uklapa u tvoj brend",
+            "revisions": "Do 2 kruga revizija za fino podešavanje dizajna",
+            "consultation": "Jednosatni strateški poziv sa našim dizajn timom"
+          },
+          "valueProps": {
+            "quick": "Ekspresna izrada za brzo lansiranje",
+            "conversion": "Rasporedi koji su optimizovani za konverzije",
+            "userCentered": "Fokus na jednostavnu upotrebu i jasnu poruku",
+            "perfect": "Redizajniramo landing stranice u mobilno-orijentisane, optimizovane za brzinu i sa jasnim pozivom na akciju. Svi dizajni su optimizovani za Core Web Vitals i izrađeni u skladu sa Google UX standardima."
+          },
+          "cta": {
+            "title": "Započni sada",
+            "description": "Redizajniramo landing stranice u mobilno-orijentisane, optimizovane za brzinu i sa jasnim pozivom na akciju. Svi dizajni su optimizovani za Core Web Vitals i izrađeni u skladu sa Google UX standardima.",
+            "bottomLine1": "👉 Idealno za lansiranja proizvoda, stranice usluga i kampanje za prikupljanje leadova.",
+            "bottomLine2": "📈 Rezultati: Brže učitavanje, veće angažovanje, više prijava",
+            "btn1": "Započni sada",
+            "btn2": "🔍 Pogledaj primere"
+          }
+        }
+      }
+    }
+  }
+}

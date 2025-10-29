@@ -1,0 +1,1833 @@
+{
+  "meta": {
+    "home": {
+      "title": "Digital Agency for Web Development & SEO Services | BW Digit",
+      "description": "BW Digit is a digital agency offering web development, SEO services, e-commerce solutions, and app development to help your business grow online."
+    },
+    "uiUxDesign": {
+      "title": "Custom UI/UX Design Services – BW Digit",
+      "description": "We create custom UI/UX designs that improve user experience, boost conversions and help your business grow online. Mobile-first and conversion-focused."
+    },
+    "marketingSeo": {
+      "title": "Digital Marketing & SEO Services – BW Digit",
+      "description": "Boost your online visibility with our expert SEO and marketing strategies. On-page, off-page, content, technical and local SEO - all in one place."
+    },
+    "aiAutomation": {
+      "title": "AI Tools & Automation Workflows That Save Time | BW Digit",
+      "description": "Streamline your workflow with easy-to-use AI tools and automation systems from BW Digit. Save hours, reduce manual work, and boost productivity without complexity."
+    },
+    "mobileAppDevelopment": {
+      "title": "Mobile App Development Services | BW Digit",
+      "description": "We build high-performance iOS, Android & cross-platform apps tailored to your business. Start your app journey with BW Digit."
+    },
+    "ecommerce": {
+      "title": "E-Commerce Website Development That Helps You Sell More | BW Digit",
+      "description": "We build secure, fast, and easy-to-use online stores using Shopify and WooCommerce. Whether you're just starting or growing your shop, we create custom e-commerce solutions that turn visitors into customers."
+    },
+    "customWebDev": {
+      "title": "Custom Website Development for Real Business Needs | BW Digit",
+      "description": "We build fast, secure, and scalable websites for your business goals. From landing pages to complete platforms no templates, just clean custom code."
+    }
+  },
+  "heroTitle1": "BW Digit – Smart Web, SEO and App Solutions for Your Business",
+  "heroSubtitle": "As a digital agency, we combine design, technology and strategy, to help your business grow online.",
+  "heroImgAlt": "digital agency offering web development, SEO services and app solutions for businesses",
+  "contactUsButton": "Get Free Consultation Now",
+  "freeConsultationButton": "Free Consultation",
+  "servicesTitle": "One Agency. All Your Digital Needs ",
+  "servicesSubtitle": "Many businesses waste time with websites that are slow, hard to use or don’t match their goals. BW Digit fixes that. We create websites, online stores, mobile apps and marketing tools that work better, so your business looks good, runs faster and reaches more people. \n\n As a full digital agency, we handle everything from design and development to SEO and e-commerce with one goal: Helping you grow online.",
+  "webDesignTitle": "Web Design & Development",
+  "webDesignFeature1": "Custom development & modern technologies tailored just for you",
+  "webDesignFeature2": "Personalized e-commerce platforms (Shopify, WooCommerce)",
+  "webDesignFeature3": "Mobile apps & lightning-fast, mobile-optimized websites",
+  "webDesignFeature4": "WordPress, Webflow & Laravel — solutions that inspire",
+  "webDesignFeature5": "UI/UX design for an outstanding user experience",
+  "seoMarketingTitle": "SEO & Online Marketing",
+  "seoMarketingFeature1": "Result-driven SEO to increase visibility and attract high-converting leads",
+  "seoMarketingFeature2": "Strategic online marketing to engage your ideal customers",
+  "seoMarketingFeature3": "Content marketing & performance optimization",
+  "seoMarketingFeature4": "More traffic, leads, and revenue for your business",
+  "aboutUsTitle": "About Us",
+  "aboutUsSubtitle1": "BW Digit – Your Trusted Digital Agency for Web Design, SEO & Online Growth",
+  "aboutUsSubtitle2": "Focused on What Matters: Growth, Visibility and Function.",
+  "aboutUsDescription": "We help small businesses, startups, creators and growing brands with their online needs. That could mean building a website, getting better results on Google or creating an online shop that brings in real sales. \n\n At BW Digit we focus on what matters: clean design, smart coding, clear words and tools that help your business grow. No fancy talk, just real work that gets real results.",
+  "whyChooseUsTitle": "Why Choose BW Digit?",
+  "whyChooseUsDescription": "At BW Digit, we're more than just a digital agency, we're your partner in online growth.\n\n ● 100+ Projects Delivered: From local shops to growing startups, we've built websites, stores, and apps that actually work.\n\n ● Fast Load Times: Our sites load in under 3 seconds. That means better user experience and higher conversions. \n\n ● Better Rankings: 8 out of 10 clients see improved Google rankings within 6 months of working with us. \n\n ● Mobile-First Design: 70% of traffic now comes from phones. We make sure your site works perfectly on all devices. \n\n ● Real Support: Talk to real people who understand your goals, no bots, no delays. \n\n BW Digit doesn't sell fluff. We build smart, effective digital solutions that help your business grow with clear results, you can see.",
+  "whyChooseImgAlt": "BW digit team planning website development strategy",
+  "discoverServicesButton": "Discover Our Services",
+  "coreCompetenciesTitle": "Our Key Services and Strengths",
+  "competency1Title": "Integrated web design & SEO solutions",
+  "competency1Point1": "Targeted analysis & personalized concepts",
+  "competency1Point2": "BW Digit as your trusted partner",
+  "competency2Title": "Creativity meets functionality",
+  "competency2Point1": "Impactful UI/UX design",
+  "competency2Point2": "WordPress development with a personal touch",
+  "competency3Title": "Design that meets the highest standards",
+  "competency3Point1": "From corporate to luxury websites",
+  "competency3Point2": "Laravel for complex & elegant solutions",
+  "competency4Title": "Fast & reliable delivery",
+  "competency4Point1": "On-time often ahead of schedule",
+  "competency4Point2": "Top quality no compromises",
+  "howWeWorkTitle": "How We Work",
+  "howWeWorkSubtitle": "Infographics Showing Analysis, Design and Optimization for Digital Solutions.",
+  "howWeWorkL1": "Analyze & Strategize — Understand your goals, audience & vision",
+  "howWeWorkL2": "Design & Develop — Visual & technical execution",
+  "howWeWorkL3": "Optimize & Grow — Continuous SEO & conversion improvements",
+  "keyDeliverables": "Key Deliverables",
+  "howWeWork": {
+    "step1": {
+      "title": "Analysis & Strategy",
+      "description": "We begin with a deep dive into your business goals, target audience, and market position to develop a tailored digital strategy.",
+      "duration": "1-2 weeks",
+      "deliverable1": "Business Analysis",
+      "deliverable2": "Market Research",
+      "deliverable3": "SEO Strategy",
+      "deliverable4": "Project Roadmap"
+    },
+    "step2": {
+      "title": "Design & UX",
+      "description": "Our design team creates stunning, user-centric interfaces that reflect your brand identity while ensuring optimal user experience.",
+      "duration": "2-3 weeks",
+      "deliverable1": "UI/UX Design",
+      "deliverable2": "Wireframes",
+      "deliverable3": "Mobile-First Design",
+      "deliverable4": "Brand Integration"
+    },
+    "step3": {
+      "title": "Development",
+      "description": "We build your solution using modern technologies like WordPress, Laravel, or custom solutions, ensuring performance and scalability.",
+      "duration": "4-8 weeks",
+      "deliverable1": "Responsive Development",
+      "deliverable2": "CMS Integration",
+      "deliverable3": "E-commerce Setup",
+      "deliverable4": "Performance Optimization"
+    },
+    "step4": {
+      "title": "SEO Implementation",
+      "description": "We implement comprehensive SEO strategies to boost your visibility and attract qualified leads to your website.",
+      "duration": "2-3 weeks",
+      "deliverable1": "On-Page SEO",
+      "deliverable2": "Technical SEO",
+      "deliverable3": "Content Optimization",
+      "deliverable4": "Local SEO Setup"
+    },
+    "step5": {
+      "title": "Launch & Testing",
+      "description": "Comprehensive testing and optimization ensure your website performs flawlessly across all devices before launch.",
+      "duration": "1-2 weeks",
+      "deliverable1": "Cross-Browser Testing",
+      "deliverable2": "Mobile Testing",
+      "deliverable3": "Speed Optimization",
+      "deliverable4": "Security Setup"
+    },
+    "step6": {
+      "title": "Growth & Optimization",
+      "description": "Ongoing support, monitoring, and optimization to ensure continuous growth and improvement of your digital presence.",
+      "duration": "Ongoing",
+      "deliverable1": "Performance Monitoring",
+      "deliverable2": "SEO Tracking",
+      "deliverable3": "Conversion Optimization",
+      "deliverable4": "Regular Updates"
+    }
+  },
+  "missionTitle": "Our Mission",
+  "missionText": "To help businesses of all sizes succeed online with simple, smart digital solutions. From website development and SEO to e-commerce and mobile apps, our goal is to build tools that bring real results, more visitors, more customers and steady growth.",
+  "missionImgAlt": "mission-focused web, SEO, and app development planning",
+  "visionTitle": "Our Vision",
+  "visionText": "We build long-term success stories together with people who trust us. Clear ideas, a professional team, honest work and measurable impact - that's what we stand for.",
+  "testimonialsTitle": "What Our Clients Say",
+  "testimonialsSubtitle": "Our clients report over 50% more visibility & revenue!",
+  "testimonial1Client": "Paul",
+  "testimonial1Text": "BW-Digit transformed our online presence with a stunning new website. Their web design team is top-notch!",
+  "testimonial1Service": "Web Design",
+  "testimonial2Client": "Maximilian",
+  "testimonial2Text": "Our marketing efforts have seen a significant boost since partnering with BW-Digit. Highly recommend their marketing services.",
+  "testimonial2Service": "Marketing",
+  "testimonial3Client": "Marie",
+  "testimonial3Text": "Thanks to BW-Digit, our website now ranks higher in search results. Their SEO expertise is evident.",
+  "testimonial3Service": "SEO",
+  "testimonial4Client": "Sophi",
+  "testimonial4Text": "BW-Digit developed a custom solution that perfectly fits our unique business needs. Exceptional work!",
+  "testimonial4Service": "Custom Solutions",
+  "testimonial5Client": "Jonas",
+  "testimonial5Text": "The technical perfection of our new platform is impressive. BW-Digit delivered beyond our expectations.",
+  "testimonial5Service": "Technical Perfection",
+  "testimonial6Client": "Lina",
+  "testimonial6Text": "Working with BW-Digit on our web design project was a breeze. They are creative and professional.",
+  "testimonial6Service": "Web Design",
+  "testimonial7Client": "Leon",
+  "testimonial7Text": "BW-Digit's marketing strategies have driven real results for our business. We couldn't be happier.",
+  "testimonial7Service": "Marketing",
+  "testimonial8Client": "Lea",
+  "testimonial8Text": "Our search engine visibility has improved dramatically since we started using BW-Digit's SEO services.",
+  "testimonial8Service": "SEO",
+  "testimonial9Client": "Hannah",
+  "testimonial9Text": "The custom software solution BW-Digit built for us has streamlined our operations significantly.",
+  "testimonial9Service": "Custom Solutions",
+  "testimonial10Client": "Finn",
+  "testimonial10Text": "BW-Digit ensures that our website runs flawlessly. Their commitment to technical perfection is commendable.",
+  "testimonial10Service": "Technical Perfection",
+  "testimonial11Client": "Mia",
+  "testimonial11Text": "The web design services provided by BW-Digit exceeded our expectations. Our new site is both beautiful and functional.",
+  "testimonial11Service": "Web Design",
+  "testimonial12Client": "Lucas",
+  "testimonial12Text": "BW-Digit's marketing team is knowledgeable and effective. They've helped us reach a wider audience.",
+  "testimonial12Service": "Marketing",
+  "testimonial13Client": "Emma",
+  "testimonial13Text": "We are extremely satisfied with the SEO results achieved by BW-Digit. Our organic traffic has increased substantially.",
+  "testimonial13Service": "SEO",
+  "faqTitle": "Frequently Asked Questions (FAQ)",
+  "faqSubtitle": "Find more answers here - or contact us directly for further questions!",
+  "faqQ1": "What does professional web design cost at BW Digit?",
+  "faqA1": "Costs depend on the project scope. Contact us for a personalized quote!",
+  "faqQ2": "How long does it take to create a new website?",
+  "faqA2": "Typically, it takes 4-6 weeks depending on the complexity.",
+  "faqQ3": "Does BW Digit offer SEO optimization?",
+  "faqA3": "Yes, we provide comprehensive SEO services.",
+  "faqQ4": "Can existing websites be redesigned?",
+  "faqA4": "Absolutely, we specialize in redesigning existing websites.",
+  "faqQ5": "Does BW Digit support e-commerce projects?",
+  "faqA5": "Yes, we have extensive experience with e-commerce solutions.",
+  "contactTitle": "Contact",
+  "contactSubtitle": "Get started today — secure your free initial consultation now!",
+  "email": "info@bwdigit.com",
+  "phone": "+49 172 8137111",
+  "footer.home": "Home",
+  "footer.whatWeDeliver": "What We Deliver",
+  "footer.services": "Services",
+  "footer.whyChooseUs": "Why Choose Us",
+  "footer.coreCompetencies": "Core Competencies",
+  "footer.howWeWork": "How We Work",
+  "footer.aboutUs": "About Us",
+  "footer.missionVision": "Mission & Vision",
+  "footer.faq": "FAQ",
+  "footer.testimonials": "Testimonials",
+  "footer.contactUs": "Contact Us",
+  "privacyPolicyTitle": "Privacy Policy",
+  "privacyPolicyHeroSubtitle": "Your trust and data security are paramount to us.",
+  "privacyPolicyCtaTitle": "Have Questions About Your Data?",
+  "privacyPolicyCtaText": "We're here to help. Contact us for any inquiries regarding your personal data and our privacy practices.",
+  "privacyPolicyCtaButton": "Contact Support",
+  "footer.newsletterSuccess": "Successfully subscribed to our newsletter!",
+  "footer.tagline": "Transforming businesses through innovative digital solutions. Get started with our expert team today.",
+  "footer.emailPlaceholder": "Enter your email here",
+  "footer.navigationTitle": "Navigation",
+  "footer.exploreTitle": "Explore",
+  "footer.infoTitle": "Info",
+  "footer.enButton": "EN",
+  "footer.deButton": "DE",
+  "footer.srButton": "SR",
+  "footer.copyright": "© {currentYear} BW Digit. All rights reserved.",
+  "footer.socialTitle": "Follow Us",
+  "footer.socialLinkedIn": "LinkedIn",
+  "footer.socialInstagram": "Instagram",
+  "footer.socialFacebook": "Facebook",
+  "footer.socialPinterest": "Pinterest",
+  "footer.socialTiktok": "TikTok",
+  "footer.socialYoutube": "YouTube",
+  "faq.stillHaveQuestionsTitle": "Still Have Questions?",
+  "faq.stillHaveQuestionsText": "No worries, we're happy to help. Whether you're planning a project or just curious about what we do, reach out anytime. Let’s have a quick chat and see how we can support you.",
+  "faq.contactUsButton": "Contact Us Today",
+  "faq.scheduleCallButton": "Schedule a Call",
+  "faq.quickResponse": "Quick Response",
+  "faq.freeConsultation": "Free Consultation",
+  "faq.expertSupport": "Expert Support",
+  "contactForm": {
+    "title": "Tell Us About Your Project",
+    "fullNameLabel": "Full Name *",
+    "fullNamePlaceholder": "Your full name",
+    "emailLabel": "Email Address *",
+    "emailPlaceholder": "your.email@example.com",
+    "companyNameLabel": "Company Name",
+    "companyNamePlaceholder": "Your company name",
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "+1 (555) 123-4567",
+    "serviceNeededLabel": "Service Needed",
+    "serviceSelectDefault": "Select a service",
+    "projectBudgetLabel": "Project Budget",
+    "budgetSelectDefault": "Select budget range",
+    "projectDetailsLabel": "Project Details *",
+    "projectDetailsPlaceholder": "Tell us about your project, goals, timeline, and any specific requirements...",
+    "sendMessageButton": "Send Message",
+    "sendingMessage": "Sending Message...",
+    "successMessage": "Thank you for your message! We'll get back to you within 24 hours.",
+    "errorMessage": "Something went wrong. Please try again or contact us directly.",
+    "serviceOptions": {
+      "webDevelopment": "Web Development",
+      "mobileAppDevelopment": "Mobile App Development",
+      "uiUxDesign": "UI/UX Design",
+      "digitalMarketing": "Digital Marketing",
+      "ecommerceSolutions": "E-commerce Solutions",
+      "consulting": "Consulting",
+      "other": "Other"
+    },
+    "budgetOptions": {
+      "under1k": "Under $1,000",
+      "between1kAnd5k": "$1,000 - $5,000",
+      "between5kAnd15k": "$5,000 - $15,000",
+      "between15kAnd30k": "$15,000 - $30,000",
+      "over30k": "Over $30,000",
+      "needConsultation": "Need consultation"
+    }
+  },
+  "services": {
+    "common": {
+      "relatedServices": {
+        "title": "Related Services",
+        "learnMore": "Learn More"
+      }
+    },
+    "mobile": {
+      "features": {
+        "title": "What We Offer",
+        "description": "Full-cycle mobile app development services tailored to your needs",
+        "items": {
+          "ios": {
+            "title": "iOS & Android Development",
+            "description": "Native app development for both major platforms",
+            "highlights": {
+              "swift": "Swift for iOS development",
+              "kotlin": "Kotlin for Android apps",
+              "performance": "Native performance and features",
+              "guidelines": "Platform-specific design guidelines"
+            }
+          },
+          "cross": {
+            "title": "Cross-Platform Solutions",
+            "description": "Efficient development for multiple platforms",
+            "highlights": {
+              "flutter": "Flutter for cross-platform apps",
+              "react": "React Native development",
+              "code": "Single codebase efficiency",
+              "experience": "Consistent user experience"
+            }
+          },
+          "complete": {
+            "title": "Complete App Services",
+            "description": "End-to-end app development support",
+            "highlights": {
+              "design": "UI/UX design and prototyping",
+              "backend": "Backend development",
+              "api": "API integration",
+              "publishing": "App store publishing"
+            }
+          }
+        }
+      }
+    },
+    "uiux": {
+      "tags": {
+        "ui": "UI Design",
+        "ux": "UX Design",
+        "userInterface": "User Interface",
+        "userExperience": "User Experience",
+        "productDesign": "Product Design",
+        "usability": "Usability",
+        "wireframes": "Wireframes",
+        "responsiveDesign": "Responsive Design",
+        "appUi": "App UI",
+        "figma": "Figma",
+        "userFlow": "User Flow",
+        "conversion": "Conversion"
+      }
+    }
+  },
+  "contactInfo": {
+    "office": {
+      "title": "Office",
+      "info": "Kolonnenstrasse 8, 10827, Berlin"
+    },
+    "businessHours": {
+      "title": "Business Hours",
+      "info": "Mon-Fri: 9AM-6PM EST"
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Us?",
+      "freeConsultation": {
+        "title": "Free Consultation",
+        "description": "Initial project assessment and strategic advice at no cost"
+      },
+      "quickResponse": {
+        "title": "Quick Response",
+        "description": "We respond to all inquiries within 24 hours"
+      },
+      "expertTeam": {
+        "title": "Expert Team",
+        "description": "Experienced professionals dedicated to your success"
+      }
+    },
+    "followUs": {
+      "title": "Follow Us"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "aboutUs": "About Us",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contactUs": "Contact",
+    "cta": "Book a Free Consultation",
+    "whatWeDeliver": "What We Deliver",
+    "servicesDropdown": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive digital solutions for your business",
+      "items": {
+        "uiUxDesign": {
+          "title": "UI/UX Design",
+          "description": "User-centered design solutions"
+        },
+        "aiAutomation": {
+          "title": "AI Automation",
+          "description": "Intelligent process automation"
+        },
+        "ecommerce": {
+          "title": "E-commerce Solutions",
+          "description": "Custom online stores"
+        },
+        "marketingSeo": {
+          "title": "Marketing & SEO",
+          "description": "Digital marketing strategies"
+        },
+        "mobileAppDev": {
+          "title": "Mobile App Development",
+          "description": "Native & cross-platform apps"
+        },
+        "customWebDev": {
+          "title": "Custom Web Development",
+          "description": "Scalable, secure web solutions"
+        }
+      }
+    }
+  },
+  "portfolio": {
+    "title": "See Our Work",
+    "subtitle": "Explore our latest real-world projects.",
+    "projects": {
+      "backpackwanderorg": {
+        "title": "Backpack Wander (ORG)",
+        "description": "A global community for wanderers, creators, and changemakers. Find your tribe, join retreats, and explore digital nomad and eco-living resources.",
+        "tags": ["Community", "Retreats", "Digital Nomads", "Eco Living"],
+        "button": "View Project"
+      },
+      "backpackwanderde": {
+        "title": "Backpack Wander (DE)",
+        "description": "The German-speaking platform for retreats, coaching, sustainable living, and digital skills. Find like-minded people and new inspiration.",
+        "tags": ["Retreats", "Coaching", "Nachhaltigkeit", "Community"],
+        "button": "View Project"
+      },
+      "setfreeway": {
+        "title": "Set Freeway Coaching",
+        "description": "Personal coaching to help you break free from the 9-to-5, reduce stress, and find fulfillment. Online programs, real results, and a supportive community.",
+        "tags": ["Coaching", "Personal Growth", "Freedom", "Online Program"],
+        "button": "View Project"
+      },
+      "bwdigit": {
+        "title": "BW Digit",
+        "description": "Digital agency for web, SEO, and e-commerce. We build custom websites, online stores, and digital solutions for small businesses and creators.",
+        "tags": ["Web Development", "SEO", "E-commerce", "Agency"],
+        "button": "View Project"
+      },
+      "backpackwanderstore": {
+        "title": "Backpack Wander Store",
+        "description": "Eco-friendly, solar-powered gear and travel essentials for adventurers. Shop curated products for camping, hiking, and sustainable travel.",
+        "tags": ["E-commerce", "Travel Gear", "Sustainability", "Shop"],
+        "button": "View Project"
+      }
+    },
+    "ctaText": "Interested in working with us on your next project?",
+    "ctaButton": "Start Your Project"
+  },
+  "whatWeDeliver": {
+    "title": "What We Deliver",
+    "imageAlt": "digital agency services by BW Digit",
+    "subtitle": "We provide more than just appealing designs – we create digital strategies that make your brand visible and successful.",
+    "cards": {
+      "customSolutions": {
+        "title": "Custom Solutions:",
+        "description": "Tailored designs and strategies that authentically reflect your vision."
+      },
+      "seoExcellence": {
+        "title": "SEO Excellence:",
+        "description": "Better rankings, more traffic, and sustainable business growth"
+      },
+      "technicalPerfection": {
+        "title": "Technical Perfection:",
+        "description": "Fast loading times, mobile optimization, and top functionality."
+      }
+    }
+  },
+  "privacyPolicy": {
+    "tocTitle": "Table of Contents",
+    "sections": {
+      "generalStatement": {
+        "title": "General Statement",
+        "content": "Your privacy is important to us.\n\nBackpack Wander GmbH takes the protection of your personal data very seriously and adheres to the applicable data protection laws."
+      },
+      "responsibleEntity": {
+        "title": "Responsible Entity",
+        "content": "Responsible body:\nBackpack Wander GmbH\nKolonnenstrasse 8\n10827 Berlin\nGermany\nEmail: info@bwdigit.com"
+      },
+      "useOfData": {
+        "title": "Use of Data",
+        "content": "Use of data:\n\nWe use Google Analytics to analyze the use of our website and improve our services.\nFor newsletters and email marketing, we use MailerLite.\nYour personal data will not be passed on to third parties without your express consent - unless required by law."
+      },
+      "yourRights": {
+        "title": "Your Rights",
+        "content": "You have the right to information, correction or deletion of your data at any time. If you have any questions about data protection, please contact us."
+      }
+    }
+  },
+  "sidebarContact": {
+    "successMessage": "Your message has been sent successfully!",
+    "errorMessage": "Something went wrong. Please try again.",
+    "title": "Working on something big?",
+    "description": "Share the details of your project – like scope, timeframes, or business challenges.",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email",
+    "phonePlaceholder": "Phone",
+    "messagePlaceholder": "Message",
+    "servicesTitle": "I'm looking into",
+    "serviceCustomWebsites": "Custom Websites",
+    "serviceWordPress": "WordPress",
+    "serviceMobileApp": "Mobile App",
+    "serviceWebDevelopment": "Web Development",
+    "serviceDigitalMarketing": "Digital Marketing",
+    "serviceSocialMediaMarketing": "Social Media Marketing",
+    "submitting": "SUBMITTING...",
+    "submit": "SUBMIT"
+  },
+  "services": {
+    "common": {
+      "relatedServices": {
+        "title": "Related Services",
+        "learnMore": "Saznaj više"
+      }
+    },
+    "mobileAppFeatures": {
+      "subtitle": "Fast and reliable app development for all platforms",
+      "feature1": "Native & cross-platform development",
+      "feature2": "iOS & Android apps",
+      "feature3": "App store optimization",
+      "feature4": "Maintenance & updates"
+    },
+    "uiUxFeatures": {
+      "subtitle": "Interfaces built for clarity, engagement, and usability",
+      "feature1": "User-centered design",
+      "feature2": "Wireframing & prototyping",
+      "feature3": "Visual design",
+      "feature4": "Usability testing"
+    },
+    "ecommerceFeatures": {
+      "subtitle": "Custom Shopify & WooCommerce development",
+      "feature1": "Shopify development",
+      "feature2": "WooCommerce solutions",
+      "feature3": "Payment gateway integration",
+      "feature4": "Inventory management"
+    },
+    "consultingFeatures": {
+      "subtitle": "Strategic guidance for growth and digital transformation",
+      "feature1": "Digital strategy",
+      "feature2": "Technology consulting",
+      "feature3": "Performance analysis",
+      "feature4": "Growth planning"
+    },
+    "uiux": {
+      "hero": {
+        "title": "Smart UI/UX Design That Moves Users to Action",
+        "subtitle": "Transform Your Digital Experience",
+        "description": "At BW Digit, we create websites and apps that feel simple from the first click, designed to guide, respond and convert with minimal effort.",
+        "imageAlt": "Figma-based UI/UX design for websites and apps ",
+        "preCta": "Fast. Clear. Easy to use.",
+        "cta": "Get Started"
+      },
+      "customDesign": {
+        "title": "Custom UI/UX Design Services",
+        "subtitle": "Built Around How People Use Your Product",
+        "description": "We craft layouts that are easy to follow and enjoyable to use, with every detail tuned for clarity and smooth interaction. Whether launching something new or improving an existing product, we focus on making every click count.",
+        "imageAlt": "Responsive UI/UX design with figma wireframes and prototypes"
+      },
+      "services": {
+        "title": "Our UI/UX Design Services",
+        "servicesTitle": "What We Do",
+        "items": {
+          "ui": "UI aligned with your brand to build trust",
+          "uxResearch": "UX research grounded in heatmaps, A/B tests & analytics",
+          "wireframing": "Wireframes and clickable prototypes",
+          "usability": "Easy-to-use mobile and desktop layouts",
+          "mobileFirst": "Full revamps or small updates that improve results",
+          "redesign": "Accessibility-friendly design for better reach and inclusivity"
+        },
+        "bottomLine": "🎯 Everything we design helps users find what they need faster and act with confidence."
+      },
+      "delivery": {
+        "title": "What You Get",
+        "subtitle": "Our Collaborative Design Process From Idea to Clickable Prototype",
+        "description": "You’ll work directly with our designers to shape designs that align with your brand and work best for your users.",
+        "items": {
+          "personas": {
+            "title": "User Flows & Personas",
+            "description": "We map how real users move through your site or app, helping us design with purpose and clarity."
+          },
+          "mockups": {
+            "title": "High-Fidelity Mockups",
+            "description": "Clear, detailed visuals that show exactly how your product will look before development begins."
+          },
+          "prototypes": {
+            "title": "Clickable Prototypes",
+            "description": "Interactive demos to test before launch. Experience your product like a real user would!"
+          },
+          "workshops": {
+            "title": "Design Workshops",
+            "description": "We run hands-on sessions to shape your ideas and align them with your brand and business goals."
+          }
+        }
+      },
+      "targetAudience": {
+        "title": "Who Benefits from UI/UX Design?",
+        "description": "Our UI/UX design services help growing teams, startups, SaaS tools and E-commerce brands solve key user experience problems to raise engagement and conversion rates.",
+        "items": {
+          "startups": "Startups launching MVPs that need simple, clear user flows",
+          "businesses": "Businesses updating old websites or apps that no longer feel modern and need fresh structure",
+          "saas": "SaaS platforms looking to improve user retention and ease of use",
+          "ecommerce": "eCommerce stores that want to increase sales and reduce cart abandonment "
+        },
+        "bottomLine": "🧠 If users get stuck or leave too soon, we redesign the experience to keep them engaged."
+      },
+      "technologies": {
+        "title": " Design Tools That Fit Your Workflow",
+        "description": "We use design tools that make collaboration easy, letting reviews and feedbacks faster. Developers know and clients love Platforms like Figma, Adobe XD and InVision.",
+        "tools": {
+          "figma": "Figma",
+          "adobexd": "Adobe XD",
+          "sketch": "Sketch",
+          "invision": "InVision",
+          "miro": "Miro",
+          "webflow": "Webflow"
+        }
+      },
+      "specialOffer": {
+        "badge": "Special Offer",
+        "title": "High-Converting Landing Page UI/UX Redesign Services",
+        "subtitle": "Need better results from your landing page? Struggling with low conversions? Let’s Fix That.",
+        "description": "It will be visually aligned with your brand, load fast and get more clicks. Here's what's included:",
+        "features": {
+          "strategy": "UX strategy based on user behavior",
+          "wireframe": "Wireframes and interactive prototypes",
+          "design": "Clean, modern UI that fits your brand",
+          "revisions": "Up to 2 rounds of revisions for fine-tuning design",
+          "consultation": "1-hour strategy call with our design team"
+        },
+        "valueProps": {
+          "quick": "Quick turnaround for fast launches",
+          "conversion": "Layouts built to convert",
+          "userCentered": "Focus on ease of use and clear messaging",
+          "perfect": "We redesign underperforming landing pages into fast, mobile-first layouts optimized for speed, with a clear call to action. All designs are optimized for Core Web Vitals and built to meet Google's UX standards."
+        },
+        "cta": {
+          "title": "Get Started Now",
+          "description": "We redesign underperforming landing pages into fast, mobile-first layouts optimized for speed, with a clear call to action. All designs are optimized for Core Web Vitals and built to meet Google's UX standards.",
+          "bottomLine1": "Ideal for product launches, service pages and lead generation campaigns.",
+          "bottomLine2": "Results: Faster load times, better engagement, more signups",
+          "btn1": "Get Started Now",
+          "btn2": "🔍 View Examples"
+        }
+      },
+      "projects": {
+        "title": "Real UI/UX Projects, Real Results",
+        "subtitle": "From SaaS dashboards to eCommerce flows, our design work helps clients improve clarity, reduce drop-offs and grow sustainably. Every design is crafted to guide users toward action and help our clients achieve measurable growth.",
+        "items": {
+          "swiftshop": {
+            "title": "SwiftShop Mobile App",
+            "description": "E-commerce app with QR product scanning and synchronized shopping cart"
+          },
+          "artisan": {
+            "title": "Artisan Goods Marketplace",
+            "description": "Multi-vendor marketplace with custom payment solutions"
+          },
+          "greenfit": {
+            "title": "GreenFit Store",
+            "description": "WooCommerce store with automated inventory management"
+          }
+        }
+      },
+      "internalLinks": {
+        "title": "Related Services",
+        "items": {
+          "ai": "AI Automation",
+          "mobile": "Mobile App Development",
+          "marketing": "Marketing & SEO",
+          "contact": "Contact Us",
+          "ecommerce": "E-commerce Solutions"
+        }
+      },
+      "keywords": {
+        "ui": "UI Design",
+        "ux": "UX Design",
+        "userInterface": "User Interface",
+        "userExperience": "User Experience",
+        "productDesign": "Product Design",
+        "usability": "Usability",
+        "wireframes": "Wireframes",
+        "responsive": "Responsive Design",
+        "appUi": "App UI",
+        "figma": "Figma",
+        "userFlow": "User Flow",
+        "conversion": "Conversion"
+      },
+      "testimonials": {
+        "title": "What Clients Say About Our UI/UX Design Work",
+        "subtitle": "Real feedback from businesses we've helped improve their websites, apps and user journeys. See what clients say who’ve doubled their conversion rates and reduced bounce by 40% after redesigning with BW Digit’s UI/UX experts:",
+        "items": {
+          "ana": {
+            "author": "Ana R.",
+            "position": "Product Manager",
+            "quote": "BW Digit transformed our product's user experience. The new design is not only beautiful but also significantly improved our user engagement metrics."
+          },
+          "thomas": {
+            "author": "Thomas B.",
+            "position": "CEO & Founder",
+            "quote": "Their UI/UX design expertise helped us create an intuitive and modern interface that our customers love. The results exceeded our expectations."
+          },
+          "julia": {
+            "author": "Julia W.",
+            "position": "Marketing Director",
+            "quote": "Working with BW Digit was a game-changer for our digital presence. Their design approach perfectly balanced aesthetics and functionality."
+          },
+          "maya": {
+            "author": "Maya D.",
+            "position": "UX Lead",
+            "quote": "The team's attention to detail and user-centric approach helped us create a product that truly resonates with our target audience."
+          },
+          "laura": {
+            "author": "Laura H.",
+            "position": "E-commerce Manager",
+            "quote": "Our conversion rates improved significantly after implementing BW Digit's UI/UX recommendations. Their expertise in e-commerce design is outstanding."
+          }
+        }
+      },
+      "finalCta": {
+        "title": "Want a Landing Page That Brings in More Leads and Converts Better?",
+        "description": "Don’t settle for a layout that just looks good. Let’s design one that delivers faster load times, better UX, and more conversions across devices.",
+        "consultation": "Book a Free Consultation",
+        "quote": "Request a Free Quote"
+      }
+    },
+    "ai": {
+      "hero": {
+        "title": "AI and Automation Solutions ",
+        "description": "We build smart AI tools to automate tasks, save time and help your business grow, whether you run a startup, online shop or freelance business.",
+        "imageAlt": "AI automation for smooth business workflows",
+        "cta": "Get started!"
+      },
+      "features": {
+        "title": "What You'll Find Inside",
+        "subtitle": "AI Tools That Make Work Easier ",
+        "description": "We offer tested AI tools and resources that help you save time, stay organized, and run your business more smoothly.",
+        "items": {
+          "tools": {
+            "title": "Smart AI Tools & Integrations ",
+            "description": "Tools for writing, scheduling and automation with guides to help you start fast:",
+            "highlights": {
+              "chatgpt": "ChatGPT integration setups",
+              "writing": "AI writing tools for faster content",
+              "scheduling": "Scheduling and time management apps",
+              "analysis": "Data analysis powered by AI"
+            }
+          },
+          "guides": {
+            "title": "Step-by-Step Guides ",
+            "description": "Simple tutorials to help you automate everyday tasks like content planning, onboarding and emails:",
+            "highlights": {
+              "video": "How-to videos and written walkthroughs",
+              "docs": "Setup tips and best practices",
+              "practices": "Easy workflows you can use today",
+              "tips": "Dedicated support for custom setups"
+            }
+          },
+          "practical": {
+            "title": "Everyday AI in Action ",
+            "description": "See how AI fits into your daily business routine without extra tools or tech stress",
+            "highlights": {
+              "email": "Write better emails faster",
+              "tasks": "Prioritize tasks with AI tools",
+              "meetings": "Get meeting summaries and smart suggestions"
+            }
+          },
+          "templates": {
+            "title": "Ready-to-Use Templates ",
+            "description": "Save time with plug-and-play templates for Notion, Airtable and Canva built to simplify your workday:",
+            "highlights": {
+              "projects": "Project management templates",
+              "workflows": "Workflow automations",
+              "process": "Standard operating procedure (SOP) docs",
+              "integrations": "Easy to connect with your tools"
+            }
+          },
+          "courses": {
+            "title": "Courses & Learning Resources ",
+            "description": "Learn to use AI for real business tasks with short, practical content:",
+            "highlights": {
+              "video": "Short video courses",
+              "cases": "Real-world case studies",
+              "interviews": "Interviews with experts",
+              "implementation": "Practical implementation guides"
+            }
+          }
+        }
+      },
+      "targetAudience": {
+        "title": "Who Can Use Our AI & Automation Tools?",
+        "description": "Our solutions are built for anyone who wants to save time, reduce manual tasks and work smarter.",
+        "items": {
+          "freelancers": "Freelancers & solopreneurs",
+          "creators": "Content creators & bloggers",
+          "entrepreneurs": "Online entrepreneurs",
+          "remote": "Remote workers & digital nomads",
+          "anyone": "Small Business Owners"
+        },
+        "bottomLine": "If your to-do list keeps growing, we’ll help you shrink it with automation that actually works."
+      },
+      "benefits": {
+        "title": "What you get with our AI and automation services ",
+        "subtitle": "Everything you need to start saving time and working smarter whether you’re just getting started or looking to scale.",
+        "imageAlt": " AI tools and automation support",
+        "items": {
+          "tools": "Free and Premium AI Tools",
+          "consulting": "1-on-1 Consulting",
+          "templates": "Ready-Made Templates & Toolkits",
+          "solutions": "Custom AI Solutions"
+        }
+      },
+      "resources": {
+        "title": "Popular AI & Automation Resources",
+        "subtitle": "Use our most popular tools and guides to save time and boost productivity.",
+        "items": {
+          "chatgpt": {
+            "title": "How to Use ChatGPT for Freelance Writing",
+            "description": "A full walkthrough on using AI for content creation, with ready-to-use prompts and writing workflows.",
+            "category": "AI Writing Guide"
+          },
+          "business": {
+            "title": "AI-Powered Business Plan Generator (Notion)",
+            "description": "Quickly create professional business plans using our AI-integrated Notion template",
+            "category": "Business Plan Template"
+          },
+          "automation": {
+            "title": "Save Time with Notion + Zapier",
+            "description": "Step-by-step guide to automate your daily tasks across tools like Notion, Gmail, Slack and more.",
+            "category": "Workflow Automation Tutorial"
+          }
+        }
+      },
+      "cta": {
+        "title": "Get Started with AI Automation  Without the Overwhelm",
+        "description": "Cut down on repetitive tasks and focus on work that actually moves your business forward.",
+        "buttons": {
+          "explore": "Explore Tools Now",
+          "book": "Book Your Free Call"
+        },
+        "features": {
+          "time": "Explore Resources ",
+          "timeDesc": "Tools, templates and guides to help you get started",
+          "automation": "Book a 1:1 Session ",
+          "automationDesc": "Personalized support to build your automation plan",
+          "growth": "Work Smarter",
+          "growthDesc": "Use AI to handle the busywork and free up your time",
+          "scale": "Scale Faster",
+          "scaleDesc": "Set up systems that help your business grow without the extra workload"
+        }
+      },
+      "testimonials": {
+        "title": "What Our Clients Say",
+        "subtitle": "Real experiences from businesses using our AI solutions",
+        "items": {
+          "michael": {
+            "author": "Michael S.",
+            "position": "Content Director at Digital Media GmbH",
+            "quote": "The AI automation tools have transformed our content workflow. We're now producing twice the content in half the time."
+          },
+          "lisa": {
+            "author": "Lisa F.",
+            "position": "Operations Manager at ConsultPro",
+            "quote": "Implementing their automation solutions has streamlined our operations significantly. The ROI was immediate."
+          },
+          "david": {
+            "author": "David R.",
+            "position": "Independent Business Coach",
+            "quote": "Their AI tools have helped me scale my coaching business. I can now focus on what matters - my clients."
+          },
+          "christina": {
+            "author": "Christina H.",
+            "position": "Customer Success Lead at TechStart",
+            "quote": "The customer onboarding automation has been a game-changer. Our satisfaction scores have never been higher."
+          },
+          "robert": {
+            "author": "Robert M.",
+            "position": "Product Owner at DataInsights AG",
+            "quote": "BW Digit's AI solutions have revolutionized how we handle data. The insights we get are invaluable."
+          }
+        }
+      },
+      "projects": {
+        "title": "Featured Projects",
+        "subtitle": "Explore our successful AI automation implementations",
+        "items": {
+          "onboarding": {
+            "title": "Automation for Client Onboarding",
+            "description": "Custom Notion + Zapier setup for a coaching business"
+          },
+          "toolkit": {
+            "title": "AI Toolkit for Freelancers",
+            "description": "Bundle of templates & guides for building a scalable service business"
+          }
+        }
+      },
+      "tools": {
+        "title": "Tools We Use",
+        "notion": "Notion - Workspace & Knowledge Base",
+        "zapier": "Zapier - Workflow Automation",
+        "openai": "OpenAI - AI Integration",
+        "airtable": "Airtable - Data Management",
+        "canva": "Canva - Design Automation",
+        "slack": "Slack - Team Communication"
+      },
+      "internalLinks": {
+        "title": "Related Services",
+        "items": {
+          "uiux": "UI/UX Design",
+          "mobile": "Mobile App Development",
+          "marketing": "Marketing & SEO",
+          "contact": "Contact",
+          "ecommerce": "eCommerce Solutions"
+        }
+      },
+      "keywords": {
+        "tools": "AI tools",
+        "automation": "business automation",
+        "workflow": "automate workflow",
+        "freelance": "freelance AI resources",
+        "productivity": "AI productivity",
+        "solopreneurs": "automation for solopreneurs",
+        "notion": "Notion AI",
+        "zapier": "Zapier workflows",
+        "entrepreneurs": "AI for entrepreneurs"
+      }
+    },
+    "mobile": {
+      "hero": {
+        "title": "Custom Mobile App Development",
+        "description": "We build mobile apps that are fast, reliable, and easy to use whether you're starting a new project or improving an existing one. At BW Digit, we transform your app idea into a functional product with a clean design and smart, scalable technology.",
+        "bullets": {
+          "one": "👉 Responsive. Reliable. Designed to Scale.",
+          "two": "🎯 Let’s build an app that users love!",
+          "three": "📞 Get Started Today"
+        },
+        "imageAlt": "responsive mobile application design"
+      },
+      "features": {
+        "title": "What We Offer",
+        "description": "We provide full-cycle mobile app development services from initial concept to final launch, built around your business goals.",
+        "imgAlt": "iOS and Android app solutions",
+        "items": {
+          "ios": {
+            "title": "iOS & Android Native App Development",
+            "description": "We craft high-performance native apps tailored for each platform:",
+            "highlights": {
+              "swift": "Swift development for iOS",
+              "kotlin": "Kotlin development for Android",
+              "performance": "Fast, stable apps with native features",
+              "guidelines": "UI designs aligned with Apple and Google guidelines"
+            }
+          },
+          "cross": {
+            "title": "Cross-Platform App Solutions",
+            "description": "Build once and run everywhere:",
+            "highlights": {
+              "flutter": "Flutter app development",
+              "react": "React Native for iOS & Android",
+              "code": "Unified codebase = consistent experience",
+              "experience": "Reduced development time and cost"
+            }
+          },
+          "complete": {
+            "title": "End-to-End Mobile App Services",
+            "description": "We handle the entire development process so you don’t have to:",
+            "highlights": {
+              "design": "User-focused UI/UX design & prototyping",
+              "backend": "Scalable backend systems and API integrations",
+              "api": "QA testing, app optimization and publishing",
+              "publishing": "Full support for App Store and Google Play submission"
+            }
+          },
+          "fastDevelopment": {
+            "title": "Fast Development",
+            "description": "Quick turnaround with quality code"
+          },
+          "cleanCode": {
+            "title": "Clean Code",
+            "description": "Maintainable & scalable architecture"
+          },
+          "scalable": {
+            "title": "Robust Backend",
+            "description": "Secure & scalable infrastructure"
+          }
+        }
+      },
+      "whyChooseUs": {
+        "title": "Why Choose Us?",
+        "items": {
+          "fullCycle": "Full-cycle development from idea to launch",
+          "tailored": "100% tailored to your business model",
+          "clean": "Clean, scalable code using modern frameworks",
+          "transparent": "Transparent process and continuous communication"
+        },
+        "imageAlt": "Mobile App Development Process"
+      },
+      "technologies": {
+        "title": "Technologies We Use to Build Your App",
+        "description": "We work with modern, reliable technologies to ensure your app runs smoothly, loads fast, is bug-free and scales with your business.",
+        "items": {
+          "flutter": "Flutter",
+          "react": "React Native",
+          "swift": "Swift",
+          "kotlin": "Kotlin",
+          "nodejs": "Node.js",
+          "firebase": "Firebase",
+          "aws": "AWS",
+          "mongodb": "MongoDB",
+          "graphql": "GraphQL",
+          "laravel": "Laravel"
+        }
+      },
+      "useCases": {
+        "title": "Where Mobile Apps Make a Real Difference",
+        "subtitle": "Our mobile app solutions are built to match the needs of your business and industry. Here's how we help companies grow through smart, effective apps:",
+        "items": {
+          "onDemand": {
+            "title": "On-demand service apps",
+            "description": "Delivery, healthcare, or home repair give your users instant access and smooth booking experiences!",
+            "linkText": "Explore Solution"
+          },
+          "business": {
+            "title": "Business productivity tools",
+            "description": "Improve workflows, communication, and team coordination with smart mobile tools and task management.",
+            "linkText": "See in Action"
+          },
+          "ecommerce": {
+            "title": "E-commerce & marketplace apps",
+            "description": "Give your customers a smooth shopping experience, from browsing to checkout, with secure payment integration.",
+            "linkText": "See How It Works"
+          },
+          "travel": {
+            "title": "Travel and lifestyle",
+            "description": "Create engaging mobile experiences that support users on the go from planning trips to finding local recommendations. Perfect for tourism, events, and local guides.",
+            "linkText": "Explore Solution"
+          },
+          "social": {
+            "title": "Social networking apps",
+            "description": "Launch platforms for community, messaging, and real-time interaction with strong backend performance and modern UI.",
+            "linkText": "Discover More"
+          }
+        }
+      },
+      "projects": {
+        "title": "Success Stories",
+        "items": {
+          "swiftshop": {
+            "title": "SwiftShop",
+            "description": "A cross-platform mobile e-commerce app for boutique retailers. Features included QR product scanning, cart sync with desktop site, and in-app chat. Delivered in 3 months.",
+            "testimonial": {
+              "quote": "We saw a 40% increase in user engagement thanks to the app. Highly recommend BW Digit!",
+              "author": "Laura H.",
+              "location": "Austria"
+            }
+          },
+          "cleanbee": {
+            "title": "CleanBee",
+            "description": "A mobile app for booking home cleaning services, with features like live location tracking, easy scheduling, and secure in-app payments."
+          }
+        }
+      },
+      "testimonials": {
+        "title": "Client Testimonials",
+        "subtitle": "What our clients say about our mobile apps",
+        "items": {
+          "nina": {
+            "author": "Nina L.",
+            "position": "Product Manager",
+            "quote": "BW Digit turned our idea into an elegant, modern app that users love. We appreciated the regular updates and excellent design."
+          },
+          "marko": {
+            "author": "Marko B.",
+            "position": "Startup Founder",
+            "quote": "From wireframes to App Store, they managed everything smoothly. Great team, highly communicative."
+          },
+          "laura": {
+            "author": "Laura H.",
+            "position": "Marketing Director",
+            "quote": "Their expertise in mobile app development helped us create an intuitive and user-friendly application that our clients love."
+          },
+          "jovana": {
+            "author": "Jovana M.",
+            "position": "Marketing Director",
+            "quote": "Their expertise in mobile app development helped us create an intuitive and user-friendly application that our customers love."
+          },
+          "lauras": {
+            "author": "Laura S.",
+            "position": "Marketing Manager at B2B Solutions",
+            "quote": "The app they developed has streamlined our business processes and improved customer satisfaction significantly."
+          },
+          "markus": {
+            "author": "Markus H.",
+            "position": "CEO of IndustrialTech GmbH",
+            "quote": "BW Digit's technical expertise and understanding of our industry needs resulted in a powerful mobile solution."
+          },
+          "isabel": {
+            "author": "Isabel K.",
+            "position": "Email Marketing Specialist at RetailCo",
+            "quote": "The mobile app integration with our marketing tools has been seamless. Excellent work!"
+          },
+          "tim": {
+            "author": "Tim R.",
+            "position": "Performance Marketing Lead at D2C Brand",
+            "quote": "Outstanding mobile app development service. They delivered exactly what we needed, on time and within budget."
+          },
+          "anna": {
+            "author": "Anna M.",
+            "position": "Wellness Studio Owner",
+            "quote": "The app has transformed how we interact with our clients. Booking and management have never been easier."
+          }
+        }
+      },
+      "specialOffer": {
+        "title": "App Launch Package: Everything You Need to Go Live",
+        "subtitle": "Special Offer",
+        "description": "Ready to take your idea from concept to app store? Want to launch fast, without cutting corners? Our App Launch Package covers everything you need to go live with confidence.",
+        "sections": {
+          "included": {
+            "heading": "What’s Included",
+            "items": [
+              "Custom mobile app development",
+              "UI/UX design built for real users",
+              "Backend setup and third-party integration"
+            ]
+          },
+          "whatYouGet": {
+            "heading": "What You Get",
+            "items": [
+              "Free Consultation",
+              "Fast development timeline to reach the market faster",
+              "Conversion-focused design that encourages user action",
+              "User-first experience that keeps users engaged"
+            ]
+          }
+        },
+        "cta": {
+          "bottomLine": "🚀 Ideal for startups and growing businesses ready to scale.",
+          "title": "Book Your Free Consultation!"
+        }
+      },
+      "internalLinks": {
+        "title": "Explore More Services",
+        "items": {
+          "uiux": "Learn more about UI/UX Design",
+          "ecommerce": "Explore E-Commerce Solutions",
+          "web": "Need a website too? Custom Web Development",
+          "customWeb": "Custom Web Development",
+          "aiAutomation": "Streamline processes with AI Automation",
+          "marketingSeo": "Boost your brand with Marketing & SEO",
+          "discover": "Discover what we do"
+        }
+      },
+      "keywords": {
+        "development": "Mobile App Development",
+        "ios": "iOS Development",
+        "android": "Android Development",
+        "flutter": "Flutter",
+        "react": "React Native",
+        "custom": "Custom Apps",
+        "design": "App Design",
+        "germany": "Germany",
+        "cross": "Cross-Platform Development",
+        "publishing": "App Publishing"
+      },
+      "cta": {
+        "title": "Ready to Build Your Mobile App?",
+        "subtitle": "Let’s bring your vision to life with a team that builds apps users love and that grow with your business!",
+        "start_project": "Start Your Project ",
+        "get_quote": "📩 Get a Free Quote"
+      }
+    },
+    "ecommerce": {
+      "hero": {
+        "title": "E-Commerce Solutions That Help You Sell More",
+        "description": "From new online stores to fast-growing brands, BW Digit builds e-commerce websites that are secure, mobile-ready and designed to turn visitors into buyers on every device.",
+        "ctaBtn": "Book a Free Strategy Call",
+        "imageAlt": "custom e-commerce website solution for online stores"
+      },
+      "features": {
+        "title": "What We Offer for Your Online Store",
+        "subtitle": "Complete E-Commerce Solutions",
+        "description": "We build e-commerce websites that are fast, secure and designed to help you grow whether you're starting fresh or scaling up:.",
+        "items": {
+          "store": {
+            "title": "Custom Store Development",
+            "description": "Build your online store with the right tools Shopify, WooCommerce or custom CMS solutions.",
+            "highlights": {
+              "theme": "Custom themes that match your brand",
+              "plugin": "Plugin and app integrations",
+              "payment": "Payment gateway setup",
+              "optimization": "Store speed and structure optimization"
+            }
+          },
+          "mobile": {
+            "title": "Mobile-First Design",
+            "description": "Your store will look and function great on every screen size, especially on mobile devices.",
+            "highlights": {
+              "layouts": "Responsive layouts for phones and tablets",
+              "interface": "Easy navigation with touch-friendly design",
+              "loading": "Fast mobile load times",
+              "experience": "App-like user experience"
+            }
+          },
+          "security": {
+            "title": "Payments & Security",
+            "description": "We set up secure systems to protect customer data and build trust.",
+            "highlights": {
+              "ssl": "SSL certificate and data encryption",
+              "gateway": "Payment gateway integration (Stripe, PayPal and more)",
+              "fraud": "Built-in fraud prevention tools"
+            }
+          },
+          "language": {
+            "title": "Multi-Language & Currency Support",
+            "description": "Sell globally with stores that speak your customers’ language and match their local currency.",
+            "highlights": {
+              "switching": "Switch languages and regions based on user location",
+              "currency": "Auto currency conversion",
+              "pricing": "Local pricing and payment options"
+            }
+          },
+          "automation": {
+            "title": "Backend Automation",
+            "description": "Save time with systems that handle inventory, orders and billing in the background.",
+            "highlights": {
+              "inventory": "Real-time stock updates and alerts",
+              "orders": "Automated order processing",
+              "invoicing": "Invoicing and sales reporting"
+            }
+          }
+        }
+      },
+      "targetAudience": {
+        "title": "Industries We Serve",
+        "items": {
+          "fashion": "Fashion & Apparel",
+          "health": "Health & Wellness",
+          "education": "Education",
+          "food": "Food & Drinks",
+          "digital": "Digital Products",
+          "handmade": "Handmade & Art",
+          "saas": "SaaS",
+          "subscription": "Subscription Services"
+        }
+      },
+      "benefits": {
+        "title": "Why Work with BW Digit for E-Commerce?",
+        "subtitle": "We help businesses launch and grow online stores that are fast, secure and built to convert.",
+        "items": {
+          "scalable": {
+            "heading": "Scalable E-Commerce Development",
+            "description": "Built to grow with your business, no matter the size or product range."
+          },
+          "design": {
+            "heading": "Custom Store Design That Converts",
+            "description": "Clean, user-friendly layouts that guide visitors from product to checkout."
+          },
+          "support": {
+            "heading": "Ongoing Support & Store Optimization",
+            "description": "We help you keep things running smoothly and improve performance over time."
+          },
+          "consultation": {
+            "heading": "Free Consultation",
+            "description": "Let’s talk about your goals and how we can help you reach them."
+          }
+        }
+      },
+      "popularResources": {
+        "title": "Limited-Time Offer: E-Commerce Starter Package ",
+        "subtitle": "Launch your online store with a simple and professional setup, ideal for small businesses or product testing.",
+        "cta": "What’s Included:",
+        "items": {
+          "website": {
+            "title": "1-Page Custom E-Commerce Website",
+            "description": "A clean, high-performing landing page, built for quick setup and easy sales.",
+            "category": "Special Offer"
+          },
+          "responsive": {
+            "title": "Fully Responsive Design",
+            "description": "Looks great and works perfectly on desktop, tablet and mobile.",
+            "category": "Included"
+          },
+          "strategy": {
+            "title": "Bonus: Free Strategy Session",
+            "description": "Get a one-on-one call to plan your product, goals and launch strategy.",
+            "category": "Bonus"
+          }
+        }
+      },
+      "cta": {
+        "title": "Ready to Launch or Grow Your Online Store?",
+        "description": "Let BW Digit build an e-commerce website that loads fast, accepts secure payments and makes it easy for your customers to buy.",
+        "buttons": {
+          "strategy": "Book a Free Strategy Call",
+          "quote": "Request a Custom Quote",
+          "demo": "Get a Demo"
+        }
+      },
+      "testimonials": {
+        "title": "Client Success Stories",
+        "items": {
+          "maya": {
+            "quote": "BW Digit transformed our online store with their expertise in e-commerce development. The seamless shopping experience and secure payment integration have significantly boosted our sales.",
+            "author": "Maya D.",
+            "position": "CEO, GreenFit Store"
+          },
+          "niklas": {
+            "quote": "Working with BW Digit was a game-changer for our artisanal marketplace. Their multi-vendor solution and attention to detail created a platform that both our sellers and customers love.",
+            "author": "Niklas W.",
+            "position": "Founder, Artisan Goods"
+          },
+          "marko": {
+            "quote": "The team at BW Digit delivered beyond our expectations. Their technical expertise in e-commerce and commitment to quality helped us launch our online store ahead of schedule.",
+            "author": "Marko B.",
+            "position": "E-commerce Director, SwiftShop"
+          },
+          "isabel": {
+            "quote": "Our conversion rate improved significantly after implementing their optimizations. The data-driven approach and user experience enhancements made a real difference to our bottom line.",
+            "author": "Isabel K.",
+            "position": "Marketing Manager, CleanBee"
+          },
+          "jovana": {
+            "quote": "The multi-language support and localization features have helped us expand into new markets successfully. BW Digit's expertise in international e-commerce is outstanding.",
+            "author": "Jovana M.",
+            "position": "International Sales Lead, SwiftShop"
+          }
+        }
+      },
+      "projects": {
+        "title": "Our Recent E-commerce Projects",
+        "description": "Take a look at some of our recent e-commerce projects",
+        "items": {
+          "greenfit": {
+            "title": "GreenFit Store",
+            "type": "E-commerce Platform",
+            "description": "A sustainable fitness equipment store with seamless shopping experience and eco-friendly focus"
+          },
+          "artisan": {
+            "title": "Artisan Goods",
+            "type": "Online Marketplace",
+            "description": "A curated marketplace for handcrafted artisanal products with multi-vendor support"
+          }
+        }
+      },
+      "internalLinks": {
+        "title": "Related Services",
+        "items": {
+          "web": {
+            "text": "Custom Web Development"
+          },
+          "marketing": {
+            "text": "Marketing & SEO"
+          },
+          "uiux": {
+            "text": "UI/UX Design"
+          }
+        }
+      },
+      "technologies": {
+        "title": "Technologies & Platforms We Use",
+        "description": "We build your online store using trusted, high-performance platforms and tools that support growth, speed and flexibility.",
+        "items": {
+          "shopify": "Shopify",
+          "woocommerce": "WooCommerce",
+          "nextjs": "Next.js",
+          "react": "React",
+          "laravel": "Laravel",
+          "stripe": "Stripe",
+          "paypal": "PayPal",
+          "klarna": "Klarna"
+        }
+      },
+      "keywords": {
+        "custom": "custom e-commerce",
+        "store": "online store solutions",
+        "woocommerce": "woocommerce development",
+        "shopify": "shopify expert",
+        "seo": "e-commerce SEO",
+        "products": "sell products online",
+        "agency": "ecommerce agency"
+      }
+    },
+    "marketingSeo": {
+      "hero": {
+        "title": "Marketing and SEO Services That Actually Deliver",
+        "description": "Want to attract more visitors and turn them into real customers? At BW Digit, we build smart, results-driven SEO and marketing strategies that get your business in front of the right people Let's turn searches into sales!",
+        "imageAlt": "Marketing And SEO strategy for business growth "
+      },
+      "features": {
+        "title": "Why Choose BW Digit for Marketing & SEO? ",
+        "description": "We help your business show up online, reach the right people and turn clicks into real leads. Our approach covers every angle to bring results.",
+        "imageAlt": "Google ranking improvement services",
+        "items": {
+          "seo": {
+            "title": "SEO That Covers It All",
+            "description": "We handle every part of SEO, so your site performs better and ranks higher:",
+            "highlights": [
+              "Full on-page, off-page and technical SEO",
+              "Detailed SEO audits and keyword research",
+              "Site speed, mobile structure & indexing fixes",
+              "SEO content strategy based on real user intent"
+            ]
+          },
+          "advertising": {
+            "title": "Paid Ads That Reach the Right Audience",
+            "description": "We run ad campaigns that bring traffic and conversions without wasting budget. We focus on data, not guesswork:",
+            "highlights": [
+              "Google Ads setup and management",
+              "Facebook and Instagram ad campaigns",
+              "TikTok, LinkedIn Ads and more",
+              "Retargeting for warm leads",
+              "Ad performance tracking and reporting"
+            ]
+          },
+          "content": {
+            "title": "Content That Brings in Leads",
+            "description": "We create content that’s easy to find and worth reading:",
+            "highlights": [
+              "SEO blog posts and service pages",
+              "Email campaigns that keep users engaged",
+              "Lead magnets and funnel content to drive action"
+            ]
+          },
+          "local": {
+            "title": "Local SEO for Nearby Customers",
+            "description": "We help local businesses get found in their area:",
+            "highlights": [
+              "Google Business Profile setup and optimization",
+              "Local keywords that match search habits",
+              "Managing reviews and building citations"
+            ]
+          }
+        }
+      },
+      "tools": {
+        "title": "Tools That Power Your SEO & Marketing",
+        "description": "We use trusted tools to plan, measure and improve every campaign so you see what’s working and why. Some of our go-to platforms include:",
+        "items": {
+          "googleAnalytics": "Google Analytics",
+          "semrush": "SEMrush",
+          "ahrefs": "Ahrefs",
+          "searchConsole": "Search Console",
+          "wordpress": "Hotjar",
+          "mailchimp": "Meta Ads Manager",
+          "meta": "Mailchimp"
+        }
+      },
+      "services": {
+        "title": "What We Offer: All in One Place",
+        "description": "From ranking on Google to paid Marketing and Emails that convert, we handle all your needs under one roof.",
+        "categories": {
+          "seo": {
+            "title": "Full SEO Services",
+            "description": "We help your website get seen by the right audience and perform better in search:",
+            "items": [
+              "Keyword research & competitor analysis",
+              "On-page SEO (titles, structure, metadata)",
+              "Technical fixes (speed, mobile, indexing)",
+              "Backlink building for long-term growth",
+              "Google Business Profile optimization"
+            ]
+          },
+          "paid": {
+            "title": "Paid Advertising",
+            "description": "We create and manage ad campaigns that drive real traffic and leads.",
+            "items": [
+              "Google Ads: search, display & video",
+              "Facebook and Instagram ads",
+              "LinkedIn campaigns for B2B",
+              "Retargeting and funnel strategy"
+            ]
+          },
+          "content": {
+            "title": "Content & Email Marketing",
+            "description": "We write content that ranks and emails that get responses:",
+            "items": [
+              "Blog posts optimized for SEO",
+              "Email sequences that build trust and drive conversions",
+              "Lead magnets and newsletters to grow your list"
+            ]
+          }
+        }
+      },
+      "projects": {
+        "title": "Featured Projects",
+        "items": {
+          "sustainable": {
+            "title": "Sustainable Fashion Brand",
+            "description": "Organic traffic increased by 300%"
+          },
+          "dental": {
+            "title": "Dental Clinic Local SEO",
+            "description": "#1 in Google within 3 months"
+          },
+          "coaching": {
+            "title": "Coaching Business Lead Generation",
+            "description": "Successful email funnel implementation"
+          }
+        }
+      },
+      "testimonials": {
+        "title": "What Clients Say About Our Marketing and SEO Work",
+        "subtitle": "Real feedback from businesses we've helped, improving their websites, apps and user journeys.",
+        "authors": {
+          "miras": "Mira S.",
+          "thomasg": "Thomas G.",
+          "jovanam": "Jovana M.",
+          "lauras": "Laura S.",
+          "markush": "Markus H.",
+          "isabelk": "Isabel K."
+        },
+        "positions": {
+          "miras": "EcoBrand Founder",
+          "thomasg": "Business Owner",
+          "jovanam": "Marketing Director",
+          "lauras": "Marketing Manager at B2B Solutions",
+          "markush": "CEO of IndustrialTech GmbH",
+          "isabelk": "Marketing Manager"
+        },
+        "quotes": {
+          "miras": "BW Digit transformed our online presence. Their SEO strategies helped us reach our eco-conscious target audience effectively, resulting in a 200% increase in organic traffic.",
+          "thomasg": "Their data-driven approach to marketing has been instrumental in our growth. The team's expertise in both SEO and digital marketing delivered measurable results within months.",
+          "jovanam": "Working with BW Digit has been a game-changer. Their comprehensive marketing strategy helped us achieve top rankings for our key industry terms.",
+          "lauras": "The ROI we've seen from BW Digit's SEO and content marketing efforts has exceeded our expectations. They truly understand the B2B landscape.",
+          "markush": "Their technical SEO expertise and understanding of industrial markets helped us establish a strong digital presence in a competitive sector.",
+          "isabelk": "Our conversion rate improved significantly after implementing their optimizations. The data-driven approach and user experience enhancements made a real difference to our bottom line."
+        }
+      },
+      "specialOffer": {
+        "title": "Limited Time Offer",
+        "subtitle": "Free SEO Audit + Strategy Session ",
+        "description": "When you book any marketing package with BW Digit, you’ll get a full SEO audit and consultation at no extra cost.",
+        "items": {
+          "audit": {
+            "title": "SEO Audit Overview",
+            "description": "We’ll run a complete check of your website’s SEO, from technical issues to content gaps.",
+            "category": "Free"
+          },
+          "strategy": {
+            "title": "Personalized Strategy Call",
+            "description": "Get a one-on-one call with our team to build a plan that fits your business goals and target audience.",
+            "category": "Included"
+          },
+          "plan": {
+            "title": "Clear Step-by-Step Action Plan",
+            "description": "We’ll send you a simple, clear list of steps to help improve your rankings and bring in more leads.",
+            "category": "Bonus"
+          }
+        },
+        "buttons": {
+          "getStarted": "Get Started Now",
+          "learnMore": "Learn More"
+        }
+      },
+      "internalLinks": {
+        "title": "Related Services",
+        "links": [
+          {
+            "text": "Custom Web Development",
+            "url": "/services/custom-web-development"
+          },
+          {
+            "text": "UI/UX Design",
+            "url": "/services/ui-ux-design"
+          },
+          {
+            "text": "E-commerce Solutions",
+            "url": "/services/ecommerce-solutions"
+          },
+          {
+            "text": "Mobile App Development",
+            "url": "/services/mobile-app-development"
+          },
+          {
+            "text": "AI & Automation",
+            "url": "/services/ai-automation"
+          }
+        ]
+      },
+      "keywords": [
+        "SEO Services",
+        "Digital Marketing",
+        "Content Strategy",
+        "Local SEO",
+        "Technical SEO",
+        "Social Media Marketing",
+        "Google Ads",
+        "Analytics",
+        "Conversion Optimization",
+        "Email Marketing"
+      ],
+      "cta": {
+        "title": "Ready to Grow with Smarter Marketing?",
+        "description": "We’ll help you grow with clear SEO, targeted ads and strategies that bring real leads - not just clicks. ",
+        "buttons": {
+          "strategy": "Book a Free Strategy Call",
+          "quote": "Request a Custom Quote",
+          "demo": "See a Demo in Action"
+        }
+      }
+    },
+    "customWebDev": {
+      "hero": {
+        "title": "Custom Web Development Built for Your Growth",
+        "subtitle": "Professional and Custom-Coded Business Website Design",
+        "description": "From fast-loading landing pages to full-scale web platforms, we build custom websites that are secure, scalable and made to fit your business goals.",
+        "heroCta": "Let's build it right – together",
+        "imageAlt": "Professional and custom-coded business website design"
+      },
+      "services": {
+        "title": "Custom Websites Built to Match Your Business Needs",
+        "description": "We don’t use templates or shortcuts. We build every website from the ground up: fast, SEO-ready and built to support your everyday work.",
+        "itemsHeading": "What You Get:",
+        "items": [
+          "Mobile-First Design: Responsive layouts that work on every device",
+          "Custom Code: Clean, scalable and built for long-term growth",
+          "SEO-Ready Structure: Fast load times, clean code and smart structure for search engines",
+          "Third-Party Integration: Connect your site with CRMs, APIs, payment gateways and more",
+          "CMS Options: WordPress or other systems if you want full content control"
+        ],
+        "imageAlt": "full-stack development for business websites"
+      },
+      "technologies": {
+        "title": "Technologies We Use to Build Custom Websites",
+        "description": "At BW Digit, we use reliable, modern technologies to create secure, scalable and high-performing web solutions built to last and easy to maintain.",
+        "categories": {
+          "frameworks": {
+            "title": "Frameworks & Languages",
+            "description": "We use proven frameworks and backend languages for fast and flexible development.",
+            "items": [
+              "React, Next.js, Vue.js",
+              "Node.js, PHP, Laravel",
+              "Python (Django, FastAPI)"
+            ]
+          },
+          "styling": {
+            "title": "Styling & UI Libraries",
+            "description": "For clean, responsive interfaces that look good on any device.",
+            "items": ["Tailwind CSS", "Bootstrap", "Styled Components"]
+          },
+          "cms": {
+            "title": "CMS & Headless Platforms",
+            "description": "Manage content your way with flexible CMS and headless systems.",
+            "items": [
+              "WordPress (Classic & Headless)",
+              "Sanity, Strapi, Contentful"
+            ]
+          },
+          "database": {
+            "title": "Databases & Backend Tools",
+            "description": "Secure, scalable databases and backend support for all types of web applications.",
+            "items": ["MongoDB, PostgreSQL, MySQL", "Firebase, Supabase"]
+          },
+          "devops": {
+            "title": "DevOps & Deployment",
+            "description": "We use trusted tools for deployment, performance and updates.",
+            "items": [
+              "Docker, Vercel, Netlify",
+              "GitHub Actions",
+              "Cloudflare for security and speed"
+            ]
+          }
+        }
+      },
+      "targetAudience": {
+        "title": "For whom we make customized websites",
+        "description": "Our custom development services are built to support a wide range of businesses and teams at every stage.",
+        "items": [
+          "Startups launching MVPs or building new web platforms",
+          "Small businesses looking to grow their online presence",
+          "Enterprises modernizing outdated systems and workflows",
+          "Creative professionals and personal brands needing a strong web presence",
+          "Agencies that need reliable frontend or backend development support",
+          "Internal teams building dashboards, portals or custom business tools"
+        ],
+        "footer": "Whether you're starting from scratch or rebuilding something that no longer works, we’ll help you get it right.",
+        "footerCta": "Let’s build something powerful that helps your business grow online."
+      },
+      "problems": {
+        "title": "We Solve Real Web Development Problems",
+        "subtitle": "If your current website is holding you back, we’re here to fix it with clean, fast and custom-built solutions that help your business stand out online.",
+        "items": [
+          {
+            "problem": "Generic Templates That Don’t Fit Your Brand",
+            "description": "We build fully custom websites, no cookie-cutter themes."
+          },
+          {
+            "problem": "A Slow Website That Ranks Poorly",
+            "description": "Our sites are fast, lightweight, and built with SEO best practices from day one."
+          },
+          {
+            "problem": "Disconnected Tools and Systems",
+            "description": "We integrate your website with CRMs, APIs, booking tools and more, so everything works together."
+          },
+          {
+            "problem": "No Clear Strategy for Growth",
+            "description": "We help you define a smart, scalable path forward with a website that supports your business goals."
+          }
+        ],
+        "note": "BW Digit helps you break through the noise with smart, custom-built solutions that actually work.",
+        "solution": "We have the solution",
+        "cta": "Start Your Project Today"
+      },
+      "projects": {
+        "title": "Recent Web Development Projects by BW Digit ",
+        "subtitle": "We’ve built fast, functional and scalable websites for clients across industries. Here are a few websites we’ve recently built:",
+        "items": {
+          "swiftshop": {
+            "title": "SwiftShop – E-Commerce Platform",
+            "description": "A high-performance online store built with Next.js and Stripe. Includes real-time inventory updates, secure checkout and built-in analytics to track user behavior.",
+            "imageAlt": "custom-coded business website design"
+          },
+          "artisan": {
+            "title": "Artisan Goods Marketplace",
+            "description": "A custom-built marketplace using React and Node.js. Features include seller dashboards, secure payments and a smooth shopping experience for buyers.",
+            "imageAlt": "responsive web development for all devices"
+          },
+          "greenfit": {
+            "title": "GreenFit Store Fitness E-Commerce",
+            "description": "A modern online store for fitness products, featuring 3D product previews, personalized product suggestions and mobile-first design for smooth browsing.",
+            "imageAlt": "fast-loading custom website layout"
+          }
+        }
+      },
+      "specialOffer": {
+        "badge": "Limited Time Offer",
+        "title": "Landing Page Pro Package ",
+        "description": "Launching a product, service or personal brand? This package helps you go live with a fast, responsive landing page built to convert.",
+        "featuresHeading": "What’s Included:",
+        "features": [
+          "1-page custom-coded website – mobile-friendly and built from scratch",
+          "Conversion-focused copywriting – clear, action-driven messaging",
+          "Image optimization – faster load times for better performance",
+          "Free SEO audit + 30-minute strategy call – know how to grow from day one",
+          "Hosting consultation – help setting up the right hosting for your needs"
+        ],
+        "note": "Limited-Time Offer: Let’s Talk Today!",
+        "cta": "Book Your Free Call"
+      },
+      "buttons": {
+        "startProject": "Start Your Project Today",
+        "seeWork": "See Our Work"
+      },
+      "testimonials": {
+        "title": "What Our Clients Say",
+        "subtitle": "Hear from businesses and entrepreneurs who've worked with us",
+        "items": {
+          "amina": {
+            "author": "Amina B.",
+            "position": "Author & Coach",
+            "quote": "My custom landing page doubled my email signups in just one week. They know what works.",
+            "image": "Ana-R.png"
+          },
+          "luca": {
+            "author": "Luca W.",
+            "position": "Software Engineer",
+            "quote": "As a developer myself, I was impressed with the clean structure and scalability. Great team.",
+            "image": "Marcus K.png"
+          },
+          "sarah": {
+            "author": "Sarah M.",
+            "position": "Marketing Director",
+            "quote": "The website they built for us is not just beautiful, but also performs incredibly well. Our conversion rate has increased by 40%.",
+            "image": "Sarah M.png"
+          },
+          "michael": {
+            "author": "Michael S.",
+            "position": "CTO",
+            "quote": "Their attention to detail and technical expertise helped us create a robust platform that scales with our business.",
+            "image": "Michael S.png"
+          }
+        }
+      },
+      "quickLinks": {
+        "title": "Quick Links",
+        "items": {
+          "services": "Our Services",
+          "ecommerce": "E-Commerce Solutions",
+          "uiux": "UI/UX Design",
+          "marketing": "Marketing & SEO",
+          "contact": "Contact",
+          "bwdigit": "BW Digit"
+        }
+      }
+    }
+  },
+  "common": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "previous": "Previous",
+    "next": "Next",
+    "exploreSolution": "Explore Solution",
+    "useCases": "Use Cases"
+  },
+  "testimonials": {
+    "nina": {
+      "author": "Nina L.",
+      "position": "Product Owner",
+      "quote": "BW Digit turned our idea into a sleek, modern app that users love. We appreciated the constant updates and excellent design."
+    },
+    "marko": {
+      "author": "Marko B.",
+      "position": "Startup Founder",
+      "quote": "From wireframes to App Store, they managed everything smoothly. Great team, highly communicative."
+    },
+    "laura": {
+      "author": "Laura H.",
+      "position": "Marketing Manager",
+      "quote": "We saw a 40% increase in user engagement thanks to the app. Highly recommend BW Digit!"
+    },
+    "jovana": {
+      "author": "Jovana M.",
+      "position": "Marketing Director",
+      "quote": "Their expertise in mobile app development helped us create an intuitive and user-friendly application that our customers love."
+    },
+    "lauras": {
+      "author": "Laura S.",
+      "position": "Marketing Manager at B2B Solutions",
+      "quote": "The app they developed has streamlined our business processes and improved customer satisfaction significantly."
+    },
+    "markus": {
+      "author": "Markus H.",
+      "position": "CEO of IndustrialTech GmbH",
+      "quote": "BW Digit's technical expertise and understanding of our industry needs resulted in a powerful mobile solution."
+    },
+    "isabel": {
+      "author": "Isabel K.",
+      "position": "Email Marketing Specialist at RetailCo",
+      "quote": "The mobile app integration with our marketing tools has been seamless. Excellent work!"
+    },
+    "tim": {
+      "author": "Tim R.",
+      "position": "Performance Marketing Lead at D2C Brand",
+      "quote": "Outstanding mobile app development service. They delivered exactly what we needed, on time and within budget."
+    },
+    "anna": {
+      "author": "Anna M.",
+      "position": "Owner of Wellness Studio",
+      "quote": "The app has transformed how we interact with our clients. Booking and management have never been easier."
+    }
+  }
+}

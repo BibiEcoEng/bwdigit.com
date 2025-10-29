@@ -1,0 +1,2028 @@
+{
+  "meta": {
+    "home": {
+      "title": "Digitalna agencija za web razvoj i SEO usluge | BW Digit",
+      "description": "BW Digit ti pomaže da razviješ sajt, poboljšaš SEO, pokreneš online prodaju i napraviš aplikaciju za rast tvog biznisa."
+    },
+    "uiUxDesign": {
+      "title": "Prilagođeni UI/UX Dizajn sa BW Digit agencijom",
+      "description": "Kreiramo UI/UX dizajn po meri koji poboljšava korisničko iskustvo, povećava konverzije i pomaže rastu vašeg poslovanja na mreži. Fokus na mobilne uređaje i rezultate."
+    },
+    "marketingSeo": {
+      "title": "Marketing i SEO Usluge – BW Digit",
+      "description": "Povećajte svoju online vidljivost pomoću naših SEO i marketinških strategija. On-page, off-page, sadržaj, tehnički i lokalni SEO - sve na jednom mestu."
+    },
+    "aiAutomation": {
+      "title": "AI Alati i Automatizacija Koja Štedi Vreme | BW Digit",
+      "description": "Pojednostavite svoj rad pomoću AI alata i automatizovanih sistema uz BW Digit. Uštedite sate, smanjite ručni rad i povećajte produktivnost bez komplikacija."
+    },
+    "mobileAppDevelopment": {
+      "title": "Razvoj Mobilnih Aplikacija | BW Digit",
+      "description": "Gradimo brze i funkcionalne iOS, Android i višeplatformske aplikacije po meri vašeg biznisa. Započnite razvoj svoje aplikacije uz BW Digit."
+    },
+    "ecommerce": {
+      "title": "Razvoj E-Commerce Sajta Koji Prodaje Više | BW Digit",
+      "description": "Pravimo sigurne, brze i jednostavne custom online prodavnice, kao i koristeći Shopify i WooCommerce. Bilo da počinjete ili širite posao – nudimo rešenja koja posetioce pretvaraju u kupce."
+    },
+    "customWebDev": {
+      "title": "Prilagođen Web Razvoj za Prave Poslovne Potrebe | BW Digit",
+      "description": "Pravimo brze, sigurne i skalabilne sajtove prema vašim poslovnim ciljevima. Od landing stranica do celih platformi bez šablona, samo čist kod."
+    }
+  },
+  "heroTitle1": "BW Digit - Pametna Web, SEO i Mobilna Rešenja za Tvoj Biznis",
+  "heroSubtitle": "Mi spajamo dizajn, tehnologiju i strategiju za online napredak.",
+  "heroImgAlt": "Digitalna agencija koja nudi web programiranje, web dizajn, SEO usluge i mobilne aplikacije za tvoj biznis",
+  "contactUsButton": "Zakaži besplatnu konsultaciju",
+  "freeConsultationButton": "Besplatna konsultacija",
+  "servicesTitle": "Jedna Agencija. Sve za tvoje Online Poslovanje.",
+  "servicesSubtitle": "Mnoge firme gube vreme na sajtove koji su spori, nefunkcionalni ili ne prate njihove ciljeve. U BW Digit-u to rešavamo. Pravimo po meri web sajtove, e-prodavnice, mobilne aplikacije i digitalne alate koji zaista donose rezultate. Tako tvoj biznis izgleda profesionalno, funkcioniše brže i dopire do više ljudi. Kao digitalna agencija, brinemo o svemu - od dizajna i razvoja do SEO-a i E-commerce usluga. Cilj nam je da tvoja firma postane uspešna online.",
+  "webDesignTitle": "Web Dizajn i Programiranje",
+  "webDesignFeature1": "Prilagođena izrada i moderne tehnologije posebno za tvoj biznis",
+  "webDesignFeature2": "Personalizovane e-prodavnice (Shopify, WooCommerce)",
+  "webDesignFeature3": "Mobilne aplikacije i munjevito brze, mobilno optimizovane web stranice",
+  "webDesignFeature4": "WordPress, Webflow i Laravel — rešenja koja donose rezultate",
+  "webDesignFeature5": "UI/UX dizajn za izuzetno korisničko iskustvo",
+  "seoMarketingTitle": "SEO i Onlajn Marketing",
+  "seoMarketingFeature1": "SEO usmeren na rezultate za povećanje vidljivosti i privlačenje pravih kupaca",
+  "seoMarketingFeature2": "Strateški onlajn marketing za povezivanje s tvojom ciljnom publikom",
+  "seoMarketingFeature3": "Sadržajni marketing i optimizacija performansi",
+  "seoMarketingFeature4": "Više saobraćaja, potencijalnih klijenata i prihoda za tvoj biznis",
+  "aboutUsTitle": "O Nama",
+  "aboutUsSubtitle1": "BW Digit - Tvoj partner za Web Dizajn, SEO i Digitalni Uspeh",
+  "aboutUsSubtitle2": "Fokus na ono što donosi rezultate: rangiranje, posećenost i funkcionalnost.",
+  "aboutUsDescription": "Pomažemo preduzećima, startapima, kreatorima i brendovima u njihovim online potrebama. To može značiti izradu sajta, bolju poziciju na Google-u ili kreiranje internet prodavnice koja pretvara posetioce u kupce. U BW Digit-u fokusiramo se na efikasan dizajn, optimizovan kod, jasne poruke i alate koji pomažu tvom biznisu da se bolje pozicionira i istakne na digitalnom tržištu. \n\n Bez praznih obećanja, samo konkretan rad koji daje prave rezultate.",
+  "whyChooseUsTitle": "Zašto Baš BW Digit?",
+  "whyChooseUsDescription": "Zato što mi nismo još jedna uobičajena digitalna agencija. Mi smo tvoj partner za rast na internetu.\n\n● 100+ uspešno realizovanih projekata: Od lokalnih prodavnica do rastućih brendova - sajtovi, prodavnice i aplikacije koje podržavaju razvoj biznisa.\n\n● Brzo učitavanje: Naši sajtovi se učitavaju za manje od 3 sekunde. Brzi sajtovi znače bolje korisničko iskustvo i više konverzija.\n\n● Bolje pozicije na Google-u: 8 od 10 klijenata beleži bolja rangiranja na Google-u u roku od 6 meseci rada sa nama.\n\n● Dizajn prilagođen mobilnim uređajima: Više od 70% poseta dolazi sa mobilnih telefona. Mi se brinemo da tvoj sajt radi savršeno na svim uređajima.\n\n● Prava podrška: Razgovaraj sa stvarnim ljudima koji razumeju tvoje ciljeve, bez botova i bez čekanja.\n\nBW Digit ne prodaje prazne priče. Pružamo digitalnu podršku tvom biznisu – jasno, konkretno i bez komplikacija, da napreduje sa jasnim rezultatima.",
+  "whyChooseImgAlt": "Tim BW Digit-a planira strategiju razvoja tvog sajta",
+  "discoverServicesButton": "Otkrij naše usluge",
+  "coreCompetenciesTitle": "Naše Ključne Usluge i Prednosti",
+  "competency1Title": "Integrisana rešenja web dizajna i SEO-a",
+  "competency1Point1": "Ciljana analiza i personalizovani koncepti",
+  "competency1Point2": "BW Digit kao tvoj pouzdani partner",
+  "competency2Title": "Kreativnost sreće funkcionalnost",
+  "competency2Point1": "Uticajan UI/UX dizajn",
+  "competency2Point2": "WordPress razvoj sa ličnim dodirom",
+  "competency3Title": "Dizajn koji zadovoljava najviše standarde",
+  "competency3Point1": "Od biznis do premium web stranica",
+  "competency3Point2": "Laravel za složena i elegantna rešenja",
+  "competency4Title": "Brza i pouzdana dostava",
+  "competency4Point1": "Na vreme — često pre roka",
+  "competency4Point2": "Vrhunski kvalitet — bez kompromisa",
+  "howWeWorkTitle": "Kako Radimo",
+  "howWeWorkSubtitle": "Infografika Koja Prikazuje Analizu, Dizajn i Optimizaciju Digitalnih Rešenja.",
+  "howWeWorkL1": "Analiziraj i strategija — razumemo vaše ciljeve, publiku i viziju",
+  "howWeWorkL2": "Dizajniraj i razvijaj — vizuelna i tehnička realizacija",
+  "howWeWorkL3": "Optimizuj i rasti — kontinuirana SEO i poboljšanja konverzije",
+  "keyDeliverables": "Ključni rezultati",
+  "footer.home": "Početna",
+  "footer.whatWeDeliver": "Šta pružamo",
+  "footer.services": "Usluge",
+  "footer.whyChooseUs": "Zašto nas izabrati",
+  "footer.coreCompetencies": "Osnovne kompetencije",
+  "footer.howWeWork": "Kako radimo",
+  "footer.aboutUs": "O nama",
+  "footer.missionVision": "Misija i vizija",
+  "footer.faq": "FAQ",
+  "footer.testimonials": "Svedočenja",
+  "footer.contactUs": "Kontaktirajte nas",
+  "footer.enButton": "EN",
+  "footer.deButton": "DE",
+  "footer.srButton": "SR",
+  "footer.copyright": "© {currentYear} BW Digit. Sva prava zadržana.",
+  "missionTitle": "Naša Misija",
+  "missionText": "Cilj nam je da pravimo digitalna rešenja koja donose više posetilaca, više kupaca i konstantan napredak.",
+  "missionImgAlt": "Planiranje razvoja sajta, SEO-a i aplikacija sa jasnim ciljem",
+  "visionTitle": "Naša Vizija",
+  "visionText": "Gradimo dugoročne saradnje sa klijentima koji nam veruju. Jasne ideje, posvećen tim i merljiv učinak - to je ono za šta se zalažemo.",
+  "testimonialsTitle": "Šta naši klijenti kažu",
+  "testimonialsSubtitle": "Naši klijenti izveštavaju o više od 50% većoj vidljivosti i prihodu!",
+  "faqTitle": "Često postavljana pitanja (FAQ)",
+  "faqSubtitle": "Pronađi više odgovora ovde - ili nas kontaktiraj direktno za dodatna pitanja!",
+  "faqQ1": "Koliko košta profesionalni web dizajn kod BW Digit?",
+  "faqA1": "Troškovi zavise od obima projekta. Kontaktiraj nas za personalizovanu ponudu!",
+  "faqQ2": "Koliko vremena je potrebno za kreiranje nove web stranice?",
+  "faqA2": "Obično je potrebno 4-6 nedelja u zavisnosti od složenosti.",
+  "faqQ3": "Da li BW Digit nudi SEO optimizaciju?",
+  "faqA3": "Da, pružamo sveobuhvatne SEO usluge.",
+  "faqQ4": "Mogu li se postojeće web stranice redizajnirati?",
+  "faqA4": "Apsolutno, specijalizovani smo za redizajniranje postojećih web stranica.",
+  "faqQ5": "Da li BW Digit podržava e-trgovinske projekte?",
+  "faqA5": "Da, imamo obimno iskustvo sa e-trgovinskim rešenjima.",
+  "contactTitle": "Kontakt",
+  "contactSubtitle": "Počni već danas i zakaži svoju besplatnu početnu konsultaciju!",
+  "email": "info@bwdigit.com",
+  "phone": "+49 172 8137111",
+  "privacyPolicyTitle": "Politika privatnosti",
+  "privacyPolicyHeroSubtitle": "Vaše poverenje i bezbednost podataka su nam najvažniji.",
+  "footer.newsletterSuccess": "Uspešno ste se pretplatili na naš bilten!",
+  "footer.tagline": "Transformišemo preduzeća kroz inovativna digitalna rešenja. Počni sa našim stručnim timom danas.",
+  "footer.emailPlaceholder": "Unesi svoj e-mail ovde",
+  "footer.navigationTitle": "Navigacija",
+  "footer.exploreTitle": "Istražite",
+  "footer.infoTitle": "Informacije",
+  "footer.socialTitle": "Prati nas",
+  "footer.socialLinkedIn": "LinkedIn",
+  "footer.socialInstagram": "Instagram",
+  "footer.socialFacebook": "Facebook",
+  "footer.socialPinterest": "Pinterest",
+  "footer.socialTiktok": "TikTok",
+  "footer.socialYoutube": "YouTube",
+  "nav": {
+    "home": "Početna",
+    "services": "Usluge",
+    "portfolio": "Portfolio",
+    "aboutUs": "O nama",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contactUs": "Kontakt",
+    "cta": "Zakaži konsultacije",
+    "whatWeDeliver": "Šta pružamo",
+    "servicesDropdown": {
+      "title": "Naše usluge",
+      "subtitle": "Sveobuhvatna digitalna rešenja za vaš biznis",
+      "items": {
+        "uiUxDesign": {
+          "title": "UI/UX Dizajn",
+          "description": "Korisnički orijentisana dizajn rešenja"
+        },
+        "aiAutomation": {
+          "title": "AI Automatizacija",
+          "description": "Inteligentna automatizacija procesa"
+        },
+        "ecommerce": {
+          "title": "E-commerce Rešenja",
+          "description": "Prilagođene online prodavnice"
+        },
+        "marketingSeo": {
+          "title": "Marketing i SEO",
+          "description": "Digitalne marketing strategije"
+        },
+        "mobileAppDev": {
+          "title": "Razvoj Mobilnih Aplikacija",
+          "description": "Native i cross-platform aplikacije"
+        },
+        "customWebDev": {
+          "title": "Prilagođeni Web Razvoj",
+          "description": "Skalabilna, sigurna web rešenja"
+        }
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Pogledaj Naše Projekte",
+    "subtitle": "Pogledajte naše najnovije prave projekte.",
+    "projects": {
+      "backpackwanderorg": {
+        "title": "Backpack Wander (ORG)",
+        "description": "Globalna zajednica za putnike, kreatore i inovatore. Pronađite svoju zajednicu, pridružite se retreat-ovima i istražite resurse za digitalne nomade i održivi život.",
+        "tags": ["Zajednica", "Retreat", "Digitalni nomadi", "Održivi život"],
+        "button": "Pogledaj projekat"
+      },
+      "backpackwanderde": {
+        "title": "Backpack Wander (DE)",
+        "description": "Nemačka platforma za retreat-ove, koučing, održivi život i digitalne veštine. Pronađite istomišljenike i novu inspiraciju.",
+        "tags": ["Retreat", "Koučing", "Održivost", "Zajednica"],
+        "button": "Pogledaj projekat"
+      },
+      "setfreeway": {
+        "title": "Set Freeway Coaching",
+        "description": "Personalni koučing koji vam pomaže da se oslobodite 9-5 posla, smanjite stres i pronađete ispunjenje. Online programi, pravi rezultati i podržavajuća zajednica.",
+        "tags": ["Koučing", "Lični razvoj", "Sloboda", "Online program"],
+        "button": "Pogledaj projekat"
+      },
+      "bwdigit": {
+        "title": "BW Digit",
+        "description": "Digitalna agencija za web, SEO i e-commerce. Pravimo prilagođene sajtove, online prodavnice i digitalna rešenja za mala preduzeća i kreatore.",
+        "tags": ["Web razvoj", "SEO", "E-commerce", "Agencija"],
+        "button": "Pogledaj projekat"
+      },
+      "backpackwanderstore": {
+        "title": "Backpack Wander Store",
+        "description": "Ekološki prihvatljiva, solarna oprema i putni aksesoari za avanturiste. Kupujte pažljivo odabrane proizvode za kampovanje, planinarenje i održiva putovanja.",
+        "tags": [
+          "E-commerce",
+          "Oprema za putovanja",
+          "Održivost",
+          "Prodavnica"
+        ],
+        "button": "Pogledaj projekat"
+      }
+    },
+    "ctaText": "Zanima te saradnja sa nama na tvom sledećem projektu?",
+    "ctaButton": "Započni projekat"
+  },
+  "whatWeDeliver": {
+    "title": "Šta pružamo",
+    "subtitle": "Pružamo više od privlačnih dizajna – stvaramo digitalne strategije koje čine tvoj brend vidljivim i uspešnim.",
+    "imageAlt": "Usluge digitalne agencije BW Digit – za tvoj biznis",
+    "cards": {
+      "customSolutions": {
+        "title": "Prilagođena rešenja:",
+        "description": "Prilagođeni dizajni i strategije koji autentično odražavaju tvoj projekat."
+      },
+      "seoExcellence": {
+        "title": "SEO izvrsnost:",
+        "description": "Bolji rangovi, više saobraćaja i održivi poslovni rast"
+      },
+      "technicalPerfection": {
+        "title": "Tehnička perfekcija:",
+        "description": "Brzo učitavanje, mobilna optimizacija i vrhunska funkcionalnost."
+      }
+    }
+  },
+  "howWeWork": {
+    "step1": {
+      "title": "Analiza i strategija",
+      "description": "Počinjemo dubokom analizom poslovnih ciljeva, publike i tržišne pozicije, da bismo razvili prilagođenu digitalnu strategiju.",
+      "duration": "1-2 nedelje",
+      "deliverable1": "Poslovna analiza",
+      "deliverable2": "Istraživanje tržišta",
+      "deliverable3": "SEO strategija",
+      "deliverable4": "Putanja projekta"
+    },
+    "step2": {
+      "title": "Dizajn i UX",
+      "description": "Naš dizajn tim stvara zapanjujuće interfejse koji odražavaju identitet tvog brenda dok pružaju sjajno korisničko iskustvo.",
+      "duration": "2-3 nedelje",
+      "deliverable1": "UI/UX dizajn",
+      "deliverable2": "Žičani modeli",
+      "deliverable3": "Dizajn prilagođen mobilnim uređajima",
+      "deliverable4": "Integracija brenda"
+    },
+    "step3": {
+      "title": "Razvoj",
+      "description": "Gradimo vaše rešenje koristeći moderne tehnologije kao što su WordPress, Laravel ili prilagođena rešenja, obezbeđujući performanse i skalabilnost.",
+      "duration": "4-8 nedelja",
+      "deliverable1": "Odzivni razvoj",
+      "deliverable2": "CMS integracija",
+      "deliverable3": "Podešavanje e-trgovine",
+      "deliverable4": "Optimizacija performansi"
+    },
+    "step4": {
+      "title": "SEO implementacija",
+      "description": "Implementiramo sveobuhvatne SEO strategije da bismo povećali vidljivost i privukli kvalifikovane potencijalne klijente na tvoju web stranicu.",
+      "duration": "2-3 nedelje",
+      "deliverable1": "On-Page SEO",
+      "deliverable2": "Tehnički SEO",
+      "deliverable3": "Optimizacija sadržaja",
+      "deliverable4": "Lokalni SEO podešavanje"
+    },
+    "step5": {
+      "title": "Lansiranje i testiranje",
+      "description": "Sveobuhvatno testiranje i optimizacija obezbeđuju da vaša web stranica radi besprekorno na svim uređajima pre lansiranja.",
+      "duration": "1-2 nedelje",
+      "deliverable1": "Testiranje različitih pretraživača",
+      "deliverable2": "Mobilno testiranje",
+      "deliverable3": "Optimizacija brzine",
+      "deliverable4": "Bezbednosno podešavanje"
+    },
+    "step6": {
+      "title": "Rast i optimizacija",
+      "description": "Stalna podrška, praćenje i optimizacija za obezbeđivanje kontinuiranog rasta i poboljšanja vaše digitalne prisutnosti.",
+      "duration": "Kontinuirano",
+      "deliverable1": "Praćenje performansi",
+      "deliverable2": "SEO praćenje",
+      "deliverable3": "Optimizacija konverzije",
+      "deliverable4": "Redovna ažuriranja"
+    }
+  },
+  "testimonial1Client": "Pavle",
+  "testimonial1Text": "BW-Digit je transformisao našu onlajn prisutnost zapanjujućom novom web stranicom. Njihov web dizajn tim je vrhunski!",
+  "testimonial1Service": "web dizajn",
+  "testimonial2Client": "Maksimilijan",
+  "testimonial2Text": "Naši marketing napori su doživeli značajan podstrek otkako smo partneri sa BW-Digit. Toplo preporučujemo njihove marketing usluge.",
+  "testimonial2Service": "Marketing",
+  "testimonial3Client": "Marija",
+  "testimonial3Text": "Zahvaljujući BW-Digit, naša web stranica sada zauzima viši rang u rezultatima pretrage. Njihova SEO ekspertiza je očigledna.",
+  "testimonial3Service": "SEO",
+  "testimonial4Client": "Sofi",
+  "testimonial4Text": "BW-Digit je razvio prilagođeno rešenje koje savršeno odgovara našim jedinstvenim poslovnim potrebama. Izuzetan rad!",
+  "testimonial4Service": "Prilagođena rešenja",
+  "testimonial5Client": "Jonas",
+  "testimonial5Text": "Tehnička perfekcija naše nove platforme je impresivna. BW-Digit je dostavio iznad naših očekivanja.",
+  "testimonial5Service": "Tehnička perfekcija",
+  "testimonial6Client": "Lina",
+  "testimonial6Text": "Rad sa BW-Digit na našem web dizajn projektu je bio jednostavan. Oni su kreativni i profesionalni.",
+  "testimonial6Service": "web dizajn",
+  "testimonial7Client": "Leon",
+  "testimonial7Text": "BW-Digit marketing strategije su donele stvarne rezultate za naš biznis. Ne možemo biti srećniji.",
+  "testimonial7Service": "Marketing",
+  "testimonial8Client": "Lea",
+  "testimonial8Text": "Naša vidljivost u pretraživačima se dramatično poboljšala otkako koristimo BW-Digit SEO usluge.",
+  "testimonial8Service": "SEO",
+  "testimonial9Client": "Hana",
+  "testimonial9Text": "Prilagođeno softversko rešenje koje je BW-Digit izgradio za nas značajno je racionalizovalo naše operacije.",
+  "testimonial9Service": "Prilagođena rešenja",
+  "testimonial10Client": "Fin",
+  "testimonial10Text": "BW-Digit obezbeđuje da naša web stranica radi besprekorno. Njihova posvećenost tehničkoj perfekciji je pohvalna.",
+  "testimonial10Service": "Tehnička perfekcija",
+  "testimonial11Client": "Mia",
+  "testimonial11Text": "web dizajn usluge koje pruža BW-Digit prevazišle su naša očekivanja. Naša nova stranica je i lepa i funkcionalna.",
+  "testimonial11Service": "web dizajn",
+  "testimonial12Client": "Luka",
+  "testimonial12Text": "BW-Digit marketing tim je kompetentan i efikasan. Pomogli su nam da dođemo do šire publike.",
+  "testimonial12Service": "Marketing",
+  "testimonial13Client": "Ema",
+  "testimonial13Text": "Izuzetno smo zadovoljni SEO rezultatima koje je postigao BW-Digit. Naš organski saobraćaj se značajno povećao.",
+  "testimonial13Service": "SEO",
+  "sidebarContact": {
+    "successMessage": "Vaša poruka je uspešno poslata!",
+    "errorMessage": "Nešto je pošlo po zlo. Molimo pokušajte ponovo.",
+    "title": "Radiš na nečemu velikom?",
+    "description": "Reci nam detalje tvog projekta – kao što su obim, vremenski okviri ili poslovni izazovi.",
+    "namePlaceholder": "Ime",
+    "emailPlaceholder": "E-mail",
+    "phonePlaceholder": "Telefon",
+    "messagePlaceholder": "Poruka",
+    "servicesTitle": "Istražujem",
+    "serviceCustomWebsites": "Prilagođene web stranice",
+    "serviceWordPress": "WordPress",
+    "serviceMobileApp": "Mobilna aplikacija",
+    "serviceWebDevelopment": "web razvoj",
+    "serviceDigitalMarketing": "Digitalni marketing",
+    "serviceSocialMediaMarketing": "Marketing na društvenim mrežama",
+    "submitting": "ŠALJE SE...",
+    "submit": "POŠALJI"
+  },
+  "privacyPolicyCtaTitle": "Imate pitanja o vašim podacima?",
+  "privacyPolicyCtaText": "Tu smo da pomognemo. Kontaktirajte nas za bilo koja pitanja u vezi sa vašim ličnim podacima i našim praksama privatnosti.",
+  "privacyPolicyCtaButton": "Kontaktirajte podršku",
+  "faq.stillHaveQuestionsTitle": "Imaš Pitanja?",
+  "faq.stillHaveQuestionsText": "Bez brige, tu smo da pomognemo. Bilo da planiraš projekat ili te samo zanima čime se bavimo, slobodno nas kontaktiraj. Hajde da popričamo i vidimo kako možemo da ti pomognemo.",
+  "faq.contactUsButton": "Kontaktiraj nas danas",
+  "faq.scheduleCallButton": "Zakaži poziv",
+  "faq.quickResponse": "Brz odgovor",
+  "faq.freeConsultation": "Besplatna konsultacija",
+  "faq.expertSupport": "Stručna podrška",
+  "privacyPolicy": {
+    "tocTitle": "Sadržaj",
+    "sections": {
+      "generalStatement": {
+        "title": "Opšta izjava",
+        "content": "Vaša privatnost nam je važna.\n\nBackpack Wander GmbH vrlo ozbiljno shvata zaštitu vaših ličnih podataka i pridržava se važećih zakona o zaštiti podataka."
+      },
+      "responsibleEntity": {
+        "title": "Odgovorni entitet",
+        "content": "Odgovorno telo:\nBackpack Wander GmbH\nKolonnenstrasse 8\n10827 Berlin\nNemačka\nE-mail: info@bwdigit.com"
+      },
+      "useOfData": {
+        "title": "Korišćenje podataka",
+        "content": "Korišćenje podataka:\n\nKoristimo Google Analytics da analiziramo korišćenje naše web stranice i poboljšamo naše usluge.\nZa biltene i e-mail marketing koristimo MailerLite.\nVaši lični podaci neće biti prosleđeni trećim licima bez vašeg izričitog pristanka - osim ako to ne zahteva zakon."
+      },
+      "yourRights": {
+        "title": "Vaša prava",
+        "content": "Imate pravo na informacije, ispravku ili brisanje vaših podataka u bilo koje vreme. Ako imate pitanja o zaštiti podataka, molimo kontaktirajte nas."
+      }
+    }
+  },
+  "contactForm": {
+    "title": "Reci nam o tvom projektu",
+    "fullNameLabel": "Ime i prezime *",
+    "fullNamePlaceholder": "Tvoje ime i prezime",
+    "emailLabel": "E-mail adresa *",
+    "emailPlaceholder": "tvoj.email@example.com",
+    "companyNameLabel": "Naziv kompanije",
+    "companyNamePlaceholder": "Naziv vaše kompanije",
+    "phoneLabel": "Broj telefona",
+    "phonePlaceholder": "+381 (0) 123-456-789",
+    "serviceNeededLabel": "Potrebna usluga",
+    "serviceSelectDefault": "Izaberite uslugu",
+    "projectBudgetLabel": "Budžet projekta",
+    "budgetSelectDefault": "Izaberite raspon budžeta",
+    "projectDetailsLabel": "Detalji projekta *",
+    "projectDetailsPlaceholder": "Reci nam o tvom projektu, vremenskom okviru i bilo kojim specifičnim zahtevima...",
+    "sendMessageButton": "Pošalji poruku",
+    "sendingMessage": "Slanje poruke...",
+    "successMessage": "Hvala vam na poruci! Javićemo vam se u roku od 24 sata.",
+    "errorMessage": "Nešto je pošlo po zlo. Molimo pokušajte ponovo ili nas kontaktirajte direktno.",
+    "serviceOptions": {
+      "webDevelopment": "Web razvoj",
+      "mobileAppDevelopment": "Razvoj mobilnih aplikacija",
+      "uiUxDesign": "UI/UX dizajn",
+      "digitalMarketing": "Digitalni marketing",
+      "ecommerceSolutions": "E-trgovinska rešenja",
+      "consulting": "Konsalting",
+      "other": "Ostalo"
+    },
+    "budgetOptions": {
+      "under1k": "Ispod $1,000",
+      "between1kAnd5k": "$1,000 - $5,000",
+      "between5kAnd15k": "$5,000 - $15,000",
+      "between15kAnd30k": "$15,000 - $30,000",
+      "over30k": "Preko $30,000",
+      "needConsultation": "Potrebna konsultacija"
+    }
+  },
+  "services": {
+    "common": {
+      "relatedServices": {
+        "title": "Povezane usluge",
+        "learnMore": "Saznaj više"
+      }
+    },
+    "mobile": {
+      "features": {
+        "title": "Šta nudimo",
+        "description": "Kompletne usluge razvoja mobilnih aplikacija prilagođene vašim potrebama",
+        "items": {
+          "ios": {
+            "title": "iOS i Android razvoj",
+            "description": "Razvoj nativnih aplikacija za obe glavne platforme",
+            "highlights": {
+              "swift": "Swift za iOS razvoj",
+              "kotlin": "Kotlin za Android aplikacije",
+              "performance": "Nativne performanse i funkcionalnosti",
+              "guidelines": "Smernice za dizajn specifične za platformu"
+            }
+          },
+          "cross": {
+            "title": "Rešenja za više platformi",
+            "description": "Efikasan razvoj za više platformi",
+            "highlights": {
+              "flutter": "Flutter za cross-platform aplikacije",
+              "react": "React Native razvoj",
+              "code": "Efikasnost kroz jedinstvenu bazu koda",
+              "experience": "Konzistentno korisničko iskustvo"
+            }
+          },
+          "complete": {
+            "title": "Kompletne usluge za aplikacije",
+            "description": "Sveobuhvatna podrška za razvoj aplikacija",
+            "highlights": {
+              "design": "UI/UX dizajn i prototipovi",
+              "backend": "Backend razvoj",
+              "api": "API integracija",
+              "publishing": "Objavljivanje na App Store-u"
+            }
+          }
+        }
+      }
+    }
+  },
+  "contactInfo": {
+    "office": {
+      "title": "Kancelarija",
+      "info": "Kolonnenstrasse 8, 10827, Berlin"
+    },
+    "businessHours": {
+      "title": "Radno vreme",
+      "info": "Pon-Pet: 9-18 EST"
+    },
+    "whyChooseUs": {
+      "title": "Zašto nas izabrati?",
+      "freeConsultation": {
+        "title": "Besplatna konsultacija",
+        "description": "Inicijalna procena projekta i strateški savet bez naknade"
+      },
+      "quickResponse": {
+        "title": "Brz odgovor",
+        "description": "Odgovaramo na sve upite u roku od 24 sata"
+      },
+      "expertTeam": {
+        "title": "Stručni tim",
+        "description": "Iskusni profesionalci posvećeni vašem uspehu"
+      }
+    },
+    "followUs": {
+      "title": "Pratite nas"
+    }
+  },
+  "services": {
+    "common": {
+      "relatedServices": {
+        "title": "Povezane usluge",
+        "learnMore": "Saznaj više"
+      }
+    },
+    "mobileAppFeatures": {
+      "subtitle": "Brz i pouzdan razvoj aplikacija za sve platforme",
+      "feature1": "Nativni i multi-platformski razvoj",
+      "feature2": "iOS i Android aplikacije",
+      "feature3": "Optimizacija za App Store",
+      "feature4": "Održavanje i ažuriranja"
+    },
+    "uiUxFeatures": {
+      "subtitle": "Korisnički interfejsi dizajnirani za angažovanje i jednostavnost",
+      "feature1": "Dizajn fokusiran na korisnika",
+      "feature2": "Izrada wireframe-ova i prototipova",
+      "feature3": "Vizuelni dizajn",
+      "feature4": "Testiranje upotrebljivosti"
+    },
+    "ecommerceFeatures": {
+      "subtitle": "Prilagođeni Shopify i WooCommerce razvoj",
+      "feature1": "Shopify razvoj",
+      "feature2": "WooCommerce rešenja",
+      "feature3": "Jednostavno i sigurno online plaćanje",
+      "feature4": "Upravljanje zalihama"
+    },
+    "consultingFeatures": {
+      "subtitle": "Strateško savetovanje za digitalni razvoj tvog brenda",
+      "feature1": "Digitalna strategija",
+      "feature2": "Tehnološki konsalting",
+      "feature3": "Analiza performansi",
+      "feature4": "Planiranje rasta"
+    },
+    "uiux": {
+      "hero": {
+        "title": "Pametan UI/UX dizajn koji podstiče korisnike na akciju",
+        "subtitle": "Transformišite svoje digitalno iskustvo",
+        "description": "U BW Digitu kreiramo sajtove i aplikacije koje su intuitivne od prvog klika, osmišljene da usmeravaju, reaguju i konvertuju uz minimalan napor.",
+        "imageAlt": "UI/UX Figma dizajn za tvoj sajt i mobilnu aplikaciju",
+        "preCta": "Brzo. Jasno. Lako za korišćenje.",
+        "cta": "Započni sada"
+      },
+      "customDesign": {
+        "title": "Prilagođene Usluge UI/UX dizajna",
+        "subtitle": "Kreirane prema korisnicima",
+        "imageAlt": "Responzivni UI/UX Dizajn za aplikacije i Web stranice",
+        "description": "Pravimo rasporede koji se lako prate i koji su prijatni za korišćenje, sa svakim detaljem podešenim za jasnoću i glatku interakciju. Bilo da pokrećeš novi projekat ili unapređuješ postojeći, fokusiramo se na to da svaki klik ima vrednost."
+      },
+      "services": {
+        "title": "Naše UI/UX dizajn usluge",
+        "servicesTitle": "Šta podrazumeva naš dizajn",
+        "items": {
+          "ui": "UI usklađen s tvojim brendom, radi izgradnje poverenja",
+          "uxResearch": "UX istraživanje zasnovano na heatmapama, A/B testovima i analitici",
+          "wireframing": "Wireframe-ovi i klikabilni prototipi",
+          "usability": "Jednostavni mobilni i desktop rasporedi",
+          "mobileFirst": "Potpuno redizajniranje ili manja unapređenja koja donose rezultate",
+          "redesign": "Prilagođen dizajn za bolji domet i inkluzivnost"
+        },
+        "bottomLine": "Sve što dizajniramo pomaže korisnicima da brže pronađu ono što im je potrebno i da pristupe sa poverenjem."
+      },
+      "delivery": {
+        "title": "Šta dobijaš",
+        "subtitle": "Naš zajednički dizajn, od ideje do klikabilnog prototipa",
+        "description": "Radićeš direktno sa našim dizajnerima, kako biste zajedno kreirali dizajn koji odgovara tvom brendu i najbolje funkcioniše za tvoje korisnike.",
+        "items": {
+          "personas": {
+            "title": "Korisnički tokovi",
+            "description": "Mapiramo kretanje tvojih korisnika kroz sajt ili aplikaciju, što nam pomaže da dizajniramo sa jasnim ciljem i svrhom."
+          },
+          "mockups": {
+            "title": "High-fidelity makete",
+            "description": "Jasne i detaljne vizualizacije koje pokazuju tačno kako će tvoj proizvod izgledati pre nego što počne razvoj."
+          },
+          "prototypes": {
+            "title": "Klikabilni prototipi",
+            "description": "Interaktivne demonstracije za testiranje pre lansiranja. Isprobaj svoj proizvod kao pravi korisnik!"
+          },
+          "workshops": {
+            "title": "Dizajn radionice",
+            "description": "Organizujemo praktične sesije da zajedno razvijemo tvoje ideje i uskladimo ih sa brendom i poslovnim ciljevima."
+          }
+        }
+      },
+      "targetAudience": {
+        "title": "Ko ima koristi od UI/UX dizajna?",
+        "description": "Naše UI/UX dizajn usluge pomažu rastućim timovima, startupima, SaaS alatima i e-commerce brendovima da reše ključne probleme korisničkog iskustva i povećaju angažovanost i konverzije.",
+        "items": {
+          "startups": "Startapi koji pokreću MVP i kojima su potrebni jednostavni i jasni korisnički tokovi",
+          "businesses": "Biznisi koji osvežavaju zastarele sajtove ili aplikacije",
+          "saas": "SaaS platforme koje žele da poboljšaju zadržavanje korisnika i olakšaju upotrebu",
+          "ecommerce": "E-commerce prodavnice koje žele da povećaju prodaju i smanje broj napuštenih korpi"
+        },
+        "bottomLine": "🧠 Ako se korisnici zaglave ili prerano napuste stranicu, redizajniramo iskustvo kako bismo ih zadržali i podstakli da nastave."
+      },
+      "technologies": {
+        "title": "Dizajn alati koji se uklapaju u tvoj radni tok",
+        "description": "Koristimo tehnologije i platforme koje olakšavaju rad, čineći ga preglednijim, bržim i jednostavnijim. Platforme kao što su Figma, Adobe XD i InVision su poznate među programerima i omiljene među klijentima.",
+        "tools": {
+          "figma": "Figma",
+          "adobexd": "Adobe XD",
+          "sketch": "Sketch",
+          "invision": "InVision",
+          "miro": "Miro",
+          "webflow": "Webflow"
+        }
+      },
+      "specialOffer": {
+        "badge": "Spezielles Angebot",
+        "title": "UI/UX redizajn landing stranica koje donose konverzije",
+        "subtitle": "Trebaš bolje rezultate od svoje landing stranice? Mučiš se sa niskom stopom konverzije? Hajde da to rešimo.",
+        "description": "Stranica će vizuelno pratiti tvoj brend, brzo se učitavati i privući više klikova. Uključeno u uslugu:",
+        "features": {
+          "strategy": "UX strategija zasnovana na ponašanju korisnika",
+          "wireframe": "Wireframe-ovi i interaktivni prototipi",
+          "design": "Čist, moderan UI koji se uklapa u tvoj brend",
+          "revisions": "Do 2 kruga revizija za fino podešavanje dizajna",
+          "consultation": "Jednosatni strateški poziv sa našim dizajn timom"
+        },
+        "valueProps": {
+          "quick": "Ekspresna izrada za brzo lansiranje",
+          "conversion": "Rasporedi koji su optimizovani za konverzije",
+          "userCentered": "Fokus na jednostavnu upotrebu i jasnu poruku",
+          "perfect": "Redizajniramo landing stranice u mobilno-orijentisane, optimizovane za brzinu i sa jasnim pozivom na akciju. Svi dizajni su optimizovani za Core Web Vitals i izrađeni u skladu sa Google UX standardima."
+        },
+        "cta": {
+          "title": "Jetzt starten",
+          "description": "Redizajniramo landing stranice u mobilno-orijentisane, optimizovane za brzinu i sa jasnim pozivom na akciju. Svi dizajni su optimizovani za Core Web Vitals i izrađeni u skladu sa Google UX standardima.",
+          "bottomLine1": "Idealno za lansiranja proizvoda, stranice usluga i kampanje za prikupljanje leadova.",
+          "bottomLine2": "Rezultati: Brže učitavanje, veće angažovanje, više prijava",
+          "btn1": "Započni sada",
+          "btn2": "🔍 Pogledaj primere"
+        }
+      },
+      "projects": {
+        "title": "Pravi UI/UX projekti, pravi rezultati",
+        "subtitle": "Od SaaS kontrolnih tabli do e-commerce tokova, naš dizajn pomaže klijentima da poboljšaju jasnoću, smanje broj odustajanja i rastu na održiv način. Svaki dizajn je pažljivo kreiran da usmeri korisnike ka akciji i pomogne klijentima da postignu merljiv rast.",
+        "items": {
+          "swiftshop": {
+            "title": "SwiftShop mobilna aplikacija",
+            "description": "E‑Commerce aplikacija sa QR skeniranjem proizvoda i sinhronizovanom korpom",
+            "imageAlt": "ručno kodiran sajt prilagođen tvom biznisu"
+          },
+          "artisan": {
+            "title": "Artisan Goods marketplace",
+            "description": "Platforma za više prodavaca sa prilagođenim rešenjima za plaćanje",
+            "imageAlt": "responzivni web razvoj koji radi na svim uređajima"
+          },
+          "greenfit": {
+            "title": "GreenFit prodavnica",
+            "description": "WooCommerce prodavnica sa automatskim upravljanjem zalihama",
+            "imageAlt": "brzo učitavanje i prilagođen izgled sajta za tebe"
+          }
+        }
+      },
+      "internalLinks": {
+        "title": "Povezane usluge",
+        "items": {
+          "ai": "AI automatizacija",
+          "mobile": "Razvoj mobilnih aplikacija",
+          "marketing": "Marketing & SEO",
+          "contact": "Kontaktirajte nas",
+          "ecommerce": "eCommerce rešenja"
+        }
+      },
+      "keywords": {
+        "ui": "UI dizajn",
+        "ux": "UX dizajn",
+        "userInterface": "Korisnički interfejs",
+        "userExperience": "Korisničko iskustvo",
+        "productDesign": "Dizajn proizvoda",
+        "usability": "Upotrebljivost",
+        "wireframes": "Wireframe-ovi",
+        "responsive": "Responsivni dizajn",
+        "appUi": "App UI",
+        "figma": "Figma",
+        "userFlow": "User flow",
+        "conversion": "Konverzija"
+      },
+      "testimonials": {
+        "title": "Šta klijenti kažu o našem UI/UX dizajnu",
+        "subtitle": "Pravi komentari klijenata kojima smo pomogli da unaprede svoje sajtove, aplikacije i korisnička iskustva. Pogledaj šta kažu klijenti koji su udvostručili stopu konverzije i smanjili bounce rate za 40% nakon redizajna sa UI/UX stručnjacima iz BW Digit-a:",
+        "items": {
+          "ana": {
+            "author": "Ana R.",
+            "position": "Product Manager",
+            "quote": "BW Digit je transformisao korisničko iskustvo našeg proizvoda. Novi dizajn nije samo lep, već je značajno poboljšao naše metrike angažovanja."
+          },
+          "thomas": {
+            "author": "Thomas B.",
+            "position": "CEO i osnivač",
+            "quote": "Njihova stručnost u UI/UX dizajnu pomogla nam je da kreiramo intuitivan i moderan interfejs koji naši korisnici obožavaju. Rezultati su premašili naša očekivanja."
+          },
+          "julia": {
+            "author": "Julia W.",
+            "position": "Marketing direktor",
+            "quote": "Rad sa BW Digit-om je promenio naš digitalni nastup. Njihov dizajnerski pristup savršeno balansira estetiku i funkcionalnost."
+          },
+          "maya": {
+            "author": "Maya D.",
+            "position": "UX lider",
+            "quote": "Pažnja na detalje i korisnički orijentisan pristup pomogli su nam da kreiramo proizvod koji zaista odjekuje kod naše ciljne publike."
+          },
+          "laura": {
+            "author": "Laura H.",
+            "position": "E‑Commerce menadžer",
+            "quote": "Naše stope konverzije su značajno porasle nakon primene UI/UX preporuka BW Digit-а. Njihovo iskustvo u eCommerce dizajnu je izvanredno."
+          },
+          "nina": {
+            "author": "Nina L.",
+            "position": "Produkt menadžer",
+            "quote": "BW Digit je našu ideju pretvorio u elegantnu, modernu aplikaciju koju korisnici vole. Cenili smo redovna ažuriranja i odličan dizajn."
+          },
+          "marko": {
+            "author": "Marko B.",
+            "position": "Osnivač startapa",
+            "quote": "Od wireframe-ova do App Store-a, sve su besprekorno vodili. Sjajan tim, vrlo komunikativan."
+          },
+          "jovana": {
+            "author": "Jovana M.",
+            "position": "Marketing direktor",
+            "quote": "Njihova ekspertiza u razvoju mobilnih aplikacija nam je pomogla da kreiramo intuitivnu i user-friendly aplikaciju koju naši klijenti vole."
+          },
+          "lauras": {
+            "author": "Laura S.",
+            "position": "Marketing menadžer u B2B Solutions",
+            "quote": "Aplikacija koju su razvili je optimizovala naše poslovne procese i značajno poboljšala zadovoljstvo klijenata."
+          },
+          "markus": {
+            "author": "Markus H.",
+            "position": "CEO IndustrialTech GmbH",
+            "quote": "BW Digit-ova tehnička ekspertiza i razumevanje potreba naše industrije rezultirali su moćnim mobilnim rešenjem."
+          },
+          "isabel": {
+            "author": "Isabel K.",
+            "position": "Email marketing specijalista u RetailCo",
+            "quote": "Integracija mobilne aplikacije sa našim marketing alatima je bila besprekorna. Odličan posao!"
+          },
+          "tim": {
+            "author": "Tim R.",
+            "position": "Performance Marketing Lead u D2C Brand",
+            "quote": "Izvanredna usluga razvoja mobilnih aplikacija. Isporučili su tačno ono što nam je trebalo, na vreme i u okviru budžeta."
+          },
+          "anna": {
+            "author": "Anna M.",
+            "position": "Vlasnica wellness studija",
+            "quote": "Aplikacija je transformisala način na koji komuniciramo sa našim klijentima. Rezervacije i upravljanje nikada nisu bili lakši."
+          }
+        }
+      },
+      "finalCta": {
+        "title": "Želiš landing stranicu koja donosi više leadova i bolje konvertuje?",
+        "description": "Ne zadovoljavaj se stranicom koja samo lepo izgleda. Hajde da napravimo onu koja zaista daje rezultate: brže učitavanje, bolje korisničko iskustvo i više konverzija na svim uređajima.",
+        "consultation": "Zakaži besplatne konsultacije",
+        "quote": "Zatraži ponudu"
+      }
+    },
+    "ai": {
+      "hero": {
+        "title": "AI i rešenja za automatizaciju ",
+        "description": "Pravimo pametne AI alate za automatizaciju zadataka, uštedu vremena i rast tvog biznisa bilo da vodiš startup, online prodavnicu ili radiš kao freelancer.",
+        "imageAlt": "AI alati i podrška za automatizaciju tvog biznisa",
+        "cta": "Započni odmah!"
+      },
+      "features": {
+        "title": "Šta ćete pronaći",
+        "subtitle": "AI alati koji ti štede vreme i olakšavaju posao",
+        "description": "Nudimo proverene AI alate i resurse koji ti pomažu da uštediš vreme, ostaneš organizovan i vodiš posao bez problema.",
+        "items": {
+          "tools": {
+            "title": "Pametni AI alati i integracije",
+            "description": "Alati za pisanje, zakazivanje i automatizaciju uz vodiče koji ti pomažu da brzo počneš:",
+            "highlights": {
+              "chatgpt": "Podešavanja za ChatGPT integraciju",
+              "writing": "AI alati za brže kreiranje sadržaja",
+              "scheduling": "Aplikacije za zakazivanje i upravljanje vremenom",
+              "analysis": "Analiza podataka uz podršku AI"
+            }
+          },
+          "guides": {
+            "title": "Vodiči korak po korak",
+            "description": "Jednostavni tutorijali koji ti pomažu da automatizuješ svakodnevne zadatke poput planiranja sadržaja, onboardinga i mejlova:",
+            "highlights": {
+              "video": "Video uputstva i pisani vodiči",
+              "docs": "Saveti za postavljanje i najbolje prakse",
+              "practices": "Jednostavni radni tokovi koje možeš odmah primeniti",
+              "tips": "Podrška za pitanja i pomoć"
+            }
+          },
+          "practical": {
+            "title": "AI u svakodnevnoj primeni",
+            "description": "Pogledaj kako se AI uklapa u tvoju svakodnevnu rutinu bez dodatnih alata i stresa:",
+            "highlights": {
+              "email": "Piši bolje i brže mejlove",
+              "tasks": "Postavi prioritete uz AI alate",
+              "meetings": "Dobij sažetke sastanaka i korisne AI predloge"
+            }
+          },
+          "templates": {
+            "title": "Gotovi šabloni za korišćenje",
+            "description": "Uštedi vreme uz šablone za Notion, Airtable i Canva platforme, koji ti olakšavaju svakodnevni rad",
+            "highlights": {
+              "projects": "Šabloni za upravljanje projektima",
+              "workflows": "Automatizacija tokova rada",
+              "process": "Standardne operativne procedure (SOP)",
+              "integrations": "Laka integracija sa tvojim alatima"
+            }
+          },
+          "courses": {
+            "title": "Kursevi i resursi za učenje",
+            "description": "Nauči kako da koristiš AI za konkretne zadatke u poslovanju uz kratak i praktičan sadržaj:",
+            "highlights": {
+              "video": "Kratki video kursevi",
+              "cases": "Studije slučaja iz stvarnog sveta",
+              "interviews": "Intervjui sa stručnjacima",
+              "implementation": "Praktični vodiči za implementaciju"
+            }
+          }
+        }
+      },
+      "targetAudience": {
+        "title": "Ko može da koristi naše AI i alate za automatizaciju?",
+        "description": "Naša rešenja su napravljena za svakoga ko želi da uštedi vreme, smanji ručne zadatke i radi pametnije.",
+        "items": {
+          "freelancers": "Freelanceri i samostalni preduzetnici",
+          "creators": "Kreatori sadržaja i blogeri",
+          "entrepreneurs": "Onlajn preduzetnici",
+          "remote": "Radnici na daljinu i digitalni nomadi",
+          "anyone": "Vlasnici malih biznisa"
+        },
+        "bottomLine": "Ako ti lista obaveza stalno raste, mi ćemo ti pomoći da je skratiš uz automatizaciju koja stvarno funkcioniše."
+      },
+      "benefits": {
+        "title": "Šta dobijaš uz naše AI usluge za automatizaciju",
+        "subtitle": "Sve što ti je potrebno da počneš da štediš vreme i radiš pametnije, bilo da tek počinješ ili planiraš da razvijaš posao:",
+        "imageAlt": "Usluge AI automatizacije",
+        "items": {
+          "tools": "Besplatni i premium AI alati",
+          "consulting": "1-na-1 konsultacije",
+          "templates": "Gotovi šabloni i AI alati za rad",
+          "solutions": "Prilagođena AI rešenja"
+        }
+      },
+      "resources": {
+        "title": "Popularni AI i alati za automatizaciju",
+        "subtitle": "Iskoristi naše najpopularnije AI alate i vodiče kako bi uštedeo vreme i povećao produktivnost.",
+        "items": {
+          "chatgpt": {
+            "title": "Kako koristiti ChatGPT za freelance pisanje sadržaja",
+            "description": "Kompletan vodič za korišćenje AI alata za kreiranje sadržaja, sa gotovim promptovima i tokovima rada za pisanje.",
+            "category": "Vodič za AI pisanje"
+          },
+          "business": {
+            "title": "Generator biznis plana pokretan veštačkom inteligencijom (Notion)",
+            "description": "Brzo kreiraj profesionalne biznis planove koristeći naš AI-integrisani Notion šablon.",
+            "category": "Šablon biznis plana"
+          },
+          "automation": {
+            "title": "Uštedi vreme uz Notion + Zapier",
+            "description": "Vodič korak po korak za automatizaciju svakodnevnih zadataka u alatima poput Notion-a, Gmail-a, Slack-a i drugih alata koje već koristiš.",
+            "category": "Vodič za automatizaciju radnih tokova"
+          }
+        }
+      },
+      "cta": {
+        "title": "Počni sa AI automatizacijom bez stresa i komplikacija",
+        "description": "Smanji ponavljajuće zadatke i fokusiraj se na posao koji zaista pomera tvoj biznis napred.",
+        "buttons": {
+          "explore": "Istraži AI alate sada",
+          "book": "Zakaži besplatne konsultacije"
+        },
+        "features": {
+          "time": "Istraži resurse",
+          "timeDesc": "AI Alati, šabloni i vodiči koji ti pomažu da brzo počneš",
+          "automation": "Zakaži 1:1 sesiju",
+          "automationDesc": "Personalizovana podrška za izradu tvoje automatizacione strategije",
+          "growth": "Radi pametnije",
+          "growthDesc": "Koristi AI za rutinske zadatke i oslobodi svoje vreme",
+          "scale": "Rasti brže:",
+          "scaleDesc": "Postavi sisteme koji pomažu tvom biznisu da raste bez dodatnog opterećenja"
+        }
+      },
+      "testimonials": {
+        "title": "Šta kažu naši klijenti",
+        "subtitle": "Stvarna iskustva kompanija koje koriste naša AI rešenja",
+        "items": {
+          "michael": {
+            "author": "Michael S.",
+            "position": "Content Director u Digital Media GmbH",
+            "quote": "AI automatizacioni alati su transformisali naš content‑workflow. Sada proizvodimo duplo više sadržaja za upola manje vremena."
+          },
+          "lisa": {
+            "author": "Lisa F.",
+            "position": "Operations Manager u ConsultPro",
+            "quote": "Implementacija njihovih rešenja za automatizaciju značajno je pojednostavila naše operacije. Povraćaj ulaganja je bio trenutni."
+          },
+          "david": {
+            "author": "David R.",
+            "position": "Nezavisni biznis trener",
+            "quote": "Njihovi AI alati pomogli su mi da skaliram coaching biznis. Sada se mogu fokusirati na suštinu – svoje klijente."
+          },
+          "christina": {
+            "author": "Christina H.",
+            "position": "Customer Success Lead u TechStart",
+            "quote": "Automatizacija onboarding‑a klijenata je bila promena igre. Naše ocene zadovoljstva nikada nisu bile veće."
+          },
+          "robert": {
+            "author": "Robert M.",
+            "position": "Product Owner u DataInsights AG",
+            "quote": "BW Digit‑ova AI rešenja su revolucionisala način na koji obrađujemo podatke. Dobijene uvide su neprocenjive."
+          }
+        }
+      },
+      "projects": {
+        "title": "Istaknuti projekti",
+        "subtitle": "Istražite naše uspešne AI‑automatizacijske implementacije",
+        "items": {
+          "onboarding": {
+            "title": "Automatizacija onboarding‑a klijenata",
+            "description": "Prilagođeno Notion + Zapier rešenje za coaching biznis"
+          },
+          "toolkit": {
+            "title": "AI toolkit za freelancere",
+            "description": "Paket predložaka & vodiča za izgradnju skalabilnog uslužnog biznisa"
+          }
+        }
+      },
+      "tools": {
+        "title": "Alati koje koristimo",
+        "notion": "Notion – workspace & baza znanja",
+        "zapier": "Zapier – automatizacija toka rada",
+        "openai": "OpenAI – AI integracija",
+        "airtable": "Airtable – upravljanje podacima",
+        "canva": "Canva – automatizacija dizajna",
+        "slack": "Slack – timska komunikacija"
+      },
+      "internalLinks": {
+        "title": "Povezane usluge",
+        "items": {
+          "uiux": "UI/UX dizajn",
+          "mobile": "Razvoj mobilnih aplikacija",
+          "marketing": "Marketing & SEO",
+          "contact": "Kontakt",
+          "ecommerce": "eCommerce rešenja"
+        }
+      },
+      "keywords": {
+        "tools": "AI alati",
+        "automation": "automatizacija poslovanja",
+        "workflow": "automatizuj tok rada",
+        "freelance": "freelance AI resursi",
+        "productivity": "AI produktivnost",
+        "solopreneurs": "automatizacija za solopreneure",
+        "notion": "Notion AI",
+        "zapier": "Zapier tokovi rada",
+        "entrepreneurs": "AI za preduzetnike"
+      }
+    },
+    "mobile": {
+      "hero": {
+        "title": "Razvoj prilagođenih mobilnih aplikacija",
+        "description": "Pravimo mobilne aplikacije koje su brze, pouzdane i jednostavne za korišćenje, bilo da započinješ novi projekat ili unapređuješ postojeći. U BW Digit-u pretvaramo tvoju ideju u funkcionalan proizvod sa čistim dizajnom i pametnom, skalabilnom tehnologijom.",
+        "bullets": {
+          "one": "👉 Responzivna. Pouzdana. Pravljena za rast.",
+          "two": "🎯 Hajde da napravimo aplikaciju koju korisnici vole!",
+          "three": "📞 Započni danas"
+        },
+        "imageAlt": "Responzivni dizajn tvoje mobilne aplikacije"
+      },
+      "features": {
+        "title": "Šta nudimo",
+        "description": "Pružamo kompletne usluge razvoja mobilnih aplikacija od početne ideje do konačnog lansiranja, prilagođene tvojim poslovnim ciljevima.",
+        "imgAlt": "Rešenja za iOS i Android aplikacije po tvojoj meri",
+        "items": {
+          "ios": {
+            "title": "Native razvoj aplikacija za iOS i Android",
+            "description": "Pravimo visokoperformantne native aplikacije prilagođene svakoj platformi:",
+            "highlights": {
+              "swift": "Swift razvoj za iOS",
+              "kotlin": "Kotlin razvoj za Android",
+              "performance": "Brze, stabilne aplikacije sa native funkcijama",
+              "guidelines": "UI dizajn usklađen sa Apple i Google smernicama"
+            }
+          },
+          "cross": {
+            "title": "Rešenja za više platformi",
+            "description": "Napravimo jednom, koristiš svuda:",
+            "highlights": {
+              "flutter": "Razvoj aplikacija u Flutter‑u",
+              "react": "React Native za iOS i Android",
+              "code": "Jedna baza koda = dosledno korisničko iskustvo",
+              "experience": "Brža izrada i niži troškovi razvoja"
+            }
+          },
+          "complete": {
+            "title": "Razvoj mobilnih aplikacija od početka do kraja",
+            "description": "Mi vodimo ceo razvojni proces, tako da ti ne moraš:",
+            "highlights": {
+              "design": "UI/UX dizajn fokusiran na korisnika i izrada prototipova",
+              "backend": "Skalabilni backend sistemi i API integracije",
+              "api": "QA testiranje, optimizacija aplikacije i objavljivanje",
+              "publishing": "Puna podrška za prijavu na App Store i Google Play"
+            }
+          },
+          "fastDevelopment": {
+            "title": "Brz razvoj",
+            "description": "Brzo lansiranje uz kvalitetan kod"
+          },
+          "cleanCode": {
+            "title": "Čist kod",
+            "description": "Održiva i skalabilna arhitektura"
+          },
+          "scalable": {
+            "title": "Robustan backend",
+            "description": "Sigurna i skalabilna infrastruktura"
+          }
+        }
+      },
+      "whyChooseUs": {
+        "title": "Zašto da nas izaberete?",
+        "items": {
+          "fullCycle": "Razvoj kroz čitav ciklus, od ideje do lansiranja",
+          "tailored": "100 % prilagođeno vašem poslovnom modelu",
+          "clean": "Čist, skalabilan kod pomoću savremenih frameworka",
+          "transparent": "Transparentan proces i stalna komunikacija"
+        },
+        "imageAlt": "Proces razvoja mobilnih aplikacija"
+      },
+      "technologies": {
+        "title": "Tehnologije koje koristimo za izradu tvoje aplikacije",
+        "description": "Koristimo moderne i pouzdane tehnologije kako bi tvoja aplikacija radila glatko, brzo, bez grešaka i rasla zajedno s tvojim biznisom.",
+        "items": {
+          "flutter": "Flutter",
+          "react": "React Native",
+          "swift": "Swift",
+          "kotlin": "Kotlin",
+          "nodejs": "Node.js",
+          "firebase": "Firebase",
+          "aws": "AWS",
+          "mongodb": "MongoDB",
+          "graphql": "GraphQL",
+          "laravel": "Laravel"
+        }
+      },
+      "useCases": {
+        "title": "Gde mobilne aplikacije prave stvarnu razliku",
+        "subtitle": "Naša rešenja za mobilne aplikacije prilagođena su potrebama tvog biznisa i industrije. Evo kako pomažemo kompanijama da rastu uz pametne i efikasne aplikacije:",
+        "items": {
+          "onDemand": {
+            "title": "Aplikacije za usluge na zahtev",
+            "description": "Od dostave do kućnih popravki – napravi responzivne i jednostavne aplikacije za korisnike koji očekuju brzinu i praktičnost.",
+            "linkText": "Saznaj više"
+          },
+          "business": {
+            "title": "Alati za poslovnu produktivnost",
+            "description": "Pomozi svom timu da ostane organizovan uz mobilne aplikacije koje olakšavaju svakodnevne zadatke, komunikaciju i upravljanje timovima.",
+            "linkText": "Pogledaj detalje"
+          },
+          "ecommerce": {
+            "title": "E-commerce i marketplace aplikacije",
+            "description": "Pruži svojim korisnicima prijatno iskustvo kupovine uz aplikacije koje omogućavaju lako pretraživanje, kupovinu i sigurno plaćanje.",
+            "linkText": "Pročitaj više"
+          },
+          "travel": {
+            "title": "Putne i lifestyle aplikacije",
+            "description": "Kreiraj zanimljiva mobilna iskustva koja korisnicima pomažu u pokretu od planiranja putovanja do lokalnih preporuka.",
+            "linkText": "Pogledaj kako funkcioniše"
+          },
+          "social": {
+            "title": "Aplikacije za društvene mreže",
+            "description": "Pokreni platforme za zajednicu, dopisivanje i interakciju u realnom vremenu uz snažan backend i moderan korisnički interfejs.",
+            "linkText": "Započni odmah"
+          }
+        }
+      },
+      "projects": {
+        "title": "Uspešne priče",
+        "items": {
+          "swiftshop": {
+            "title": "SwiftShop",
+            "description": "Cross-platform e-commerce aplikacija za Prodavnice sa QR skeniranjem, sinhronizovanim korpama i in-app chatom. Realizovana za 3 meseca.",
+            "testimonial": {
+              "quote": "Zabeležili smo 40 % rast korisničke angažovanosti zahvaljujući aplikaciji. Topla preporuka!",
+              "author": "Laura H.",
+              "location": "Austrija"
+            }
+          },
+          "cleanbee": {
+            "title": "CleanBee",
+            "description": "Mobilna aplikacija za zakazivanje čišćenja sa praćenjem lokacije u realnom vremenu, jednostavnim terminima i sigurnim plaćanjem unutar aplikacije."
+          }
+        }
+      },
+      "testimonials": {
+        "title": "Utisci klijenata",
+        "subtitle": "Ono što naši klijenti kažu o mobilnim aplikacijama",
+        "items": {
+          "nina": {
+            "author": "Nina L.",
+            "position": "Product Manager",
+            "quote": "BW Digit je našu ideju pretvorio u elegantnu, modernu aplikaciju koju korisnici obožavaju. Redovne nadogradnje i odličan dizajn su posebno cenjeni."
+          },
+          "marko": {
+            "author": "Marko B.",
+            "position": "Osnivač startupa",
+            "quote": "Od wireframe‑a do App Store‑a – sve je prošlo glatko. Sjajan tim, fenomenalna komunikacija."
+          },
+          "laura": {
+            "author": "Laura H.",
+            "position": "Marketing direktor",
+            "quote": "Njihova ekspertiza u razvoju mobilnih aplikacija pomogla nam je da kreiramo intuitivnu i korisniku prijatnu aplikaciju koju naši klijenti vole."
+          },
+          "jovana": {
+            "author": "Jovana M.",
+            "position": "Marketing direktor",
+            "quote": "Njihova stručnost u razvoju mobilnih aplikacija omogućila je da napravimo intuitivnu aplikaciju koju naši korisnici obožavaju."
+          },
+          "lauras": {
+            "author": "Laura S.",
+            "position": "Marketing menadžer u B2B Solutions",
+            "quote": "Aplikacija koju su razvili unapredila je naše poslovne procese i značajno povećala zadovoljstvo klijenata."
+          },
+          "markus": {
+            "author": "Markus H.",
+            "position": "CEO kompanije IndustrialTech GmbH",
+            "quote": "BW Digit‑ova tehnička ekspertiza i razumevanje naše industrije rezultirali su moćnim mobilnim rešenjem."
+          },
+          "isabel": {
+            "author": "Isabel K.",
+            "position": "Email marketing specijalista u RetailCo",
+            "quote": "Integracija mobilne aplikacije sa našim marketing alatima bila je besprekorno. Izvanredan rad!"
+          },
+          "tim": {
+            "author": "Tim R.",
+            "position": "Performance marketing lider u D2C brendu",
+            "quote": "Izvanredna usluga razvoja mobilnih aplikacija. Dobijeno je tačno ono što nam je trebalo, na vreme i u okviru budžeta."
+          },
+          "anna": {
+            "author": "Anna M.",
+            "position": "Vlasnica Wellness studija",
+            "quote": "Aplikacija je transformisala način interakcije s klijentima. Rezervacije i upravljanje su sada zapanjujuće jednostavni."
+          }
+        }
+      },
+
+      "specialOffer": {
+        "title": "Launch paket za aplikaciju: Sve što ti treba za uspešan start",
+        "subtitle": "Specijalna ponuda",
+        "description": "Spreman da svoju ideju pretvoriš u aplikaciju na App Store-u ili Google Play-u? Planiraš brz start, bez preskakanja važnih koraka? Naš Launch paket pokriva sve što ti je potrebno da kreneš sigurno i sa samopouzdanjem.",
+        "sections": {
+          "included": {
+            "heading": "Šta je uključeno",
+            "items": [
+              "Prilagođen razvoj mobilne aplikacije",
+              "UI/UX dizajn napravljen za stvarne korisnike",
+              "Postavljanje backenda i integracija sa trećim stranama"
+            ]
+          },
+          "whatYouGet": {
+            "heading": "Šta dobijaš",
+            "items": [
+              "Besplatne konsultacije",
+              "Brz vremenski okvir razvoja za brže lansiranje",
+              "Dizajn fokusiran na konverzije koji podstiče korisničku akciju",
+              "Iskustvo usmereno na korisnika koje zadržava pažnju"
+            ]
+          }
+        },
+        "cta": {
+          "bottomLine": "🚀 Idealno za startape i rastuće biznise koji žele da skaliraju.",
+          "title": "Zakaži besplatne konsultacije!"
+        }
+      },
+      "internalLinks": {
+        "title": "Istraži više usluga",
+        "items": {
+          "uiux": "Saznaj više o UI/UX dizajnu",
+          "ecommerce": "Istraži eCommerce rešenja",
+          "web": "Treba ti i sajt? Prilagođeni web razvoj",
+          "customWeb": "Prilagođeni razvoj web sajtova",
+          "aiAutomation": "Optimizuj procese uz AI automatizaciju",
+          "marketingSeo": "Ojačaj svoj brend uz Marketing & SEO",
+          "discover": "Otkrij šta radimo"
+        }
+      },
+      "keywords": {
+        "development": "Razvoj mobilnih aplikacija",
+        "ios": "iOS razvoj",
+        "android": "Android razvoj",
+        "flutter": "Flutter",
+        "react": "React Native",
+        "custom": "Prilagođene aplikacije",
+        "design": "Dizajn aplikacija",
+        "germany": "Nemačka",
+        "cross": "Cross-Platform razvoj",
+        "publishing": "Objavljivanje aplikacije"
+      },
+      "cta": {
+        "title": "Spreman da napraviš svoju mobilnu aplikaciju?",
+        "subtitle": "Hajde da zajedno oživimo tvoju viziju uz tim koji pravi aplikacije koje korisnici vole i koje rastu zajedno sa tvojim biznisom!",
+        "start_project": "Započni svoj projekat",
+        "get_quote": "📩 Zatraži besplatnu ponudu"
+      }
+    },
+    "ecommerce": {
+      "hero": {
+        "title": "E-Commerce rešenja koja ti pomažu da prodaš više ",
+        "description": "Od novih online prodavnica do rastućih brendova, BW Digit pravi E-Commerce sajtove koji su sigurni, prilagođeni mobilnim uređajima i dizajnirani da pretvore posetioce u kupce na svakom uređaju.",
+        "ctaBtn": "Zakažite besplatnu stratešku sesiju",
+        "imageAlt": "Prilagođena E-Commerce rešenja za tvoju online prodavnicu"
+      },
+      "features": {
+        "title": "Šta dobijaš uz naš e-commerce ",
+        "subtitle": "Kompletna e‑commerce rešenja",
+        "description": "Pravimo E-Commerce sajtove koji su brzi, sigurni i osmišljeni tako da ti pomognu da rasteš bilo da tek počinješ ili već razvijaš svoj biznis:",
+        "items": {
+          "store": {
+            "title": "Prilagođeni razvoj prodavnice",
+            "description": "Izgradi svoju online prodavnicu pomoću pravih alata Shopify, WooCommerce ili rešenja sa prilagođenim CMS-om:",
+            "highlights": {
+              "theme": "Prilagođene teme koje odgovaraju tvom brendu",
+              "plugin": "Integracija plugina i aplikacija",
+              "payment": "Postavljanje sistema za plaćanje",
+              "optimization": "Optimizacija brzine i strukture prodavnice"
+            }
+          },
+          "mobile": {
+            "title": "Mobile-First dizajn",
+            "description": "Tvoja prodavnica će izgledati odlično i raditi besprekorno na svim ekranima, posebno na mobilnim uređajima:",
+            "highlights": {
+              "layouts": "Responsivni rasporedi za telefone i tablete",
+              "interface": "Jednostavna navigacija sa dizajnom prilagođenim dodiru",
+              "loading": "Brzo učitavanje na mobilnim uređajima",
+              "experience": "Korisničko iskustvo nalik aplikaciji"
+            }
+          },
+          "security": {
+            "title": "Plaćanja i sigurnost",
+            "description": "Postavljamo sigurne sisteme kako bismo zaštitili podatke kupaca i izgradili poverenje:",
+            "highlights": {
+              "ssl": "SSL sertifikat i enkripcija podataka",
+              "gateway": "Integracija platnih sistema (Stripe, PayPal i drugi)",
+              "fraud": "Ugrađeni alati za zaštitu od prevara"
+            }
+          },
+          "language": {
+            "title": "Podrška za više jezika i valuta",
+            "description": "Prodaj globalno uz prodavnicu koja govori jezik tvojih kupaca i koristi njihovu lokalnu valutu:",
+            "highlights": {
+              "switching": "Prebacivanje jezika i regiona na osnovu lokacije korisnika",
+              "currency": "Automatska konverzija valuta",
+              "pricing": "Lokalne cene i opcije plaćanja"
+            }
+          },
+          "automation": {
+            "title": "Automatizacija pozadinskih procesa",
+            "description": "Uštedi vreme uz sisteme koji u pozadini upravljaju zalihama, porudžbinama i naplatom:",
+            "highlights": {
+              "inventory": "Ažuriranja i obaveštenja o zalihama u realnom vremenu",
+              "orders": "Automatska obrada porudžbina",
+              "invoicing": "Fakturisanje i izveštaji o prodaji"
+            }
+          }
+        }
+      },
+      "targetAudience": {
+        "title": "Industrije klijenata kojima smo pomogli",
+        "items": {
+          "fashion": "Moda i odeća",
+          "health": "Zdravlje i wellness",
+          "education": "Obrazovanje",
+          "food": "Hrana i piće",
+          "digital": "Digitalni proizvodi",
+          "handmade": "Ručno pravljeni proizvodi i umetnost",
+          "saas": "SaaS",
+          "subscription": "Pretplatnički servisi"
+        }
+      },
+      "benefits": {
+        "title": "Zašto da sarađuješ sa BW Digit kada je u pitanju E-Commerce? ",
+        "subtitle": "Pomažemo biznisima da pokrenu i razviju online prodavnice koje su brze, sigurne i dizajnirane za konverzije",
+        "items": {
+          "scalable": {
+            "heading": "Skalabilan E-Commerce razvoj",
+            "description": "Napravljen da raste zajedno sa tvojim biznisom bez obzira na veličinu ili broj proizvoda."
+          },
+          "design": {
+            "heading": "Dizajn prodavnice prilagođen za konverzije",
+            "description": "Čisti, lako upotrebljivi rasporedi koji vode posetioce od proizvoda do naplate."
+          },
+          "support": {
+            "heading": "Stalna podrška i optimizacija prodavnice",
+            "description": "Pomažemo ti da sve funkcioniše bez problema i da vremenom poboljšaš rezultate."
+          },
+          "consultation": {
+            "heading": "Besplatna konsultacija",
+            "description": "Popričajmo o tvojim ciljevima i o tome kako možemo da ti pomognemo da ih ostvariš."
+          }
+        }
+      },
+      "popularResources": {
+        "title": "Zašto da sarađuješ sa BW Digit kada je u pitanju E-Commerce",
+        "subtitle": "Pomažemo biznisima da pokrenu i razviju online prodavnice koje su brze, sigurne i dizajnirane za konverzije.",
+        "cta": "Šta je uključeno:",
+        "items": {
+          "website": {
+            "title": "Jednostranična e‑commerce web stranica",
+            "description": "Započnite sa profesionalnom onlajn prodavnicom.",
+            "category": "Specijalna ponuda"
+          },
+          "responsive": {
+            "title": "Potpuno responzivan dizajn",
+            "description": "Savršena prikaz na desktop i mobilnim uređajima.",
+            "category": "Uključeno"
+          },
+          "strategy": {
+            "title": "BESPLATNA: Strategijska sesija",
+            "description": "Konsultacija ideja i planiranje poslovne strategije.",
+            "category": "Bonus"
+          }
+        }
+      },
+      "cta": {
+        "title": "Spreman da pokreneš ili razviješ svoju online prodavnicu?",
+        "description": "Dozvoli BW Digit timu da izgradi E-Commerce sajt koji se brzo učitava, omogućava sigurna plaćanja i olakšava tvojim kupcima da kupuju.",
+        "buttons": {
+          "strategy": "Zakaži besplatnu stratešku sesiju",
+          "quote": "Zatraži prilagođenu ponudu",
+          "demo": "Zatraži demo"
+        }
+      },
+      "testimonials": {
+        "title": "Uspešne priče klijenata",
+        "items": {
+          "maya": {
+            "quote": "BW Digit je transformisao naš onlajn shop svojim e‑commerce stručnostima. Besprekorno iskustvo kupovine i sigurni načini plaćanja znatno su povećali našu prodaju.",
+            "author": "Maya D.",
+            "position": "CEO, GreenFit Store"
+          },
+          "niklas": {
+            "quote": "Saradnja sa BW Digitom bila je prekretnica za naš artisanal marketplace. Njihovo multi‑vendor rešenje i pažnja prema detaljima stvorili su platformu koju prodavci i kupci obožavaju.",
+            "author": "Niklas W.",
+            "position": "Osnivač, Artisan Goods"
+          },
+          "marko": {
+            "quote": "Tim BW Digit prevazišao je naša očekivanja. Njihova tehnička stručnost u e‑commerce-u i posvećenost kvalitetu pomogli su da pokrenemo naš shop pre roka.",
+            "author": "Marko B.",
+            "position": "E‑Commerce direktor, SwiftShop"
+          },
+          "isabel": {
+            "quote": "Naša stopa konverzije se značajno poboljšala nakon njihovih optimizacija. Pristup zasnovan na podacima i poboljšanja UX-a su napravili pravu razliku.",
+            "author": "Isabel K.",
+            "position": "Marketing menadžer, CleanBee"
+          },
+          "jovana": {
+            "quote": "Višejezična podrška i funkcije lokalizacije pomogle su nam da uspešno proširimo poslovanje na nova tržišta. Stručnost BW Digit-a u međunarodnom e‑commerce‑u je izvanredna.",
+            "author": "Jovana M.",
+            "position": "International Sales Lead, SwiftShop"
+          }
+        }
+      },
+      "projects": {
+        "title": "Naši najnoviji e‑commerce projekti",
+        "description": "Pogledajte neke od naših nedavnih e‑commerce projekata",
+        "items": {
+          "greenfit": {
+            "title": "GreenFit Store",
+            "type": "E‑commerce platforma",
+            "description": "Održiv prodavnica opreme za fitnes sa glatkim iskustvom kupovine i fokusom na ekologiju"
+          },
+          "artisan": {
+            "title": "Artisan Goods",
+            "type": "Onlajn marketplace",
+            "description": "Kuratirani marketplace ručno rađenih proizvoda uz multi‑vendor podršku"
+          }
+        }
+      },
+      "internalLinks": {
+        "title": "Povezane usluge",
+        "items": {
+          "web": {
+            "text": "Prilagođena web izrada"
+          },
+          "marketing": {
+            "text": "Marketing & SEO"
+          },
+          "uiux": {
+            "text": "UI/UX dizajn"
+          }
+        }
+      },
+      "technologies": {
+        "title": "Tehnologije i platforme koje koristimo  ",
+        "description": "Tvoju online prodavnicu gradimo koristeći proverene, visokoperformantne platforme i alate koji podržavaju rast, brzinu i fleksibilnost.",
+        "items": {
+          "shopify": "Shopify",
+          "woocommerce": "WooCommerce",
+          "nextjs": "Next.js",
+          "react": "React",
+          "laravel": "Laravel",
+          "stripe": "Stripe",
+          "paypal": "PayPal",
+          "klarna": "Klarna"
+        }
+      },
+      "keywords": {
+        "custom": "prilagođen e‑commerce",
+        "store": "rešenja za onlajn prodavnice",
+        "woocommerce": "woocommerce razvoj",
+        "shopify": "shopify ekspert",
+        "seo": "e‑commerce SEO",
+        "products": "prodaja proizvoda online",
+        "agency": "e‑commerce agencija"
+      }
+    },
+    "marketingSeo": {
+      "hero": {
+        "title": "Marketing i SEO usluge koje zaista donose rezultate",
+        "description": "Želiš da privučeš više posetilaca i pretvoriš ih u prave kupce?U BW Digit-u kreiramo pametne, na rezultate fokusirane SEO i marketinške strategije koje stavljaju tvoj biznis pred prave ljude. Hajde da pretvorimo pretrage u prodaju, uz SEO strategije koje donose rezultate!",
+        "imageAlt": "Marketing i SEO strategija za rast tvog biznisa"
+      },
+      "features": {
+        "title": "Zašto izabrati BW Digit za marketing i SEO? ",
+        "description": "Pomažemo tvom biznisu da se istakne online, dođe do pravih ljudi i pretvori klikove u prave leadove. Naš pristup pokriva sve što je potrebno za rezultate.",
+        "imageAlt": "Usluge za poboljšanje tvog rangiranja na Google-u",
+        "items": {
+          "seo": {
+            "title": "SEO od A do Š",
+            "description": "Brinemo o svakom aspektu SEO-a, kako bi tvoj sajt bolje funkcionisao i rangirao više:",
+            "highlights": [
+              "Kompletan on-page, off-page i tehnički SEO",
+              "Detaljni SEO audit-i i istraživanje ključnih reči",
+              "Optimizacija brzine sajta, mobilne strukture i indeksiranja",
+              "SEO strategija sadržaja zasnovana na stvarnoj nameri korisnika"
+            ]
+          },
+          "advertising": {
+            "title": "Plaćeni oglasi koji dopiru do prave publike",
+            "description": "Vodimo oglasne kampanje koje donose saobraćaj i konverzije bez rasipanja budžeta. Fokusiramo se na podatke, ne na nagađanja:",
+            "highlights": [
+              "Postavljanje i upravljanje Google oglasima",
+              "Kampanje na Facebooku i Instagramu",
+              "Oglasi na TikTok-u, LinkedIn-u i drugim mrežama",
+              "Retargeting za tople leadove",
+              "Praćenje performansi i izveštavanje o oglasima"
+            ]
+          },
+          "content": {
+            "title": "Sadržaj koji donosi leadove",
+            "description": "Kreiramo sadržaj koji je lako pronaći i vredan čitanja:",
+            "highlights": [
+              "SEO blog postovi i stranice usluga",
+              "Email kampanje koje angažuju korisnike",
+              "Lead magneti i sadržaj za prodajne tokove"
+            ]
+          },
+          "local": {
+            "title": "Lokalni SEO za klijente u tvojoj blizini",
+            "description": "Pomažemo lokalnim biznisima da budu primećeni u svom okruženju:",
+            "highlights": [
+              "Postavljanje i optimizacija Google Business profila",
+              "Lokalni ključni pojmovi koji odgovaraju navikama pretrage",
+              "Upravljanje recenzijama i izgradnja lokalnih citata",
+              "Veća vidljivost tamo gde tvoji klijenti zapravo traže usluge: u svom komšiluku. Tvoj biznis u vrhu rezultata pretrage kad je to najvažnije."
+            ]
+          }
+        }
+      },
+      "tools": {
+        "title": "Alati koji pokreću tvoj SEO i marketing",
+        "description": "Koristimo proverene alate za planiranje, merenje i unapređenje svake kampanje tako da tačno znaš šta funkcioniše a šta treba poboljšati. Neke od naših omiljenih platformi uključuju:",
+        "items": {
+          "googleAnalytics": "Google Analytics",
+          "semrush": "SEMrush",
+          "ahrefs": "Ahrefs",
+          "searchConsole": "Search Console",
+          "wordpress": "Hotjar",
+          "mailchimp": "Meta Ads Manager",
+          "meta": "Mailchimp"
+        }
+      },
+      "services": {
+        "title": "Kompletan digitalni marketing na jednom mestu ",
+        "description": "Od rangiranja na Google-u do plaćenog marketinga i emailova koji konvertuju pokrivamo sve tvoje potrebe pod jednim krovom.",
+        "categories": {
+          "seo": {
+            "title": "Kompletne SEO usluge",
+            "description": "Pomažemo tvom sajtu da dođe do prave publike i ostvari bolje rezultate u pretrazi:",
+            "items": [
+              "Istraživanje ključnih reči i analiza konkurencije",
+              "On-page SEO: optimizacija naslova, sadržaja i strukture stranice",
+              "Tehnička optimizacija (brzina, mobilna verzija, indeksiranje)",
+              "Izgradnja backlinkova za dugoročni rast",
+              "Optimizacija Google Business profila"
+            ]
+          },
+          "paid": {
+            "title": "Plaćeno oglašavanje",
+            "description": "Kreiramo i upravljamo oglasnim kampanjama koje donose stvaran saobraćaj i leadove.",
+            "items": [
+              "Google oglasi: pretraga, display i video",
+              "Facebook i Instagram kampanje",
+              "LinkedIn kampanje za B2B",
+              "Retargeting i strategija prodajnog levka"
+            ]
+          },
+          "content": {
+            "title": "Sadržaj i email marketing",
+            "description": "Pišemo sadržaj koji se rangira i emailove koji dobijaju odgovore:",
+            "items": [
+              "Blog postovi optimizovani za SEO",
+              "Email sekvence koje grade poverenje i donose rezultate",
+              "Lead magneti i newsletteri za rast tvoje liste"
+            ]
+          }
+        }
+      },
+      "projects": {
+        "title": "Izdvojeni Projekti",
+        "items": {
+          "sustainable": {
+            "title": "Brend održive mode",
+            "description": "Organski saobraćaj povećan za 300%"
+          },
+          "dental": {
+            "title": "Lokalni SEO za zubarsku ordinaciju",
+            "description": "#1 na Google-u za 3 meseca"
+          },
+          "coaching": {
+            "title": "Generisanje leadova za koučing biznis",
+            "description": "Uspešna implementacija email levka"
+          }
+        }
+      },
+      "testimonials": {
+        "title": "Iskustva naših klijenata sa SEO i marketing uslugama",
+        "subtitle": "Pravi komentari od biznisa kojima smo pomogli da unaprede svoje sajtove, aplikacije i korisničko iskustvo.",
+        "authors": {
+          "miras": "Mira S.",
+          "thomasg": "Tomas G.",
+          "jovanam": "Jovana M.",
+          "lauras": "Laura S.",
+          "markush": "Markus H.",
+          "isabelk": "Isabela K."
+        },
+        "positions": {
+          "miras": "Osnivačica EcoBranda",
+          "thomasg": "Vlasnik firme",
+          "jovanam": "Direktorka marketinga",
+          "lauras": "Marketing menadžerka u B2B Solutions",
+          "markush": "CEO kompanije IndustrialTech GmbH",
+          "isabelk": "Marketing menadžerka"
+        },
+        "quotes": {
+          "miras": "BW Digit je transformisao našu online prisutnost. Njihove SEO strategije su nam pomogle da efikasno dosegnemo ekološki osvešćenu ciljnu grupu, što je rezultiralo rastom organskog saobraćaja od 200%.",
+          "thomasg": "Njihov pristup zasnovan na podacima bio je ključan za naš rast. Stručnost tima u SEO i digitalnom marketingu donela je merljive rezultate za samo nekoliko meseci.",
+          "jovanam": "Rad sa BW Digit-om je bio prekretnica. Njihova sveobuhvatna marketinška strategija nam je omogućila da se rangiramo na vrhu za najvažnije pojmove u našoj industriji.",
+          "lauras": "Povrat investicije koji smo ostvarili putem SEO i content marketing aktivnosti BW Digit-a je premašio naša očekivanja. Zaista razumeju B2B tržište.",
+          "markush": "Njihova tehnička SEO ekspertiza i razumevanje industrijskog tržišta pomogli su nam da izgradimo snažno digitalno prisustvo u konkurentnom sektoru.",
+          "isabelk": "Naša stopa konverzije se značajno poboljšala nakon što smo implementirali njihove optimizacije. Pristup zasnovan na podacima i poboljšano korisničko iskustvo su zaista napravili razliku."
+        }
+      },
+      "specialOffer": {
+        "title": "Ograničena Ponuda",
+        "subtitle": "Besplatan SEO pregled i strateški poziv ",
+        "description": "Kada rezervišeš bilo koji marketinški paket sa BW Digit-om, dobijaš kompletan SEO audit i konsultacije bez dodatnih troškova.",
+        "items": {
+          "audit": {
+            "title": "Pregled SEO audita",
+            "description": "Izvršićemo potpunu proveru SEO stanja tvog sajta od tehničkih problema do nedostataka u sadržaju.",
+            "category": "Besplatno"
+          },
+          "strategy": {
+            "title": "Personalizovana strateška sesija",
+            "description": "Besplatan jedan-na-jedan poziv sa našim timom kako bismo zajedno razmotrili šta odgovara tvojim poslovnim idejama i ciljnoj publici.",
+            "category": "Uključeno"
+          },
+          "plan": {
+            "title": "Jasan plan u 3 koraka, spreman odmah",
+            "description": "Dobićeš jednostavan plan koji odmah možeš primeniti. Ovaj plan će ti pomoći da poboljšaš rangiranje i privučeš više leadova.",
+            "category": "Bonus"
+          }
+        },
+        "buttons": {
+          "getStarted": "Započni odmah",
+          "learnMore": "Saznaj više"
+        }
+      },
+      "internalLinks": {
+        "title": "Povezane Usluge",
+        "links": [
+          {
+            "text": "Prilagođeni web razvoj",
+            "url": "/services/custom-web-development"
+          },
+          {
+            "text": "UI/UX Dizajn",
+            "url": "/services/ui-ux-design"
+          },
+          {
+            "text": "E-commerce rešenja",
+            "url": "/services/ecommerce"
+          },
+          {
+            "text": "Razvoj mobilnih aplikacija",
+            "url": "/services/mobile-app-development"
+          },
+          {
+            "text": "AI i automatizacija",
+            "url": "/services/ai-automation"
+          }
+        ]
+      },
+      "keywords": [
+        "SEO usluge",
+        "Digitalni marketing",
+        "Strategija sadržaja",
+        "Lokalni SEO",
+        "Tehnički SEO",
+        "Marketing na društvenim mrežama",
+        "Google Ads",
+        "Analitika",
+        "Optimizacija konverzija",
+        "Email marketing"
+      ],
+      "cta": {
+        "title": "Spreman da tvoj biznis krene da raste uz pravu strategiju?",
+        "description": "Pomoći ćemo ti da rasteš uz jasan SEO, ciljane oglase i strategije koje donose prave leadove ne samo klikove.",
+        "buttons": {
+          "strategy": "Zakaži besplatne konsultacije",
+          "quote": "Zatraži prilagođenu ponudu",
+          "demo": "Pogledaj primere naših kampanja"
+        }
+      }
+    },
+    "customWebDev": {
+      "hero": {
+        "title": "Prilagođeni Web Razvoj za Rast Tvog Biznisa",
+        "subtitle": "Profesionalan i ručno kodiran dizajn sajta za tvoj biznis",
+        "description": "Od brzo učitavajućih landing stranica do kompletnih web platformi, pravimo sajtove koji su sigurni, skalabilni i usklađeni sa tvojim poslovnim ciljevima.",
+        "heroCta": " Započni svoj projekat danas",
+        "imageAlt": "Profesionalan i ručno kodiran dizajn sajta za tvoj biznis"
+      },
+      "services": {
+        "title": "Prilagođeni sajtovi koji odgovaraju potrebama tvog biznisa",
+        "description": "Ne koristimo šablone niti prečice. Svaki sajt gradimo od nule: brz, SEO-spreman i napravljen da podrži tvoj svakodnevni rad.",
+        "itemsHeading": "Šta dobijaš:",
+        "items": [
+          "Mobile-First dizajn: Responsivni rasporedi koji funkcionišu na svakom uređaju",
+          "Prilagođeni kod: Čist, skalabilan i spreman za dugoročni rast",
+          "SEO-struktura: Brzo učitavanje, Clean code i pametna struktura prilagođena pretraživačima",
+          "Integracija sa trećim stranama: Povezujemo sajt sa CRM-ovima, API-jima, sistemima za plaćanje i još mnogo toga",
+          "CMS rešenja: WordPress i drugi sistemi, kada ti je potrebna potpuna kontrola nad sadržajem"
+        ],
+        "imageAlt": "Full-stack razvoj za tvoj poslovni sajt"
+      },
+      "technologies": {
+        "title": "Tehnologije koje koristimo za izradu prilagođenih sajtova",
+        "description": "U BW Digit-u koristimo pouzdane, moderne tehnologije za kreiranje sigurnih, skalabilnih i visokoperformantnih web rešenja koja traju i lako se održavaju.",
+        "categories": {
+          "frameworks": {
+            "title": "Framework-i i jezici",
+            "description": "Koristimo proverene framework-e i backend jezike za brz i fleksibilan razvoj.",
+            "items": [
+              "React, Next.js, Vue.js",
+              "Node.js, PHP, Laravel",
+              "Python (Django, FastAPI)"
+            ]
+          },
+          "styling": {
+            "title": "Stilovi i UI biblioteke",
+            "description": "Za čiste, responsivne interfejse koji izgledaju dobro na svakom uređaju.",
+            "items": ["Tailwind CSS", "Bootstrap", "Styled Components"]
+          },
+          "cms": {
+            "title": "CMS i headless platforme",
+            "description": "Upravljaj sadržajem na svoj način uz fleksibilne CMS i headless sisteme.",
+            "items": [
+              "WordPress (klasičan i headless)",
+              "Sanity, Strapi, Contentful"
+            ]
+          },
+          "database": {
+            "title": "Baze podataka i backend alati",
+            "description": "Sigurne i skalabilne baze podataka i backend podrška za sve vrste web aplikacija.",
+            "items": [
+              "MongoDB, PostgreSQL, MySQL",
+              "Firebase, Supabase: za aplikacije u realnom vremenu i jednostavno backend rešenje"
+            ]
+          },
+          "devops": {
+            "title": "DevOps i deployment",
+            "description": "Koristimo proverene alate za deployment, performanse i ažuriranja.",
+            "items": [
+              "Docker, Vercel, Netlify",
+              "GitHub Actions",
+              "Cloudflare za sigurnost i brzinu"
+            ]
+          }
+        }
+      },
+      "targetAudience": {
+        "title": "Za koga pravimo prilagođene sajtove",
+        "description": "Naše usluge prilagođenog razvoja namenjene su različitim vrstama biznisa i timova u svim fazama poslovanja.",
+        "items": [
+          "Startapi koji lansiraju MVP ili grade nove web platforme",
+          "Mali biznisi koji žele da prošire svoje online prisustvo",
+          "Veće kompanije koje modernizuju zastarele sisteme i procese",
+          "Kreativni profesionalci i lični brendovi kojima treba jak web nastup",
+          "Agencije kojima je potrebna pouzdana frontend ili backend podrška",
+          "Interni timovi koji razvijaju dashboarde, portale ili specifične poslovne alate"
+        ],
+        "footer": "Bilo da krećeš od nule ili osvežavaš nešto što više ne funkcioniše, pomoći ćemo ti da to uradiš kako treba.",
+        "footerCta": "Hajde da napravimo nešto moćno što će pomoći tvom biznisu da raste online."
+      },
+      "problems": {
+        "title": "Rešavamo konkretne izazove u web razvoju",
+        "subtitle": "Ako te trenutni sajt koči tu smo da to popravimo. Pravimo čista, brza i potpuno prilagođena rešenja koja pomažu tvom biznisu da se istakne online.",
+        "items": [
+          {
+            "problem": "Generički šabloni koji ne odgovaraju tvom brendu",
+            "description": "Pravimo potpuno prilagođene sajtove bez gotovih tema i šablona."
+          },
+          {
+            "problem": "Spor sajt koji se loše rangira",
+            "description": "Naši sajtovi su brzi, optimizovani i napravljeni prema SEO principima od prvog dana."
+          },
+          {
+            "problem": "Nepovezani alati i sistemi",
+            "description": "Povezujemo tvoj sajt sa CRM-ovima, API-jima, alatima za rezervaciju i još mnogo toga da sve funkcioniše zajedno."
+          },
+          {
+            "problem": "Nemaš jasnu strategiju za rast",
+            "description": "Pomažemo ti da definišeš pametan, skalabilan put unapred uz sajt koji podržava tvoje poslovne ciljeve."
+          }
+        ],
+        "note": "BW Digit vam pomaže da se izdvojite iz mase pomoću pametnih rešenja po meri koja zaista funkcionišu.",
+        "solution": "Imamo rešenje",
+        "cta": "Počni sada"
+      },
+      "projects": {
+        "title": "Nedavni web razvoj projekti BW Digit-a",
+        "subtitle": "Izradili smo brze, funkcionalne i skalabilne sajtove za klijente iz različitih industrija. Evo nekoliko sajtova koje smo nedavno napravili:",
+        "items": {
+          "swiftshop": {
+            "title": "SwiftShop – E-commerce platforma",
+            "description": "Online prodavnica visokih performansi napravljena uz Next.js i Stripe. Uključuje ažuriranje zaliha u realnom vremenu, siguran checkout i ugrađenu analitiku za praćenje ponašanja korisnika.",
+            "imageAlt": "Ručno kodiran sajt za tvoj biznis"
+          },
+          "artisan": {
+            "title": "Marketplace za lokalne zanatlije, sa dashboardima za prodavce i UX prilagođenim kupovini.",
+            "description": "Prilagođeni marketplace razvijen pomoću React-a i Node.js-a. Funkcionalnosti uključuju prodajne dashboarde, sigurna plaćanja i prijatno iskustvo kupovine za korisnike.",
+            "imageAlt": "Responzivni web razvoj za sve uređaje"
+          },
+          "greenfit": {
+            "title": "GreenFit – e-shop za fitnes opremu sa 3D prikazima, pametnim preporukama i mobile-first dizajnom.",
+            "description": "Moderan online shop za fitness opremu sa 3D prikazima proizvoda, personalizovanim preporukama i mobile-first dizajnom za glatko pretraživanje.",
+            "imageAlt": "Brzo učitavanje i prilagođen izgled sajta"
+          }
+        }
+      },
+      "specialOffer": {
+        "badge": "Ograničena ponuda",
+        "title": "Landing Page Pro Paket",
+        "description": "Pokrećeš proizvod, uslugu ili lični brend? Ovaj paket ti pomaže da se lansiraš uz brzu, responsivnu landing stranicu napravljenu za konverzije.",
+        "featuresHeading": " Šta je uključeno:",
+        "features": [
+          "Jednostranično custom-coded web rešenje: mobilno prilagođeno i pravljeno od nule",
+          "Copywriting koji pretvara posetioce u kupce: jasne i akcione poruke",
+          "Optimizacija slika: brže učitavanje za bolji učinak",
+          "Besplatan SEO audit + 30-minutna strateška sesija: znaćeš kako da rasteš od prvog dana",
+          "Konsultacije za hosting: pomoć pri izboru pravog hostinga za tvoje potrebe"
+        ],
+        "note": "Ograničena ponuda: Hajde da razgovaramo već danas!",
+        "cta": "Zakaži besplatne konsultacije"
+      },
+      "buttons": {
+        "startProject": "Započni svoj projekat danas",
+        "seeWork": "Pogledaj naše radove"
+      },
+      "testimonials": {
+        "title": "Šta naši klijenti kažu",
+        "subtitle": "Iskustva kompanija i preduzetnika koji su radili sa nama",
+        "items": {
+          "amina": {
+            "author": "Amina B.",
+            "position": "Autorka i kouč",
+            "quote": "Moja landing stranica po meri udvostručila je broj prijava na mejling listu za samo nedelju dana. Znaju šta rade.",
+            "image": "Ana-R.png"
+          },
+          "luca": {
+            "author": "Luka V.",
+            "position": "Softverski inženjer",
+            "quote": "Kao developer, bio sam impresioniran čistoćom koda i skalabilnošću. Sjajan tim.",
+            "image": "Marcus K.png"
+          },
+          "sarah": {
+            "author": "Sara M.",
+            "position": "Direktorka marketinga",
+            "quote": "Sajt koji su nam napravili nije samo vizuelno lep, već i izuzetno funkcionalan. Konverzija nam je porasla za 40%.",
+            "image": "Sarah M.png"
+          },
+          "michael": {
+            "author": "Mihailo S.",
+            "position": "CTO",
+            "quote": "Njihova posvećenost detaljima i tehnička stručnost pomogli su nam da razvijemo jaku platformu koja raste zajedno sa našim biznisom.",
+            "image": "Michael S.png"
+          }
+        }
+      },
+      "quickLinks": {
+        "title": "Brzi Linkovi",
+        "items": {
+          "services": "Naše usluge",
+          "ecommerce": "E-commerce rešenja",
+          "uiux": "UI/UX Dizajn",
+          "marketing": "Marketing i SEO",
+          "contact": "Kontakt",
+          "bwdigit": "BW Digit"
+        }
+      }
+    },
+    "mobile_app": {
+      "hero": {
+        "title": "Razvoj mobilnih aplikacija u Nemačkoj",
+        "description": "Bez obzira da li pokrećete startup ili proširujete poslovno rešenje, BW Digit usluge razvoja mobilnih aplikacija oživljavaju vašu ideju sa čistim dizajnom, snažnim performansama i skalabilnom tehnologijom za budućnost.",
+        "imageAlt": "Usluge razvoja mobilnih aplikacija"
+      },
+      "features": {
+        "title": "Šta nudimo",
+        "description": "Usluge razvoja mobilnih aplikacija prilagođene vašim potrebama",
+        "items": {
+          "ios": {
+            "title": "iOS i Android razvoj",
+            "description": "Razvoj nativnih aplikacija za obe glavne platforme",
+            "highlights": {
+              "swift": "Swift za iOS razvoj",
+              "kotlin": "Kotlin za Android aplikacije",
+              "performance": "Nativne performanse i funkcionalnosti",
+              "guidelines": "Smernice dizajna specifične za platformu"
+            }
+          },
+          "cross": {
+            "title": "Rešenja za više platformi",
+            "description": "Efikasan razvoj za više platformi",
+            "highlights": {
+              "flutter": "Flutter razvoj",
+              "react": "React Native rešenja",
+              "code": "Ponovna upotreba koda",
+              "experience": "Konzistentan doživljaj na svim platformama"
+            }
+          },
+          "complete": {
+            "title": "Kompletne usluge za aplikacije",
+            "description": "Sveobuhvatna podrška za razvoj aplikacija",
+            "highlights": {
+              "design": "Prilagođen UI/UX dizajn",
+              "backend": "Backend razvoj",
+              "api": "API integracija",
+              "publishing": "Podrška za objavljivanje u prodavnicama aplikacija"
+            }
+          },
+          "fastDevelopment": {
+            "title": "Brz razvoj",
+            "description": "Brza isporuka sa kvalitetnim kodom"
+          },
+          "cleanCode": {
+            "title": "Čist kod",
+            "description": "Održiva i skalabilna arhitektura"
+          },
+          "scalable": {
+            "title": "Robustan backend",
+            "description": "Sigurna i skalabilna infrastruktura"
+          }
+        }
+      },
+      "whyChooseUs": {
+        "title": "Zašto izabrati nas?",
+        "items": {
+          "fullCycle": "Kompletan razvoj od ideje do lansiranja",
+          "tailored": "100% prilagođeno vašem poslovnom modelu",
+          "clean": "Čist, skalabilan kod koristeći moderne framework-e",
+          "transparent": "Transparentan proces i kontinuirana komunikacija"
+        },
+        "imageAlt": "Proces razvoja mobilnih aplikacija"
+      },
+      "technologies": {
+        "title": "Tehnologije koje koristimo",
+        "description": "Koristimo najnovije i najpouzdanije tehnologije za razvoj vaše aplikacije",
+        "items": {
+          "flutter": "Flutter",
+          "react": "React Native",
+          "swift": "Swift",
+          "kotlin": "Kotlin",
+          "firebase": "Firebase",
+          "nodejs": "Node.js",
+          "laravel": "Laravel"
+        }
+      },
+      "useCases": {
+        "title": "Primeri upotrebe",
+        "subtitle": "Otkrijte kako naša mobilna rešenja mogu transformisati vaše poslovanje u različitim industrijama",
+        "items": {
+          "onDemand": "Aplikacije za usluge na zahtev (dostava, čišćenje, itd.)",
+          "business": "Alati za poslovnu produktivnost",
+          "ecommerce": "E-commerce i marketplace aplikacije",
+          "travel": "Putovanja i životni stil",
+          "social": "Aplikacije za društvene mreže"
+        }
+      },
+      "projects": {
+        "title": "Uspešni projekti",
+        "items": {
+          "swiftshop": {
+            "title": "SwiftShop",
+            "description": "Cross-platform mobilna e-commerce aplikacija za butik prodavnice. Funkcionalnosti uključuju QR skeniranje proizvoda, sinhronizaciju korpe sa desktop sajtom i chat u aplikaciji. Isporučeno za 3 meseca.",
+            "testimonial": {
+              "quote": "Videli smo 40% povećanje angažovanja korisnika zahvaljujući aplikaciji. Toplo preporučujemo BW Digit!",
+              "author": "Laura H.",
+              "location": "Austrija"
+            }
+          },
+          "cleanbee": {
+            "title": "CleanBee",
+            "description": "Mobilna aplikacija za rezervaciju usluga čišćenja, sa funkcijama kao što su praćenje lokacije uživo, jednostavno zakazivanje i sigurna plaćanja u aplikaciji."
+          }
+        }
+      },
+      "testimonials": {
+        "title": "Iskustva klijenata",
+        "subtitle": "Šta naši klijenti kažu o našim mobilnim aplikacijama",
+        "items": {
+          "nina": {
+            "author": "Nina L.",
+            "position": "Produkt menadžer",
+            "quote": "BW Digit je našu ideju pretvorio u elegantnu, modernu aplikaciju koju korisnici vole. Cenili smo redovna ažuriranja i odličan dizajn."
+          },
+          "marko": {
+            "author": "Marko B.",
+            "position": "Osnivač startapa",
+            "quote": "Od wireframe-ova do App Store-a, sve su besprekorno vodili. Sjajan tim, vrlo komunikativan."
+          },
+          "laura": {
+            "author": "Laura H.",
+            "position": "Marketing direktor",
+            "quote": "Njihova ekspertiza u razvoju mobilnih aplikacija nam je pomogla da kreiramo intuitivnu i user-friendly aplikaciju koju naši klijenti vole."
+          },
+          "jovana": {
+            "author": "Jovana M.",
+            "position": "Marketing direktor",
+            "quote": "Njihova ekspertiza u razvoju mobilnih aplikacija nam je pomogla da kreiramo intuitivnu i user-friendly aplikaciju koju naši klijenti vole."
+          },
+          "lauras": {
+            "author": "Laura S.",
+            "position": "Marketing menadžer u B2B Solutions",
+            "quote": "Aplikacija koju su razvili je optimizovala naše poslovne procese i značajno poboljšala zadovoljstvo klijenata."
+          },
+          "markus": {
+            "author": "Markus H.",
+            "position": "CEO IndustrialTech GmbH",
+            "quote": "BW Digit-ova tehnička ekspertiza i razumevanje potreba naše industrije rezultirali su moćnim mobilnim rešenjem."
+          },
+          "isabel": {
+            "author": "Isabel K.",
+            "position": "Email marketing specijalista u RetailCo",
+            "quote": "Integracija mobilne aplikacije sa našim marketing alatima je bila besprekorna. Odličan posao!"
+          },
+          "tim": {
+            "author": "Tim R.",
+            "position": "Performance Marketing Lead u D2C Brand",
+            "quote": "Izvanredna usluga razvoja mobilnih aplikacija. Isporučili su tačno ono što nam je trebalo, na vreme i u okviru budžeta."
+          },
+          "anna": {
+            "author": "Anna M.",
+            "position": "Vlasnica wellness studija",
+            "quote": "Aplikacija je transformisala način na koji komuniciramo sa našim klijentima. Rezervacije i upravljanje nikada nisu bili lakši."
+          }
+        }
+      },
+      "specialOffer": {
+        "title": "Launch Paket",
+        "subtitle": "Specijalna Ponuda",
+        "description": "Dobijte sve što vam je potrebno za uspešno lansiranje aplikacije",
+        "items": {
+          "development": "Razvoj prilagođene aplikacije",
+          "design": "UI/UX dizajn",
+          "backend": "Backend integracija",
+          "consultation": "Besplatna konsultacija"
+        },
+        "valueProps": {
+          "quick": "Brz razvoj i lansiranje",
+          "conversion": "Visoka stopa konverzije",
+          "userCentered": "Dizajn usmeren na korisnika",
+          "perfect": "Savršeno za startape i biznise koji žele da postanu mobilni"
+        },
+        "cta": {
+          "title": "Započni odmah"
+        }
+      },
+      "internalLinks": {
+        "title": "Istražite više usluga",
+        "items": {
+          "uiux": "Saznajte više o UI/UX dizajnu",
+          "ecommerce": "Istražite E-Commerce rešenja",
+          "web": "Treba vam i website? Custom Web Development",
+          "discover": "Otkrijte čime se bavimo"
+        }
+      },
+      "keywords": {
+        "development": "Razvoj mobilnih aplikacija",
+        "ios": "iOS razvoj",
+        "android": "Android razvoj",
+        "flutter": "Flutter",
+        "react": "React Native",
+        "custom": "Prilagođene aplikacije",
+        "design": "Dizajn aplikacija",
+        "germany": "Nemačka",
+        "cross": "Cross-Platform razvoj",
+        "publishing": "Objavljivanje aplikacija"
+      },
+      "cta": {
+        "title": "Spremni za razvoj vaše mobilne aplikacije?",
+        "subtitle": "Pretvorimo vašu ideju u stvarnost sa našim stručnim razvojnim timom",
+        "start_project": "Započnite projekat",
+        "get_quote": "Besplatna procena"
+      }
+    }
+  },
+  "common": {
+    "getStarted": "Započni Odmah",
+    "learnMore": "Saznajte Više",
+    "previous": "Prethodno",
+    "next": "Sledeće",
+    "exploreSolution": "Istražite Rešenje",
+    "useCases": "Primeri Upotrebe"
+  }
+}
