@@ -446,7 +446,7 @@ const MarketingSeoPage = () => {
               {t('services.marketingSeo.projects.title')}
             </h2>
             <p className='text-lg text-gray-600 mb-6'>
-              See real examples of our SEO and Marketing work
+              {t('services.marketingSeo.projects.subtitle')}
             </p>
           </div>
           <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-8'>

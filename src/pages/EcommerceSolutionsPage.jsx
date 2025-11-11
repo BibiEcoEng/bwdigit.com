@@ -409,7 +409,7 @@ const EcommerceSolutionsPage = () => {
             <div className='absolute top-0 left-0 w-32 h-32 sm:w-48 sm:h-48 md:w-64 md:h-64 bg-accent/5 rounded-full blur-2xl sm:blur-3xl'></div>
 
             <div className='relative z-10 text-center mb-12'>
-              <h2 className='text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-4 tracking-tight'>
+              <h2 className='text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-4 max-w-[60rem] mx-auto'>
                 {t('services.ecommerce.benefits.title')}
               </h2>
               <p className='text-base sm:text-lg md:text-xl text-gray-600 max-w-2xl mx-auto'>
@@ -493,7 +493,7 @@ const EcommerceSolutionsPage = () => {
             <div className='absolute top-0 right-0 w-32 h-32 sm:w-48 sm:h-48 md:w-64 md:h-64 bg-accent/10 rounded-full blur-2xl sm:blur-3xl'></div>
 
             <div className='relative z-10 text-center text-white'>
-              <h3 className='text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold leading-tight bg-gradient-to-r from-[#54BD95] via-[#F7DCA1] to-[#D7ABE9] bg-clip-text text-transparent capitalize mb-4 sm:mb-6 px-2 sm:px-0'>
+              <h3 className='text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold leading-tight bg-gradient-to-r from-[#54BD95] via-[#F7DCA1] to-[#D7ABE9] bg-clip-text text-transparent capitalize mb-4 sm:mb-6 px-2 sm:px-0 max-w-[60rem] mx-auto'>
                 {t('services.ecommerce.popularResources.title')}
               </h3>
               <p className='text-base sm:text-lg md:text-xl text-gray-300 mb-8 sm:mb-10 md:mb-12 leading-relaxed px-2 sm:px-0'>

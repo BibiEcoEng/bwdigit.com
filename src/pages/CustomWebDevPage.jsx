@@ -206,11 +206,6 @@ const CustomWebDevPage = () => {
         {/* Target Audience Section */}
         <div className='container mx-auto px-4 py-16 max-w-7xl'>
           <div className='text-center mb-12'>
-            <div className='inline-block mb-2'>
-              <span className='px-4 py-1 bg-accent/10 text-accent text-sm font-medium rounded-full'>
-                {t('common.forYou')}
-              </span>
-            </div>
             <h2 className='text-3xl sm:text-4xl font-bold text-gray-900 mb-4'>
               {t('services.customWebDev.targetAudience.title')}
             </h2>

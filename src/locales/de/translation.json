@@ -653,7 +653,8 @@
           "mobile": "Mobile App-Entwicklung",
           "marketing": "Marketing & SEO",
           "contact": "Kontaktieren Sie uns",
-          "ecommerce": "E‑Commerce-Lösungen"
+          "ecommerce": "E‑Commerce-Lösungen",
+          "web": "Individuelle Webentwicklung"
         }
       },
       "keywords": {
@@ -1468,6 +1469,7 @@
       },
       "projects": {
         "title": "Ausgewählte Projekte",
+        "subtitle": "Sehen Sie echte Beispiele unserer SEO- und Marketingarbeit.",
         "items": {
           "sustainable": {
             "title": "Nachhaltige Modemarke",

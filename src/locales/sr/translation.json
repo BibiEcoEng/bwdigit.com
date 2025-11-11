@@ -118,7 +118,7 @@
   "footer.tagline": "Transformišemo preduzeća kroz inovativna digitalna rešenja. Počni sa našim stručnim timom danas.",
   "footer.emailPlaceholder": "Unesi svoj e-mail ovde",
   "footer.navigationTitle": "Navigacija",
-  "footer.exploreTitle": "Istražite",
+  "footer.exploreTitle": "Istraži",
   "footer.infoTitle": "Informacije",
   "footer.socialTitle": "Prati nas",
   "footer.socialLinkedIn": "LinkedIn",
@@ -651,7 +651,8 @@
           "mobile": "Razvoj mobilnih aplikacija",
           "marketing": "Marketing & SEO",
           "contact": "Kontaktirajte nas",
-          "ecommerce": "eCommerce rešenja"
+          "ecommerce": "eCommerce rešenja",
+          "web": "Prilagođeni Web Razvoj"
         }
       },
       "keywords": {
@@ -748,13 +749,13 @@
     },
     "ai": {
       "hero": {
-        "title": "AI i rešenja za automatizaciju ",
+        "title": "AI rešenja za automatizaciju ",
         "description": "Pravimo pametne AI alate za automatizaciju zadataka, uštedu vremena i rast tvog biznisa bilo da vodiš startup, online prodavnicu ili radiš kao freelancer.",
         "imageAlt": "AI alati i podrška za automatizaciju tvog biznisa",
         "cta": "Započni odmah!"
       },
       "features": {
-        "title": "Šta ćete pronaći",
+        "title": "Šta ćes pronaći",
         "subtitle": "AI alati koji ti štede vreme i olakšavaju posao",
         "description": "Nudimo proverene AI alate i resurse koji ti pomažu da uštediš vreme, ostaneš organizovan i vodiš posao bez problema.",
         "items": {
@@ -904,7 +905,7 @@
       },
       "projects": {
         "title": "Istaknuti projekti",
-        "subtitle": "Istražite naše uspešne AI‑automatizacijske implementacije",
+        "subtitle": "Istraži naše uspešne AI‑automatizacijske implementacije",
         "items": {
           "onboarding": {
             "title": "Automatizacija onboarding‑a klijenata",
@@ -1197,7 +1198,7 @@
       "hero": {
         "title": "E-Commerce rešenja koja ti pomažu da prodaš više ",
         "description": "Od novih online prodavnica do rastućih brendova, BW Digit pravi E-Commerce sajtove koji su sigurni, prilagođeni mobilnim uređajima i dizajnirani da pretvore posetioce u kupce na svakom uređaju.",
-        "ctaBtn": "Zakažite besplatnu stratešku sesiju",
+        "ctaBtn": "Zakaži besplatnu stratešku sesiju",
         "imageAlt": "Prilagođena E-Commerce rešenja za tvoju online prodavnicu"
       },
       "features": {
@@ -1296,16 +1297,16 @@
         "items": {
           "website": {
             "title": "Jednostranična e‑commerce web stranica",
-            "description": "Započnite sa profesionalnom onlajn prodavnicom.",
+            "description": "Započni sa profesionalnom onlajn prodavnicom.",
             "category": "Specijalna ponuda"
           },
           "responsive": {
             "title": "Potpuno responzivan dizajn",
-            "description": "Savršena prikaz na desktop i mobilnim uređajima.",
+            "description": "Savršen prikaz na desktop i mobilnim uređajima.",
             "category": "Uključeno"
           },
           "strategy": {
-            "title": "BESPLATNA: Strategijska sesija",
+            "title": "BESPLATNA Stratešska sesija",
             "description": "Konsultacija ideja i planiranje poslovne strategije.",
             "category": "Bonus"
           }
@@ -1352,7 +1353,7 @@
       },
       "projects": {
         "title": "Naši najnoviji e‑commerce projekti",
-        "description": "Pogledajte neke od naših nedavnih e‑commerce projekata",
+        "description": "Pogledaj neke od naših nedavnih e‑commerce projekata",
         "items": {
           "greenfit": {
             "title": "GreenFit Store",
@@ -1417,7 +1418,7 @@
         "items": {
           "seo": {
             "title": "SEO od A do Š",
-            "description": "Brinemo o svakom aspektu SEO-a, kako bi tvoj sajt bolje funkcionisao i rangirao više:",
+            "description": "Brinemo o svakom aspektu SEO-a, kako bi tvoj sajt bolje funkcionisao i rangirao se više:",
             "highlights": [
               "Kompletan on-page, off-page i tehnički SEO",
               "Detaljni SEO audit-i i istraživanje ključnih reči",
@@ -1438,7 +1439,7 @@
           },
           "content": {
             "title": "Sadržaj koji donosi leadove",
-            "description": "Kreiramo sadržaj koji je lako pronaći i vredan čitanja:",
+            "description": "Kreiramo sadržaj koji je lako pronaći i koji je vredan čitanja:",
             "highlights": [
               "SEO blog postovi i stranice usluga",
               "Email kampanje koje angažuju korisnike",
@@ -1451,7 +1452,7 @@
             "highlights": [
               "Postavljanje i optimizacija Google Business profila",
               "Lokalni ključni pojmovi koji odgovaraju navikama pretrage",
-              "Upravljanje recenzijama i izgradnja lokalnih citata",
+              "Upravljanje recenzijama i izgradnja lokalnog autoriteta",
               "Veća vidljivost tamo gde tvoji klijenti zapravo traže usluge: u svom komšiluku. Tvoj biznis u vrhu rezultata pretrage kad je to najvažnije."
             ]
           }
@@ -1508,6 +1509,7 @@
       },
       "projects": {
         "title": "Izdvojeni Projekti",
+        "subtitle": "Pogledaj naše primere za rast pomoću SEO i uspeh kroz Marketing",
         "items": {
           "sustainable": {
             "title": "Brend održive mode",
@@ -2019,7 +2021,7 @@
   },
   "common": {
     "getStarted": "Započni Odmah",
-    "learnMore": "Saznajte Više",
+    "learnMore": "Saznaj Više",
     "previous": "Prethodno",
     "next": "Sledeće",
     "exploreSolution": "Istražite Rešenje",

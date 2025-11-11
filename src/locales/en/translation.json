@@ -659,7 +659,8 @@
           "mobile": "Mobile App Development",
           "marketing": "Marketing & SEO",
           "contact": "Contact Us",
-          "ecommerce": "E-commerce Solutions"
+          "ecommerce": "E-commerce Solutions",
+          "web": "Custom Web Development"
         }
       },
       "keywords": {
@@ -1474,6 +1475,7 @@
       },
       "projects": {
         "title": "Featured Projects",
+        "subtitle": "See real examples of our SEO and Marketing work",
         "items": {
           "sustainable": {
             "title": "Sustainable Fashion Brand",

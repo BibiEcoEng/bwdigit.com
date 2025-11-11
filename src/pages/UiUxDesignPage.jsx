@@ -679,6 +679,10 @@ const UiUxDesignPage = () => {
                   text: t('services.uiux.internalLinks.items.ecommerce'),
                   url: '/services/ecommerce-solutions',
                 },
+                {
+                  text: t('services.uiux.internalLinks.items.web'),
+                  url: '/services/custom-web-development',
+                },
               ].map((link, index) => (
                 <button
                   key={index}
