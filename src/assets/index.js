@@ -25,35 +25,35 @@ import UiDesignHeader from './images/ui-design-header.png';
 import UiDesignIntro from './images/ui-design-intro.png';
 
 // AI Automation Project Images
-import ZapierAi from './images/zapier-ai.png';
-import Zapier from './images/zapier.png';
-import Make from './images/make.png';
-import MailChimp from './images/mail-chimp.png';
+import ZapierAi from './images/zapier-ai.webp';
+import Zapier from './images/zapier.webp';
+import Make from './images/make.webp';
+import MailChimp from './images/mail-chimp.webp';
 
 // E-commerce Project Images
-import AllBirds from './images/all-birds.png';
-import Tentree from './images/tentree.png';
-import FlyingTigers from './images/flying-tigers.png';
-import Blume from './images/blume.png';
+import AllBirds from './images/all-birds.webp';
+import Tentree from './images/tentree.webp';
+import FlyingTigers from './images/flying-tigers.webp';
+import Blume from './images/blume.webp';
 
 // Marketing & SEO Project Images
-import EdelweissBakery from './images/edelweiss-bakery.png';
-import MarganicsTextiles from './images/marganics-textiles.png';
-import DapperMarketingClient from './images/dapper-marketing-client.png';
-import ServiceBusiness from './images/service-business.png';
+import EdelweissBakery from './images/edelweiss-bakery.webp';
+import MarganicsTextiles from './images/marganics-textiles.webp';
+import DapperMarketingClient from './images/dapper-marketing-client.webp';
+import ServiceBusiness from './images/service-business.webp';
 
 // Mobile App Project Images
-import ShopEase from './images/shop-ease.png';
-import FarmerBazar from './images/farmer-bazar.png';
-import Lrnrx from './images/lrnrx.png';
-import CamelLia from './images/camel-lia.png';
+import ShopEase from './images/shop-ease.webp';
+import FarmerBazar from './images/farmer-bazar.webp';
+import Lrnrx from './images/lrnrx.webp';
+import CamelLia from './images/camel-lia.webp';
 
 // Custom Web Dev Project Images
-import RobbyLeonardi from './images/robby-leonardi.png';
-import BrunoSimon from './images/bruno-simon.png';
-import Wokine from './images/wokine.png';
-import LoungeLizardStudio from './images/lounge-lizard-studio.png';
-import ToyFight from './images/toy-fight.png';
+import RobbyLeonardi from './images/robby-leonardi.webp';
+import BrunoSimon from './images/bruno-simon.webp';
+import Wokine from './images/wokine.webp';
+import LoungeLizardStudio from './images/lounge-lizard-studio.webp';
+import ToyFight from './images/toy-fight.webp';
 
 import BackPackwanderOrg from './images/backpackwander-org.png';
 import BakcPackwanderDe from './images/backpackwander-de.png';
@@ -68,10 +68,10 @@ import UrbanNest from './images/urban-nest.png';
 import MenAvatar from './images/men-avatar.jpg';
 import WomenAvatar from './images/women-avatar.jpg';
 
-import ArozJewelry from './images/aroz-jewelry.png';
-import littlesCoffee from './images/littlesCoffee.png';
-import Klur from './images/klur.png';
-import velascaShoes from './images/velascaShoes.png';
+import ArozJewelry from './images/aroz-jewelry.webp';
+import littlesCoffee from './images/littlesCoffee.webp';
+import Klur from './images/klur.webp';
+import velascaShoes from './images/velascaShoes.webp';
 
 export {
   Logo,
