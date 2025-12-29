@@ -23,8 +23,8 @@ i18n
       },
     },
     supportedLngs: ['en', 'de', 'sr'],
-    lng: 'sr', // Set Serbian as the default language
-    fallbackLng: 'sr',
+    lng: 'en', // Set English as the default language
+    fallbackLng: 'en',
     detection: {
       order: [
         'cookie',

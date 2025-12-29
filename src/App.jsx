@@ -26,6 +26,8 @@ import './components/sidebarContact/SidebarContact.css';
 import { Logo } from './assets';
 import './App.css';
 import PrivacyPolicy from './components/PrivacyPolicy';
+import TermsAndConditions from './components/TermsAndConditions';
+import Imprint from './components/Imprint';
 import UiUxDesignPage from './pages/UiUxDesignPage';
 import AiAutomationPage from './pages/AiAutomationPage';
 import EcommerceSolutionsPage from './pages/EcommerceSolutionsPage';
@@ -105,6 +107,8 @@ function AppContent({ isSidebarOpen, openSidebar, closeSidebar }) {
         <Routes>
           <Route path='/' element={<Home openSidebar={openSidebar} />} />
           <Route path='/privacy-policy' element={<PrivacyPolicy />} />
+          <Route path='/terms-and-conditions' element={<TermsAndConditions />} />
+          <Route path='/imprint' element={<Imprint />} />
           <Route path='/services/ui-ux-design' element={<UiUxDesignPage />} />
           <Route
             path='/services/marketing-seo'
@@ -128,7 +132,7 @@ function AppContent({ isSidebarOpen, openSidebar, closeSidebar }) {
           />
         </Routes>
       </Suspense>
-      <Footer />
+      <Footer openSidebar={openSidebar} />
       {isSidebarOpen && (
         <SidebarContact
           isOpen={isSidebarOpen}

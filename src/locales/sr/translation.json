@@ -85,6 +85,8 @@
   "footer.faq": "FAQ",
   "footer.testimonials": "Svedočenja",
   "footer.contactUs": "Kontaktirajte nas",
+  "footer.termsAndConditions": "Terms & Conditions",
+  "footer.imprint": "Imprint",
   "footer.enButton": "EN",
   "footer.deButton": "DE",
   "footer.srButton": "SR",
@@ -177,25 +179,45 @@
       "backpackwanderorg": {
         "title": "Backpack Wander (ORG)",
         "description": "Globalna zajednica za putnike, kreatore i inovatore. Pronađite svoju zajednicu, pridružite se retreat-ovima i istražite resurse za digitalne nomade i održivi život.",
-        "tags": ["Zajednica", "Retreat", "Digitalni nomadi", "Održivi život"],
+        "tags": [
+          "Zajednica",
+          "Retreat",
+          "Digitalni nomadi",
+          "Održivi život"
+        ],
         "button": "Pogledaj projekat"
       },
       "backpackwanderde": {
         "title": "Backpack Wander (DE)",
         "description": "Nemačka platforma za retreat-ove, koučing, održivi život i digitalne veštine. Pronađite istomišljenike i novu inspiraciju.",
-        "tags": ["Retreat", "Koučing", "Održivost", "Zajednica"],
+        "tags": [
+          "Retreat",
+          "Koučing",
+          "Održivost",
+          "Zajednica"
+        ],
         "button": "Pogledaj projekat"
       },
       "setfreeway": {
         "title": "Set Freeway Coaching",
         "description": "Personalni koučing koji vam pomaže da se oslobodite 9-5 posla, smanjite stres i pronađete ispunjenje. Online programi, pravi rezultati i podržavajuća zajednica.",
-        "tags": ["Koučing", "Lični razvoj", "Sloboda", "Online program"],
+        "tags": [
+          "Koučing",
+          "Lični razvoj",
+          "Sloboda",
+          "Online program"
+        ],
         "button": "Pogledaj projekat"
       },
       "bwdigit": {
         "title": "BW Digit",
         "description": "Digitalna agencija za web, SEO i e-commerce. Pravimo prilagođene sajtove, online prodavnice i digitalna rešenja za mala preduzeća i kreatore.",
-        "tags": ["Web razvoj", "SEO", "E-commerce", "Agencija"],
+        "tags": [
+          "Web razvoj",
+          "SEO",
+          "E-commerce",
+          "Agencija"
+        ],
         "button": "Pogledaj projekat"
       },
       "backpackwanderstore": {
@@ -322,59 +344,45 @@
       "deliverable4": "Redovna ažuriranja"
     }
   },
-
   "testimonial1Client": "Daniel Carter",
   "testimonial1Text": "BW-Digit nam nije samo redizajnirao sajt — modernizovali su ceo naš brend. Klijenti su odmah primetili pozitivnu promenu.",
   "testimonial1Service": "Web Dizajn",
-
   "testimonial2Client": "Markus Weber",
   "testimonial2Text": "Saradnja sa BW-Digit timom značajno je poboljšala naše marketinške rezultate. Merljivi efekti su se pojavili veoma brzo.",
   "testimonial2Service": "Marketing",
-
   "testimonial3Client": "Isabella Hughes",
   "testimonial3Text": "Godinama smo imali slabu vidljivost online, ali BW-Digit je uspeo da podigne naše rangiranje i organski saobraćaj.",
   "testimonial3Service": "SEO",
-
   "testimonial4Client": "Sophia Klein",
   "testimonial4Text": "Trebao nam je potpuno prilagođen digitalni sistem, a BW-Digit je isporučio tačno ono što smo želeli. Detalji su urađeni savršeno.",
   "testimonial4Service": "Prilagođena Rešenja",
-
   "testimonial5Client": "Jonathan Reed",
   "testimonial5Text": "Nova platforma radi besprekorno. Tehnička stručnost BW-Digita vidi se u svakom segmentu projekta.",
   "testimonial5Service": "Tehnička Perfekcija",
-
   "testimonial6Client": "Elena Schneider",
   "testimonial6Text": "Proces je bio profesionalan i veoma organizovan. BW-Digit je kreirao dizajn koji savršeno odražava naš brend.",
   "testimonial6Service": "Web Dizajn",
-
   "testimonial7Client": "Leonard Fischer",
   "testimonial7Text": "Zahvaljujući BW-Digit timu, naše online prisustvo je stabilno i beležimo konstantan rast.",
   "testimonial7Service": "Marketing",
-
   "testimonial8Client": "Natalie Brooks",
   "testimonial8Text": "Vidljivost na pretraživačima nam se znatno poboljšala. SEO strategije BW-Digita daju jasne rezultate.",
   "testimonial8Service": "SEO",
-
   "testimonial9Client": "Hannah Mitchell",
   "testimonial9Text": "Prilagođeni softver koji su razvili značajno nam je pojednostavio procese i uštedeo vreme.",
   "testimonial9Service": "Prilagođena Rešenja",
-
   "testimonial10Client": "Frederick Adams",
   "testimonial10Text": "BW-Digit održava naš sajt brzim, sigurnim i stabilnim. Njihova tehnička preciznost nam uliva potpuno poverenje.",
   "testimonial10Service": "Tehnička Perfekcija",
-
   "testimonial11Client": "Victoria Collins",
   "testimonial11Text": "Naš novi sajt izgleda moderno, radi brzo i veoma je jednostavan za korišćenje. BW-Digit je nadmašio naša očekivanja.",
   "testimonial11Service": "Web Dizajn",
-
   "testimonial12Client": "Lucas Bennett",
   "testimonial12Text": "BW-Digit odlično razume našu ciljnu grupu. Njihove kampanje su nam donele veću vidljivost i konstantan rast.",
   "testimonial12Service": "Marketing",
-
   "testimonial13Client": "Emma Richardson",
   "testimonial13Text": "Organski saobraćaj nam stalno raste zahvaljujući kvalitetnoj SEO optimizaciji BW-Digit tima.",
   "testimonial13Service": "SEO",
-
   "sidebarContact": {
     "successMessage": "Vaša poruka je uspešno poslata!",
     "errorMessage": "Nešto je pošlo po zlo. Molimo pokušajte ponovo.",
@@ -405,23 +413,43 @@
   "faq.freeConsultation": "Besplatna konsultacija",
   "faq.expertSupport": "Stručna podrška",
   "privacyPolicy": {
-    "tocTitle": "Sadržaj",
+    "tocTitle": "Table of Contents",
     "sections": {
-      "generalStatement": {
-        "title": "Opšta izjava",
-        "content": "Vaša privatnost nam je važna.\n\nBackpack Wander GmbH vrlo ozbiljno shvata zaštitu vaših ličnih podataka i pridržava se važećih zakona o zaštiti podataka."
+      "generalInformation": {
+        "title": "1. General Information",
+        "content": "Backpack Wander GmbH takes the protection of personal data seriously and processes personal data in accordance with applicable data protection laws, including the GDPR."
       },
       "responsibleEntity": {
-        "title": "Odgovorni entitet",
-        "content": "Odgovorno telo:\nBackpack Wander GmbH\nKolonnenstrasse 8\n10827 Berlin\nNemačka\nE-mail: info@bwdigit.rs"
+        "title": "2. Responsible Entity",
+        "content": "Backpack Wander GmbH\nKolonnenstrasse 8, 10827, Berlin\nGermany\nEmail: info@backpackwander.com"
       },
-      "useOfData": {
-        "title": "Korišćenje podataka",
-        "content": "Korišćenje podataka:\n\nKoristimo Google Analytics da analiziramo korišćenje naše web stranice i poboljšamo naše usluge.\nZa biltene i e-mail marketing koristimo MailerLite.\nVaši lični podaci neće biti prosleđeni trećim licima bez vašeg izričitog pristanka - osim ako to ne zahteva zakon."
+      "scopeOfApplication": {
+        "title": "3. Scope of Application",
+        "content": "This Privacy Policy applies to all services and brands operated by Backpack Wander GmbH, including the Pipeline Quality brand."
+      },
+      "legalBasis": {
+        "title": "4. Legal Basis for Data Processing (Art. 6 GDPR)",
+        "content": "- Art. 6(1)(b) GDPR – performance of a contract or pre-contractual measures\n- Art. 6(1)(f) GDPR – legitimate interest\n- Art. 6(1)(a) GDPR – consent, where applicable"
+      },
+      "contactForms": {
+        "title": "5. Contact Forms & File Uploads",
+        "content": "Personal data submitted via contact forms or file uploads is processed solely to handle inquiries and project-related communication."
+      },
+      "whatsapp": {
+        "title": "6. WhatsApp Communication",
+        "content": "Communication via WhatsApp is subject to WhatsApp's privacy policy and used exclusively for business purposes."
+      },
+      "analytics": {
+        "title": "7. Analytics & Tools",
+        "content": "We use Google Analytics to analyze website usage. Data processing is based on consent."
+      },
+      "dataRetention": {
+        "title": "8. Data Retention",
+        "content": "Data is stored only as long as necessary or required by statutory retention obligations."
       },
       "yourRights": {
-        "title": "Vaša prava",
-        "content": "Imate pravo na informacije, ispravku ili brisanje vaših podataka u bilo koje vreme. Ako imate pitanja o zaštiti podataka, molimo kontaktirajte nas."
+        "title": "9. Your Rights",
+        "content": "You have the right to access, rectification, erasure, restriction, data portability and objection.\n\nRequests: info@backpackwander.com"
       }
     }
   },
@@ -461,80 +489,6 @@
       "between15kAnd30k": "$15,000 - $30,000",
       "over30k": "Preko $30,000",
       "needConsultation": "Potrebna konsultacija"
-    }
-  },
-  "services": {
-    "common": {
-      "relatedServices": {
-        "title": "Povezane usluge",
-        "learnMore": "Saznaj više"
-      }
-    },
-    "mobile": {
-      "features": {
-        "title": "Šta nudimo",
-        "description": "Kompletne usluge razvoja mobilnih aplikacija prilagođene vašim potrebama",
-        "items": {
-          "ios": {
-            "title": "iOS i Android razvoj",
-            "description": "Razvoj nativnih aplikacija za obe glavne platforme",
-            "highlights": {
-              "swift": "Swift za iOS razvoj",
-              "kotlin": "Kotlin za Android aplikacije",
-              "performance": "Nativne performanse i funkcionalnosti",
-              "guidelines": "Smernice za dizajn specifične za platformu"
-            }
-          },
-          "cross": {
-            "title": "Rešenja za više platformi",
-            "description": "Efikasan razvoj za više platformi",
-            "highlights": {
-              "flutter": "Flutter za cross-platform aplikacije",
-              "react": "React Native razvoj",
-              "code": "Efikasnost kroz jedinstvenu bazu koda",
-              "experience": "Konzistentno korisničko iskustvo"
-            }
-          },
-          "complete": {
-            "title": "Kompletne usluge za aplikacije",
-            "description": "Sveobuhvatna podrška za razvoj aplikacija",
-            "highlights": {
-              "design": "UI/UX dizajn i prototipovi",
-              "backend": "Backend razvoj",
-              "api": "API integracija",
-              "publishing": "Objavljivanje na App Store-u"
-            }
-          }
-        }
-      }
-    }
-  },
-  "contactInfo": {
-    "office": {
-      "title": "Kancelarija",
-      "info": "Kolonnenstrasse 8, 10827, Berlin"
-    },
-    "businessHours": {
-      "title": "Radno vreme",
-      "info": "Pon-Pet: 9-18 CET"
-    },
-    "whyChooseUs": {
-      "title": "Zašto nas izabrati?",
-      "freeConsultation": {
-        "title": "Besplatna konsultacija",
-        "description": "Inicijalna procena projekta i strateški savet bez naknade"
-      },
-      "quickResponse": {
-        "title": "Brz odgovor",
-        "description": "Odgovaramo na sve upite u roku od 24 sata"
-      },
-      "expertTeam": {
-        "title": "Stručni tim",
-        "description": "Iskusni profesionalci posvećeni vašem uspehu"
-      }
-    },
-    "followUs": {
-      "title": "Pratite nas"
     }
   },
   "services": {
@@ -1168,7 +1122,6 @@
           }
         }
       },
-
       "specialOffer": {
         "title": "Launch paket za aplikaciju: Sve što ti treba za uspešan start",
         "subtitle": "Specijalna ponuda",
@@ -1719,7 +1672,11 @@
           "styling": {
             "title": "Stilovi i UI biblioteke",
             "description": "Za čiste, responsivne interfejse koji izgledaju dobro na svakom uređaju.",
-            "items": ["Tailwind CSS", "Bootstrap", "Styled Components"]
+            "items": [
+              "Tailwind CSS",
+              "Bootstrap",
+              "Styled Components"
+            ]
           },
           "cms": {
             "title": "CMS i headless platforme",
@@ -2090,6 +2047,34 @@
       }
     }
   },
+  "contactInfo": {
+    "office": {
+      "title": "Kancelarija",
+      "info": "Kolonnenstrasse 8, 10827, Berlin"
+    },
+    "businessHours": {
+      "title": "Radno vreme",
+      "info": "Pon-Pet: 9-18 CET"
+    },
+    "whyChooseUs": {
+      "title": "Zašto nas izabrati?",
+      "freeConsultation": {
+        "title": "Besplatna konsultacija",
+        "description": "Inicijalna procena projekta i strateški savet bez naknade"
+      },
+      "quickResponse": {
+        "title": "Brz odgovor",
+        "description": "Odgovaramo na sve upite u roku od 24 sata"
+      },
+      "expertTeam": {
+        "title": "Stručni tim",
+        "description": "Iskusni profesionalci posvećeni vašem uspehu"
+      }
+    },
+    "followUs": {
+      "title": "Pratite nas"
+    }
+  },
   "common": {
     "getStarted": "Započni Odmah",
     "learnMore": "Saznaj Više",
@@ -2097,5 +2082,54 @@
     "next": "Sledeće",
     "exploreSolution": "Istražite Rešenje",
     "useCases": "Primeri Upotrebe"
+  },
+  "termsTitle": "Terms and Conditions",
+  "termsHeroSubtitle": "Please read our terms and conditions carefully.",
+  "termsAndConditions": {
+    "title": "General Terms and Conditions",
+    "sections": {
+      "intro": {
+        "content": "These General Terms and Conditions apply to all services and offers of Backpack Wander GmbH.\n\nBackpack Wander GmbH provides, in particular, the following services:\n\n– Coaching for individuals and companies\n– Services in the areas of marketing, digital products, and online offerings\n– QA/QC documentation support and engineering services\n– Project-related remote and on-site support\n– Sale of digital products and merchandise\n\nThe services are provided under various brands of Backpack Wander GmbH, including the \"Pipeline Quality\" brand.\n\nThe contractual partner is exclusively Backpack Wander GmbH, unless expressly agreed otherwise."
+      },
+      "liability": {
+        "title": "Liability",
+        "content": "The liability of Backpack Wander GmbH is limited to intent and gross negligence, to the extent permitted by law.\n\nLiability for indirect damages or lost profits is excluded, to the extent permitted by law."
+      },
+      "jurisdiction": {
+        "title": "Applicable Law & Jurisdiction",
+        "content": "The laws of the Federal Republic of Germany apply.\n\nThe place of jurisdiction is – to the extent permitted by law – the company's registered office."
+      }
+    }
+  },
+  "imprintTitle": "Imprint",
+  "imprintHeroSubtitle": "Legal information about Backpack Wander GmbH.",
+  "imprint": {
+    "title": "Imprint",
+    "sections": {
+      "company": {
+        "title": "Company Information",
+        "content": "Backpack Wander GmbH\nKolonnenstrasse 8\n10827, Berlin\nGermany"
+      },
+      "director": {
+        "title": "Managing Director",
+        "content": "Biljana Habel"
+      },
+      "register": {
+        "title": "Commercial Register",
+        "content": "Charlottenburg, 14057 Berlin\nHRB 282058 B"
+      },
+      "vat": {
+        "title": "VAT Identification Number",
+        "content": "DE451725510"
+      },
+      "contact": {
+        "title": "Email",
+        "content": "info@backpackwander.com"
+      },
+      "brand": {
+        "title": "Brand Information",
+        "content": "Pipeline Quality is a brand of Backpack Wander GmbH."
+      }
+    }
   }
 }

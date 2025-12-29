@@ -425,12 +425,28 @@ const Footer = ({ openSidebar }) => {
               currentYear.toString()
             )}
           </p>
-          <button
-            onClick={() => navigate('/privacy-policy')}
-            className='text-gray-100 hover:text-white transition-colors text-sm bg-transparent border-none cursor-pointer'
-          >
-            {t('privacyPolicyTitle')}
-          </button>
+          <div className='flex gap-4 flex-wrap justify-center'>
+            <button
+              onClick={() => navigate('/privacy-policy')}
+              className='text-gray-100 hover:text-white transition-colors text-sm bg-transparent border-none cursor-pointer'
+            >
+              {t('privacyPolicyTitle')}
+            </button>
+            <span className='text-gray-100'>|</span>
+            <button
+              onClick={() => navigate('/terms-and-conditions')}
+              className='text-gray-100 hover:text-white transition-colors text-sm bg-transparent border-none cursor-pointer'
+            >
+              {t('footer.termsAndConditions')}
+            </button>
+            <span className='text-gray-100'>|</span>
+            <button
+              onClick={() => navigate('/imprint')}
+              className='text-gray-100 hover:text-white transition-colors text-sm bg-transparent border-none cursor-pointer'
+            >
+              {t('footer.imprint')}
+            </button>
+          </div>
         </div>
       </div>
     </footer>

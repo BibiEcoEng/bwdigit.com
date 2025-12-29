@@ -4,8 +4,20 @@ import SidebarContact from './sidebarContact/SidebarContact';
 
 const PrivacyPolicy = () => {
   const { t } = useTranslation();
-  const [activeSection, setActiveSection] = useState('generalStatement');
+  const [activeSection, setActiveSection] = useState('generalInformation');
   const [isSidebarContactOpen, setIsSidebarContactOpen] = useState(false);
+
+  const sections = [
+    'generalInformation',
+    'responsibleEntity',
+    'scopeOfApplication',
+    'legalBasis',
+    'contactForms',
+    'whatsapp',
+    'analytics',
+    'dataRetention',
+    'yourRights'
+  ];
 
   const handleSectionNavigation = (sectionId) => {
     const element = document.getElementById(sectionId);
@@ -20,222 +32,128 @@ const PrivacyPolicy = () => {
   };
 
   return (
-    <div className='bg-gray-50 min-h-screen animate-fadeIn'>
-      <div className='bg-gradient-to-r from-blue-600 to-purple-600 text-white py-32 md:py-36 lg:py-40 px-4 sm:px-6 lg:px-8 text-center rounded-b-2xl shadow-xl mb-4 md:mb-12'>
-        <h1 className='text-4xl sm:text-5xl font-bold mb-4'>
-          {t('privacyPolicyTitle')}
-        </h1>
-        <p className='text-lg sm:text-xl max-w-2xl mx-auto'>
-          {t('privacyPolicyHeroSubtitle')}
-        </p>
+    <div className='bg-gray-50 min-h-screen'>
+      {/* Hero Section */}
+      <div className='bg-white border-b border-gray-100'>
+        <div className='max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-20'>
+          <div className='text-center'>
+            <h1 className='text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-4 tracking-tight'>
+              {t('privacyPolicyTitle')}
+            </h1>
+            <p className='text-lg md:text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed'>
+              {t('privacyPolicyHeroSubtitle')}
+            </p>
+          </div>
+        </div>
       </div>
 
-      <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12'>
-        <div className='lg:grid lg:grid-cols-12 lg:gap-x-8'>
+      {/* Main Content */}
+      <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16'>
+        <div className='lg:grid lg:grid-cols-12 lg:gap-12'>
+          {/* Sidebar Navigation - Desktop */}
           <div className='hidden lg:block lg:col-span-3'>
-            <div className='sticky top-24 bg-white rounded-lg shadow-lg p-6'>
-              <h3 className='text-lg font-semibold mb-4 text-gray-800'>
-                {t('privacyPolicy.tocTitle')}
-              </h3>
-              <nav className='space-y-1'>
-                <button
-                  onClick={() => handleSectionNavigation('generalStatement')}
-                  className={`block w-full text-left px-3 py-2 rounded-md transition-colors duration-200 text-sm ${
-                    activeSection === 'generalStatement'
-                      ? 'bg-blue-100 text-blue-700 font-medium'
-                      : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
-                  }`}
-                >
-                  {t('privacyPolicy.sections.generalStatement.title')}
-                </button>
-                <button
-                  onClick={() => handleSectionNavigation('responsibleEntity')}
-                  className={`block w-full text-left px-3 py-2 rounded-md transition-colors duration-200 text-sm ${
-                    activeSection === 'responsibleEntity'
-                      ? 'bg-blue-100 text-blue-700 font-medium'
-                      : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
-                  }`}
-                >
-                  {t('privacyPolicy.sections.responsibleEntity.title')}
-                </button>
-                <button
-                  onClick={() => handleSectionNavigation('useOfData')}
-                  className={`block w-full text-left px-3 py-2 rounded-md transition-colors duration-200 text-sm ${
-                    activeSection === 'useOfData'
-                      ? 'bg-blue-100 text-blue-700 font-medium'
-                      : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
-                  }`}
-                >
-                  {t('privacyPolicy.sections.useOfData.title')}
-                </button>
-                <button
-                  onClick={() => handleSectionNavigation('yourRights')}
-                  className={`block w-full text-left px-3 py-2 rounded-md transition-colors duration-200 text-sm ${
-                    activeSection === 'yourRights'
-                      ? 'bg-blue-100 text-blue-700 font-medium'
-                      : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
-                  }`}
-                >
-                  {t('privacyPolicy.sections.yourRights.title')}
-                </button>
-              </nav>
+            <div className='sticky top-8'>
+              <div className='bg-white rounded-xl p-6 shadow-sm border border-gray-100'>
+                <h3 className='text-sm font-semibold text-gray-900 uppercase tracking-wider mb-4'>
+                  {t('privacyPolicy.tocTitle')}
+                </h3>
+                <nav className='space-y-1'>
+                  {sections.map((section) => (
+                    <button
+                      key={section}
+                      onClick={() => handleSectionNavigation(section)}
+                      className={`block w-full text-left px-4 py-2.5 rounded-lg transition-all duration-200 text-sm ${
+                        activeSection === section
+                          ? 'bg-blue-50 text-blue-700 font-medium shadow-sm'
+                          : 'text-gray-600 hover:bg-gray-50 hover:text-gray-900'
+                      }`}
+                    >
+                      {t(`privacyPolicy.sections.${section}.title`)}
+                    </button>
+                  ))}
+                </nav>
+              </div>
             </div>
           </div>
-          <div className='lg:col-span-9'>
-            <div className='lg:hidden mb-8 bg-white rounded-lg shadow-lg p-6'>
-              <h3 className='text-lg font-semibold mb-4 text-gray-800'>
-                {t('privacyPolicy.tocTitle')}
-              </h3>
-              <div className='space-y-2'>
-                <button
-                  onClick={() => handleSectionNavigation('generalStatement')}
-                  className={`block w-full text-left px-4 py-2 rounded-md transition-colors duration-200 text-sm ${
-                    activeSection === 'generalStatement'
-                      ? 'bg-blue-100 text-blue-700 font-medium'
-                      : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
-                  }`}
-                >
-                  {t('privacyPolicy.sections.generalStatement.title')}
-                </button>
-                <button
-                  onClick={() => handleSectionNavigation('responsibleEntity')}
-                  className={`block w-full text-left px-4 py-2 rounded-md transition-colors duration-200 text-sm ${
-                    activeSection === 'responsibleEntity'
-                      ? 'bg-blue-100 text-blue-700 font-medium'
-                      : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
-                  }`}
-                >
-                  {t('privacyPolicy.sections.responsibleEntity.title')}
-                </button>
-                <button
-                  onClick={() => handleSectionNavigation('useOfData')}
-                  className={`block w-full text-left px-4 py-2 rounded-md transition-colors duration-200 text-sm ${
-                    activeSection === 'useOfData'
-                      ? 'bg-blue-100 text-blue-700 font-medium'
-                      : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
-                  }`}
-                >
-                  {t('privacyPolicy.sections.useOfData.title')}
-                </button>
-                <button
-                  onClick={() => handleSectionNavigation('yourRights')}
-                  className={`block w-full text-left px-4 py-2 rounded-md transition-colors duration-200 text-sm ${
-                    activeSection === 'yourRights'
-                      ? 'bg-blue-100 text-blue-700 font-medium'
-                      : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
-                  }`}
-                >
-                  {t('privacyPolicy.sections.yourRights.title')}
-                </button>
+
+          {/* Main Content Area */}
+          <div className='lg:col-span-9 mt-8 lg:mt-0'>
+            {/* Mobile Navigation */}
+            <div className='lg:hidden mb-8'>
+              <div className='bg-white rounded-xl p-5 shadow-sm border border-gray-100'>
+                <h3 className='text-sm font-semibold text-gray-900 uppercase tracking-wider mb-4'>
+                  {t('privacyPolicy.tocTitle')}
+                </h3>
+                <div className='space-y-1'>
+                  {sections.map((section) => (
+                    <button
+                      key={section}
+                      onClick={() => handleSectionNavigation(section)}
+                      className={`block w-full text-left px-4 py-2.5 rounded-lg transition-all duration-200 text-sm ${
+                        activeSection === section
+                          ? 'bg-blue-50 text-blue-700 font-medium'
+                          : 'text-gray-600 hover:bg-gray-50 hover:text-gray-900'
+                      }`}
+                    >
+                      {t(`privacyPolicy.sections.${section}.title`)}
+                    </button>
+                  ))}
+                </div>
               </div>
             </div>
 
-            <div className='bg-white rounded-lg shadow-lg p-6 sm:p-8 lg:p-10'>
-              <section id='generalStatement' className='mb-12 scroll-mt-24'>
-                <h2 className='text-2xl sm:text-3xl font-semibold text-gray-800 mb-6'>
-                  {t('privacyPolicy.sections.generalStatement.title')}
-                </h2>
-                <div className='prose prose-slate max-w-none text-gray-700 leading-relaxed'>
-                  {t('privacyPolicy.sections.generalStatement.content')
-                    .split('\n\n')
-                    .map((paragraph, idx) => (
-                      <p key={idx} className='mb-4'>
-                        {paragraph.split('\n').map((line, lineIdx) => (
-                          <React.Fragment key={lineIdx}>
-                            {line}
-                            {lineIdx < paragraph.split('\n').length - 1 && (
-                              <br />
-                            )}
-                          </React.Fragment>
+            {/* Content Sections */}
+            <div className='bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden'>
+              <div className='p-8 md:p-10 lg:p-12'>
+                {sections.map((section, index) => (
+                  <section
+                    key={section}
+                    id={section}
+                    className={`scroll-mt-24 ${
+                      index < sections.length - 1 ? 'mb-12 pb-12 border-b border-gray-100' : ''
+                    }`}
+                  >
+                    <h2 className='text-2xl md:text-3xl font-bold text-gray-900 mb-5 tracking-tight'>
+                      {t(`privacyPolicy.sections.${section}.title`)}
+                    </h2>
+                    <div className='prose prose-lg max-w-none'>
+                      {t(`privacyPolicy.sections.${section}.content`)
+                        .split('\n\n')
+                        .map((paragraph, idx) => (
+                          <p key={idx} className='text-gray-600 leading-relaxed mb-4 text-base md:text-lg'>
+                            {paragraph.split('\n').map((line, lineIdx) => (
+                              <React.Fragment key={lineIdx}>
+                                {line}
+                                {lineIdx < paragraph.split('\n').length - 1 && <br />}
+                              </React.Fragment>
+                            ))}
+                          </p>
                         ))}
-                      </p>
-                    ))}
-                </div>
-              </section>
-
-              <section id='responsibleEntity' className='mb-12 scroll-mt-24'>
-                <h2 className='text-2xl sm:text-3xl font-semibold text-gray-800 mb-6'>
-                  {t('privacyPolicy.sections.responsibleEntity.title')}
-                </h2>
-                <div className='prose prose-slate max-w-none text-gray-700 leading-relaxed'>
-                  {t('privacyPolicy.sections.responsibleEntity.content')
-                    .split('\n\n')
-                    .map((paragraph, idx) => (
-                      <p key={idx} className='mb-4'>
-                        {paragraph.split('\n').map((line, lineIdx) => (
-                          <React.Fragment key={lineIdx}>
-                            {line}
-                            {lineIdx < paragraph.split('\n').length - 1 && (
-                              <br />
-                            )}
-                          </React.Fragment>
-                        ))}
-                      </p>
-                    ))}
-                </div>
-              </section>
-
-              <section id='useOfData' className='mb-12 scroll-mt-24'>
-                <h2 className='text-2xl sm:text-3xl font-semibold text-gray-800 mb-6'>
-                  {t('privacyPolicy.sections.useOfData.title')}
-                </h2>
-                <div className='prose prose-slate max-w-none text-gray-700 leading-relaxed'>
-                  {t('privacyPolicy.sections.useOfData.content')
-                    .split('\n\n')
-                    .map((paragraph, idx) => (
-                      <p key={idx} className='mb-4'>
-                        {paragraph.split('\n').map((line, lineIdx) => (
-                          <React.Fragment key={lineIdx}>
-                            {line}
-                            {lineIdx < paragraph.split('\n').length - 1 && (
-                              <br />
-                            )}
-                          </React.Fragment>
-                        ))}
-                      </p>
-                    ))}
-                </div>
-              </section>
-
-              <section id='yourRights' className='mb-12 scroll-mt-24 last:mb-0'>
-                <h2 className='text-2xl sm:text-3xl font-semibold text-gray-800 mb-6'>
-                  {t('privacyPolicy.sections.yourRights.title')}
-                </h2>
-                <div className='prose prose-slate max-w-none text-gray-700 leading-relaxed'>
-                  {t('privacyPolicy.sections.yourRights.content')
-                    .split('\n\n')
-                    .map((paragraph, idx) => (
-                      <p key={idx} className='mb-4'>
-                        {paragraph.split('\n').map((line, lineIdx) => (
-                          <React.Fragment key={lineIdx}>
-                            {line}
-                            {lineIdx < paragraph.split('\n').length - 1 && (
-                              <br />
-                            )}
-                          </React.Fragment>
-                        ))}
-                      </p>
-                    ))}
-                </div>
-              </section>
+                    </div>
+                  </section>
+                ))}
+              </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div className='bg-gray-800 text-white py-16 px-4 sm:px-6 lg:px-8 text-center mt-12'>
-        <h2 className='text-3xl font-bold mb-4'>
-          {t('privacyPolicyCtaTitle')}
-        </h2>
-        <p className='text-lg max-w-xl mx-auto mb-8'>
-          {t('privacyPolicyCtaText')}
-        </p>
-        <button
-          onClick={toggleSidebarContact}
-          className='bg-blue-500 hover:bg-blue-600 text-white font-semibold py-3 px-8 rounded-lg text-lg transition duration-300 ease-in-out transform hover:scale-105 shadow-md'
-        >
-          {t('privacyPolicyCtaButton')}
-        </button>
+      {/* CTA Section */}
+      <div className='bg-white border-t border-gray-100 mt-16'>
+        <div className='max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center'>
+          <h2 className='text-3xl md:text-4xl font-bold text-gray-900 mb-4 tracking-tight'>
+            {t('privacyPolicyCtaTitle')}
+          </h2>
+          <p className='text-lg text-gray-600 mb-8 max-w-2xl mx-auto leading-relaxed'>
+            {t('privacyPolicyCtaText')}
+          </p>
+          <button
+            onClick={toggleSidebarContact}
+            className='inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-all duration-200 shadow-sm hover:shadow-md'
+          >
+            {t('privacyPolicyCtaButton')}
+          </button>
+        </div>
       </div>
 
       <SidebarContact
@@ -247,3 +165,4 @@ const PrivacyPolicy = () => {
 };
 
 export default PrivacyPolicy;
+

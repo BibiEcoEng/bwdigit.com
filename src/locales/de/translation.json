@@ -132,7 +132,6 @@
   },
   "missionTitle": "Unser Ziel:",
   "missionText": "Digitale Lösungen, die mehr Besucher, mehr Kunden und nachhaltiges Wachstum bringen.",
-
   "missionImgAlt": "Zielgerichtete Planung für Web-, SEO- und App-Entwicklung",
   "visionTitle": "Unsere Vision: Vertrauen. Klarheit. Wachstum.",
   "visionText": "Wir schaffen langfristige Erfolgsgeschichten gemeinsam mit Menschen, die uns vertrauen. Klare Ideen, ein professionelles Team, ehrliche Arbeit und messbare Ergebnisse - dafür stehen wir.",
@@ -141,54 +140,41 @@
   "testimonial1Client": "Daniel Carter",
   "testimonial1Text": "BW-Digit hat nicht nur unsere Website neu gestaltet – sie haben unser gesamtes Markenbild modernisiert. Unsere Kunden bemerkten den Unterschied sofort.",
   "testimonial1Service": "Webdesign",
-
   "testimonial2Client": "Markus Weber",
   "testimonial2Text": "Die Zusammenarbeit mit BW-Digit hat unsere Marketingleistung spürbar verbessert. Messbare Ergebnisse ließen nicht lange auf sich warten.",
   "testimonial2Service": "Marketing",
-
   "testimonial3Client": "Isabella Hughes",
   "testimonial3Text": "Unsere Online-Sichtbarkeit stagnierte jahrelang, doch BW-Digit hat deutliche Verbesserungen bei Rankings und organischem Traffic erreicht.",
   "testimonial3Service": "SEO",
-
   "testimonial4Client": "Sophia Klein",
   "testimonial4Text": "Wir benötigten eine vollständig individuelle digitale Lösung – und BW-Digit hat genau das geliefert. Die Detailgenauigkeit war beeindruckend.",
   "testimonial4Service": "Individuelle Lösungen",
-
   "testimonial5Client": "Jonathan Reed",
   "testimonial5Text": "Die neue Plattform funktioniert absolut zuverlässig. Die technische Expertise von BW-Digit spürt man in jedem Schritt.",
   "testimonial5Service": "Technische Perfektion",
-
   "testimonial6Client": "Elena Schneider",
   "testimonial6Text": "Der gesamte Ablauf war professionell und reibungslos. BW-Digit hat ein Design geschaffen, das perfekt zu unserer Marke passt.",
   "testimonial6Service": "Webdesign",
-
   "testimonial7Client": "Leonard Fischer",
   "testimonial7Text": "Dank der Unterstützung von BW-Digit verzeichnen wir konstantes Wachstum. Unsere Online-Präsenz war noch nie so stark.",
   "testimonial7Service": "Marketing",
-
   "testimonial8Client": "Natalie Brooks",
   "testimonial8Text": "Unsere Sichtbarkeit in den Suchmaschinen hat sich deutlich verbessert. Die SEO-Strategien von BW-Digit funktionieren nachweislich.",
   "testimonial8Service": "SEO",
-
   "testimonial9Client": "Hannah Mitchell",
   "testimonial9Text": "Die maßgeschneiderte Software, die BW-Digit entwickelt hat, hat mehrere unserer Abläufe enorm vereinfacht.",
   "testimonial9Service": "Individuelle Lösungen",
-
   "testimonial10Client": "Frederick Adams",
   "testimonial10Text": "BW-Digit sorgt dafür, dass unsere Website schnell, sicher und zuverlässig läuft. Ihre technische Präzision beeindruckt uns immer wieder.",
   "testimonial10Service": "Technische Perfektion",
-
   "testimonial11Client": "Victoria Collins",
   "testimonial11Text": "Unsere neue Website ist modern, benutzerfreundlich und optisch beeindruckend. BW-Digit hat unsere Erwartungen übertroffen.",
   "testimonial11Service": "Webdesign",
-
   "testimonial12Client": "Lucas Bennett",
   "testimonial12Text": "BW-Digit versteht unsere Zielgruppe sehr genau. Ihre Kampagnen haben unsere Reichweite deutlich erweitert.",
   "testimonial12Service": "Marketing",
-
   "testimonial13Client": "Emma Richardson",
   "testimonial13Text": "Unsere organischen Rankings verbessern sich kontinuierlich. Die SEO-Arbeit von BW-Digit zeigt nachhaltige Wirkung.",
-  "testimonial13Service": "SEO",
   "testimonial13Service": "SEO",
   "faqTitle": "Häufig gestellte Fragen (FAQ)",
   "faqSubtitle": "Weitere Antworten findest du hier – oder kontaktiere uns direkt für weitere Fragen!",
@@ -219,6 +205,8 @@
   "footer.faq": "FAQ",
   "footer.testimonials": "Kundenstimmen",
   "footer.contactUs": "Kontakt",
+  "footer.termsAndConditions": "AGB",
+  "footer.imprint": "Impressum",
   "privacyPolicyTitle": "Datenschutzerklärung",
   "privacyPolicyHeroSubtitle": "Ihr Vertrauen und die Datensicherheit haben für uns oberste Priorität.",
   "privacyPolicyCtaTitle": "Haben Sie Fragen zu Ihren Daten?",
@@ -285,257 +273,6 @@
       "over30k": "Over $30,000",
       "needConsultation": "Beratung erforderlich"
     }
-  },
-  "services": {
-    "common": {
-      "relatedServices": {
-        "title": "Related Services",
-        "learnMore": "Saznaj više"
-      }
-    },
-    "mobile": {
-      "features": {
-        "title": "Was wir anbieten",
-        "description": "Vollständige mobile App-Entwicklungsdienste, maßgeschneidert für Ihre Bedürfnisse",
-        "items": {
-          "ios": {
-            "title": "iOS & Android Entwicklung",
-            "description": "Native App-Entwicklung für beide wichtigen Plattformen",
-            "highlights": {
-              "swift": "Swift für iOS-Entwicklung",
-              "kotlin": "Kotlin für Android-Apps",
-              "performance": "Native Leistung und Funktionen",
-              "guidelines": "Plattformspezifische Design-Richtlinien"
-            }
-          },
-          "cross": {
-            "title": "Cross-Platform Lösungen",
-            "description": "Effiziente Entwicklung für mehrere Plattformen",
-            "highlights": {
-              "flutter": "Flutter für Cross-Platform-Apps",
-              "react": "React Native Entwicklung",
-              "code": "Effizienz durch einheitliche Codebasis",
-              "experience": "Konsistente Benutzererfahrung"
-            }
-          },
-          "complete": {
-            "title": "Komplette App-Services",
-            "description": "Umfassende App-Entwicklungsunterstützung",
-            "highlights": {
-              "design": "UI/UX Design und Prototyping",
-              "backend": "Backend-Entwicklung",
-              "api": "API-Integration",
-              "publishing": "App Store Veröffentlichung"
-            }
-          }
-        }
-      }
-    }
-  },
-  "contactInfo": {
-    "office": {
-      "title": "Büro",
-      "info": "Kolonnenstrasse 8, 10827, Berlin"
-    },
-    "businessHours": {
-      "title": "Geschäftszeiten",
-      "info": "Mo-Fr: 9:00-18:00 Uhr"
-    },
-    "whyChooseUs": {
-      "title": "Warum uns wählen?",
-      "freeConsultation": {
-        "title": "Kostenlose Beratung",
-        "description": "Erstbewertung des Projekts und strategische Beratung ohne Kosten"
-      },
-      "quickResponse": {
-        "title": "Schnelle Antwort",
-        "description": "Wir antworten auf alle Anfragen innerhalb von 24 Stunden"
-      },
-      "expertTeam": {
-        "title": "Expertenteam",
-        "description": "Erfahrene Fachleute, die sich Ihrem Erfolg widmen"
-      }
-    },
-    "followUs": {
-      "title": "Folgen Sie uns"
-    }
-  },
-  "nav": {
-    "home": "Startseite",
-    "services": "Leistungen",
-    "portfolio": "Portfolio",
-    "aboutUs": "Über uns",
-    "blog": "Blog",
-    "faq": "FAQ",
-    "contactUs": "Kontakt",
-    "cta": "Kostenlose Beratung buchen",
-    "whatWeDeliver": "Was wir bieten",
-    "servicesDropdown": {
-      "title": "Unsere Leistungen",
-      "subtitle": "Umfassende digitale Lösungen für Ihr Unternehmen",
-      "items": {
-        "uiUxDesign": {
-          "title": "UI/UX Design",
-          "description": "Nutzerzentrierte Designlösungen"
-        },
-        "aiAutomation": {
-          "title": "KI-Automatisierung",
-          "description": "Intelligente Prozessautomatisierung"
-        },
-        "ecommerce": {
-          "title": "E-Commerce-Lösungen",
-          "description": "Individuelle Online-Shops"
-        },
-        "marketingSeo": {
-          "title": "Marketing & SEO",
-          "description": "Digitale Marketingstrategien"
-        },
-        "mobileAppDev": {
-          "title": "Mobile App-Entwicklung",
-          "description": "Native & Cross-Plattform-Apps"
-        },
-        "customWebDev": {
-          "title": "Individuelle Webentwicklung",
-          "description": "Skalierbare, sichere Weblösungen"
-        }
-      }
-    }
-  },
-  "portfolio": {
-    "title": "Unsere aktuellen Projekte",
-    "subtitle": "Entdecken Sie unsere neuesten realen Projekte.",
-    "projects": {
-      "backpackwanderorg": {
-        "title": "Backpack Wander (ORG)",
-        "description": "Eine globale Community für Wanderer, Kreative und Changemaker. Finde deine Community, nimm an Retreats teil und entdecke Ressourcen für digitale Nomaden und nachhaltiges Leben.",
-        "tags": ["Community", "Retreats", "Digitale Nomaden", "Nachhaltigkeit"],
-        "button": "Projekt ansehen"
-      },
-      "backpackwanderde": {
-        "title": "Backpack Wander (DE)",
-        "description": "Die deutschsprachige Plattform für Retreats, Coaching, nachhaltiges Leben und digitale Skills. Finde Gleichgesinnte und neue Inspiration.",
-        "tags": ["Retreats", "Coaching", "Nachhaltigkeit", "Community"],
-        "button": "Projekt ansehen"
-      },
-      "setfreeway": {
-        "title": "Set Freeway Coaching",
-        "description": "Persönliches Coaching, um dich vom 9-to-5 zu befreien, Stress zu reduzieren und Erfüllung zu finden. Online-Programme, echte Ergebnisse und eine unterstützende Community.",
-        "tags": [
-          "Coaching",
-          "Persönlichkeitsentwicklung",
-          "Freiheit",
-          "Online-Programm"
-        ],
-        "button": "Projekt ansehen"
-      },
-      "bwdigit": {
-        "title": "BW Digit",
-        "description": "Digitale Agentur für Web, SEO und E-Commerce. Wir erstellen individuelle Websites, Online-Shops und digitale Lösungen für kleine Unternehmen und Kreative.",
-        "tags": ["Webentwicklung", "SEO", "E-Commerce", "Agentur"],
-        "button": "Projekt ansehen"
-      },
-      "backpackwanderstore": {
-        "title": "Backpack Wander Store",
-        "description": "Umweltfreundliche, solarbetriebene Ausrüstung und Reise-Essentials für Abenteurer. Shoppe kuratierte Produkte für Camping, Wandern und nachhaltiges Reisen.",
-        "tags": ["E-Commerce", "Reiseausrüstung", "Nachhaltigkeit", "Shop"],
-        "button": "Projekt ansehen"
-      },
-      "medicoplus": {
-        "title": "MedicoPlus",
-        "description": "Eine benutzerfreundliche Gesundheitswebsite mit Ärztelisten, Leistungen und Online-Terminbuchung.",
-        "tags": [
-          "Gesundheitswebseite",
-          "Online-Termine",
-          "Medizinische Dienstleistungen",
-          "Ärzteübersicht",
-          "Sauberes UI",
-          "Professionelles Design",
-          "Responsives Layout",
-          "Patientenunterstützung",
-          "Moderne Webanwendung",
-          "Einfache Navigation"
-        ],
-        "button": "Projekt ansehen"
-      },
-      "urbannest": {
-        "title": "UrbanNest Interiors",
-        "description": "Eine saubere, elegante Website für ein Innenarchitektur-Studio mit Services, Portfolio und Online-Beratung.",
-        "tags": [
-          "Innenarchitektur",
-          "Portfolio-Webseite",
-          "Modernes UI/UX",
-          "Kreativstudio",
-          "Minimalistisches Design",
-          "Responsives Webdesign",
-          "Branding & Ästhetik",
-          "Online-Beratung",
-          "Sauberes Layout",
-          "Premium-Design"
-        ],
-        "button": "Projekt ansehen"
-      }
-    },
-    "ctaText": "Interessiert an einer Zusammenarbeit für dein nächstes Projekt?",
-    "ctaButton": "Projekt starten"
-  },
-  "whatWeDeliver": {
-    "title": "Was wir bieten",
-    "subtitle": "Wir bieten mehr als nur ansprechende Designs – wir schaffen digitale Strategien, die deine Marke sichtbar und erfolgreich machen.",
-    "imageAlt": "Digitale Agentur-Services von BW Digit – für dein Business",
-    "cards": {
-      "customSolutions": {
-        "title": "Maßgeschneiderte Lösungen:",
-        "description": "Individuelle Designs und Strategien, die deine Vision authentisch widerspiegeln."
-      },
-      "seoExcellence": {
-        "title": "SEO-Exzellenz:",
-        "description": "Bessere Rankings, mehr Traffic und nachhaltiges Unternehmenswachstum"
-      },
-      "technicalPerfection": {
-        "title": "Technische Perfektion:",
-        "description": "Schnelle Ladezeiten, mobile Optimierung und erstklassige Funktionalität."
-      }
-    }
-  },
-  "privacyPolicy": {
-    "tocTitle": "Inhaltsverzeichnis",
-    "sections": {
-      "generalStatement": {
-        "title": "Allgemeine Erklärung",
-        "content": "Ihre Privatsphäre ist uns wichtig.\n\nDie Backpack Wander GmbH nimmt den Schutz Ihrer personenbezogenen Daten sehr ernst und hält sich an die geltenden Datenschutzgesetze."
-      },
-      "responsibleEntity": {
-        "title": "Verantwortliche Stelle",
-        "content": "Verantwortliche Stelle:\nBackpack Wander GmbH\nKolonnenstrasse 8\n10827 Berlin\nDeutschland\nE-Mail: info@bwdigit.de"
-      },
-      "useOfData": {
-        "title": "Verwendung von Daten",
-        "content": "Verwendung von Daten:\n\nWir nutzen Google Analytics, um die Nutzung unserer Website zu analysieren und unsere Dienste zu verbessern.\nFür Newsletter und E-Mail-Marketing verwenden wir MailerLite.\nIhre personenbezogenen Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben – außer wenn gesetzlich vorgeschrieben."
-      },
-      "yourRights": {
-        "title": "Ihre Rechte",
-        "content": "Sie haben jederzeit das Recht auf Auskunft, Berichtigung oder Löschung Ihrer Daten. Bei Fragen zum Datenschutz kontaktieren Sie uns bitte."
-      }
-    }
-  },
-  "sidebarContact": {
-    "successMessage": "Ihre Nachricht wurde erfolgreich gesendet!",
-    "errorMessage": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
-    "title": "Arbeitest du an etwas Großem?",
-    "description": "Teile uns die Details deines Projekts mit – wie Umfang, Zeitrahmen oder geschäftliche Herausforderungen.",
-    "namePlaceholder": "Name",
-    "emailPlaceholder": "E-Mail",
-    "phonePlaceholder": "Telefon",
-    "messagePlaceholder": "Nachricht",
-    "servicesTitle": "Ich interessiere mich für",
-    "serviceCustomWebsites": "Individuelle Webseiten",
-    "serviceWordPress": "WordPress",
-    "serviceMobileApp": "Mobile App",
-    "serviceWebDevelopment": "Webentwicklung",
-    "serviceDigitalMarketing": "Digitales Marketing",
-    "serviceSocialMediaMarketing": "Social Media Marketing",
-    "submitting": "SENDEN...",
-    "submit": "SENDEN"
   },
   "services": {
     "common": {
@@ -673,7 +410,6 @@
           "btn2": "🔍 Beispiele ansehen"
         }
       },
-
       "projects": {
         "title": "Webseiten kleiner Unternehmen als Inspiration",
         "subtitle": "Eine Auswahl kleiner Firmen und lokaler Marken mit klarer UX, modernem Aufbau und guter Orientierung – hilfreiche Beispiele für Web-, Shop- und digitale Serviceprojekte.",
@@ -1718,7 +1454,11 @@
           "styling": {
             "title": "Styling- & UI-Bibliotheken",
             "description": "Für saubere, responsive Benutzeroberflächen, die auf jedem Gerät gut aussehen.",
-            "items": ["Tailwind CSS", "Bootstrap", "Styled Components"]
+            "items": [
+              "Tailwind CSS",
+              "Bootstrap",
+              "Styled Components"
+            ]
           },
           "cms": {
             "title": "CMS- & Headless-Plattformen",
@@ -1731,7 +1471,10 @@
           "database": {
             "title": "Datenbank- & Backend-Tools",
             "description": "Sichere und skalierbare Datenbanken sowie Backend-Unterstützung für alle Arten von Webanwendungen.",
-            "items": ["MongoDB, PostgreSQL, MySQL", "Firebase, Supabase"]
+            "items": [
+              "MongoDB, PostgreSQL, MySQL",
+              "Firebase, Supabase"
+            ]
           },
           "devops": {
             "title": "DevOps & Deployment",
@@ -1881,6 +1624,251 @@
       }
     }
   },
+  "contactInfo": {
+    "office": {
+      "title": "Büro",
+      "info": "Kolonnenstrasse 8, 10827, Berlin"
+    },
+    "businessHours": {
+      "title": "Geschäftszeiten",
+      "info": "Mo-Fr: 9:00-18:00 Uhr"
+    },
+    "whyChooseUs": {
+      "title": "Warum uns wählen?",
+      "freeConsultation": {
+        "title": "Kostenlose Beratung",
+        "description": "Erstbewertung des Projekts und strategische Beratung ohne Kosten"
+      },
+      "quickResponse": {
+        "title": "Schnelle Antwort",
+        "description": "Wir antworten auf alle Anfragen innerhalb von 24 Stunden"
+      },
+      "expertTeam": {
+        "title": "Expertenteam",
+        "description": "Erfahrene Fachleute, die sich Ihrem Erfolg widmen"
+      }
+    },
+    "followUs": {
+      "title": "Folgen Sie uns"
+    }
+  },
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "portfolio": "Portfolio",
+    "aboutUs": "Über uns",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contactUs": "Kontakt",
+    "cta": "Kostenlose Beratung buchen",
+    "whatWeDeliver": "Was wir bieten",
+    "servicesDropdown": {
+      "title": "Unsere Leistungen",
+      "subtitle": "Umfassende digitale Lösungen für Ihr Unternehmen",
+      "items": {
+        "uiUxDesign": {
+          "title": "UI/UX Design",
+          "description": "Nutzerzentrierte Designlösungen"
+        },
+        "aiAutomation": {
+          "title": "KI-Automatisierung",
+          "description": "Intelligente Prozessautomatisierung"
+        },
+        "ecommerce": {
+          "title": "E-Commerce-Lösungen",
+          "description": "Individuelle Online-Shops"
+        },
+        "marketingSeo": {
+          "title": "Marketing & SEO",
+          "description": "Digitale Marketingstrategien"
+        },
+        "mobileAppDev": {
+          "title": "Mobile App-Entwicklung",
+          "description": "Native & Cross-Plattform-Apps"
+        },
+        "customWebDev": {
+          "title": "Individuelle Webentwicklung",
+          "description": "Skalierbare, sichere Weblösungen"
+        }
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Unsere aktuellen Projekte",
+    "subtitle": "Entdecken Sie unsere neuesten realen Projekte.",
+    "projects": {
+      "backpackwanderorg": {
+        "title": "Backpack Wander (ORG)",
+        "description": "Eine globale Community für Wanderer, Kreative und Changemaker. Finde deine Community, nimm an Retreats teil und entdecke Ressourcen für digitale Nomaden und nachhaltiges Leben.",
+        "tags": [
+          "Community",
+          "Retreats",
+          "Digitale Nomaden",
+          "Nachhaltigkeit"
+        ],
+        "button": "Projekt ansehen"
+      },
+      "backpackwanderde": {
+        "title": "Backpack Wander (DE)",
+        "description": "Die deutschsprachige Plattform für Retreats, Coaching, nachhaltiges Leben und digitale Skills. Finde Gleichgesinnte und neue Inspiration.",
+        "tags": [
+          "Retreats",
+          "Coaching",
+          "Nachhaltigkeit",
+          "Community"
+        ],
+        "button": "Projekt ansehen"
+      },
+      "setfreeway": {
+        "title": "Set Freeway Coaching",
+        "description": "Persönliches Coaching, um dich vom 9-to-5 zu befreien, Stress zu reduzieren und Erfüllung zu finden. Online-Programme, echte Ergebnisse und eine unterstützende Community.",
+        "tags": [
+          "Coaching",
+          "Persönlichkeitsentwicklung",
+          "Freiheit",
+          "Online-Programm"
+        ],
+        "button": "Projekt ansehen"
+      },
+      "bwdigit": {
+        "title": "BW Digit",
+        "description": "Digitale Agentur für Web, SEO und E-Commerce. Wir erstellen individuelle Websites, Online-Shops und digitale Lösungen für kleine Unternehmen und Kreative.",
+        "tags": [
+          "Webentwicklung",
+          "SEO",
+          "E-Commerce",
+          "Agentur"
+        ],
+        "button": "Projekt ansehen"
+      },
+      "backpackwanderstore": {
+        "title": "Backpack Wander Store",
+        "description": "Umweltfreundliche, solarbetriebene Ausrüstung und Reise-Essentials für Abenteurer. Shoppe kuratierte Produkte für Camping, Wandern und nachhaltiges Reisen.",
+        "tags": [
+          "E-Commerce",
+          "Reiseausrüstung",
+          "Nachhaltigkeit",
+          "Shop"
+        ],
+        "button": "Projekt ansehen"
+      },
+      "medicoplus": {
+        "title": "MedicoPlus",
+        "description": "Eine benutzerfreundliche Gesundheitswebsite mit Ärztelisten, Leistungen und Online-Terminbuchung.",
+        "tags": [
+          "Gesundheitswebseite",
+          "Online-Termine",
+          "Medizinische Dienstleistungen",
+          "Ärzteübersicht",
+          "Sauberes UI",
+          "Professionelles Design",
+          "Responsives Layout",
+          "Patientenunterstützung",
+          "Moderne Webanwendung",
+          "Einfache Navigation"
+        ],
+        "button": "Projekt ansehen"
+      },
+      "urbannest": {
+        "title": "UrbanNest Interiors",
+        "description": "Eine saubere, elegante Website für ein Innenarchitektur-Studio mit Services, Portfolio und Online-Beratung.",
+        "tags": [
+          "Innenarchitektur",
+          "Portfolio-Webseite",
+          "Modernes UI/UX",
+          "Kreativstudio",
+          "Minimalistisches Design",
+          "Responsives Webdesign",
+          "Branding & Ästhetik",
+          "Online-Beratung",
+          "Sauberes Layout",
+          "Premium-Design"
+        ],
+        "button": "Projekt ansehen"
+      }
+    },
+    "ctaText": "Interessiert an einer Zusammenarbeit für dein nächstes Projekt?",
+    "ctaButton": "Projekt starten"
+  },
+  "whatWeDeliver": {
+    "title": "Was wir bieten",
+    "subtitle": "Wir bieten mehr als nur ansprechende Designs – wir schaffen digitale Strategien, die deine Marke sichtbar und erfolgreich machen.",
+    "imageAlt": "Digitale Agentur-Services von BW Digit – für dein Business",
+    "cards": {
+      "customSolutions": {
+        "title": "Maßgeschneiderte Lösungen:",
+        "description": "Individuelle Designs und Strategien, die deine Vision authentisch widerspiegeln."
+      },
+      "seoExcellence": {
+        "title": "SEO-Exzellenz:",
+        "description": "Bessere Rankings, mehr Traffic und nachhaltiges Unternehmenswachstum"
+      },
+      "technicalPerfection": {
+        "title": "Technische Perfektion:",
+        "description": "Schnelle Ladezeiten, mobile Optimierung und erstklassige Funktionalität."
+      }
+    }
+  },
+  "privacyPolicy": {
+    "tocTitle": "Inhaltsverzeichnis",
+    "sections": {
+      "generalInformation": {
+        "title": "1. Allgemeine Hinweise",
+        "content": "Die Backpack Wander GmbH nimmt den Schutz personenbezogener Daten sehr ernst und verarbeitet diese gemäß DSGVO."
+      },
+      "responsibleEntity": {
+        "title": "2. Verantwortliche Stelle",
+        "content": "Backpack Wander GmbH\nKolonnenstrasse 8, 10827, Berlin\nDeutschland\nE-Mail: info@backpackwander.de"
+      },
+      "scopeOfApplication": {
+        "title": "3. Geltungsbereich",
+        "content": "Diese Datenschutzerklärung gilt für alle Leistungen und Marken der Backpack Wander GmbH, einschließlich Pipeline Quality."
+      },
+      "legalBasis": {
+        "title": "4. Rechtsgrundlagen (Art. 6 DSGVO)",
+        "content": "- Art. 6 Abs. 1 lit. b DSGVO – Vertragserfüllung\n- Art. 6 Abs. 1 lit. f DSGVO – berechtigtes Interesse\n- Art. 6 Abs. 1 lit. a DSGVO – Einwilligung"
+      },
+      "contactForms": {
+        "title": "5. Kontaktformulare & Datei-Uploads",
+        "content": "Übermittelte Daten werden ausschließlich zur Bearbeitung von Anfragen und Projekten verarbeitet."
+      },
+      "whatsapp": {
+        "title": "6. WhatsApp-Kommunikation",
+        "content": "Die Kommunikation über WhatsApp erfolgt gemäß der Datenschutzrichtlinie von WhatsApp."
+      },
+      "analytics": {
+        "title": "7. Analyse-Tools",
+        "content": "Wir nutzen Google Analytics auf Basis einer Einwilligung."
+      },
+      "dataRetention": {
+        "title": "8. Speicherdauer",
+        "content": "Daten werden nur so lange gespeichert, wie gesetzlich erforderlich."
+      },
+      "yourRights": {
+        "title": "9. Ihre Rechte",
+        "content": "Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung und Widerspruch.\n\nAnfragen: info@backpackwander.de"
+      }
+    }
+  },
+  "sidebarContact": {
+    "successMessage": "Ihre Nachricht wurde erfolgreich gesendet!",
+    "errorMessage": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+    "title": "Arbeitest du an etwas Großem?",
+    "description": "Teile uns die Details deines Projekts mit – wie Umfang, Zeitrahmen oder geschäftliche Herausforderungen.",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "E-Mail",
+    "phonePlaceholder": "Telefon",
+    "messagePlaceholder": "Nachricht",
+    "servicesTitle": "Ich interessiere mich für",
+    "serviceCustomWebsites": "Individuelle Webseiten",
+    "serviceWordPress": "WordPress",
+    "serviceMobileApp": "Mobile App",
+    "serviceWebDevelopment": "Webentwicklung",
+    "serviceDigitalMarketing": "Digitales Marketing",
+    "serviceSocialMediaMarketing": "Social Media Marketing",
+    "submitting": "SENDEN...",
+    "submit": "SENDEN"
+  },
   "common": {
     "getStarted": "Jetzt Starten",
     "learnMore": "Mehr Erfahren",
@@ -1942,6 +1930,55 @@
       "subtitle": "Lassen Sie uns Ihre App-Idee mit unserem Expertenteam Realität werden",
       "start_project": "Projekt starten",
       "get_quote": "Kostenloses Angebot"
+    }
+  },
+  "termsTitle": "Allgemeine Geschäftsbedingungen",
+  "termsHeroSubtitle": "Bitte lesen Sie unsere Geschäftsbedingungen sorgfältig durch.",
+  "termsAndConditions": {
+    "title": "Allgemeine Geschäftsbedingungen",
+    "sections": {
+      "intro": {
+        "content": "Diese Allgemeinen Geschäftsbedingungen gelten für alle Leistungen und Angebote der Backpack Wander GmbH.\n\nDie Backpack Wander GmbH erbringt insbesondere folgende Leistungen:\n– Coaching für Privatpersonen und Unternehmen\n– Dienstleistungen im Bereich Marketing, digitale Produkte und Online-Angebote\n– QA/QC Dokumentationsunterstützung und ingenieurtechnische Dienstleistungen\n– Projektbezogene Remote- und Vor-Ort-Unterstützung\n– Verkauf digitaler Produkte und Merchandising-Artikel\n\nDie Leistungen werden unter verschiedenen Marken der Backpack Wander GmbH erbracht, einschließlich der Marke \"Pipeline Quality\".\n\nVertragspartner ist ausschließlich die Backpack Wander GmbH, sofern nicht ausdrücklich anders vereinbart."
+      },
+      "liability": {
+        "title": "Haftung",
+        "content": "Die Haftung der Backpack Wander GmbH ist auf Vorsatz und grobe Fahrlässigkeit beschränkt, soweit gesetzlich zulässig.\n\nEine Haftung für mittelbare Schäden oder entgangenen Gewinn ist ausgeschlossen, sofern gesetzlich zulässig."
+      },
+      "jurisdiction": {
+        "title": "Anwendbares Recht & Gerichtsstand",
+        "content": "Es gilt das Recht der Bundesrepublik Deutschland.\n\nGerichtsstand ist – soweit gesetzlich zulässig – der Sitz der Gesellschaft."
+      }
+    }
+  },
+  "imprintTitle": "Impressum",
+  "imprintHeroSubtitle": "Rechtliche Informationen über Backpack Wander GmbH.",
+  "imprint": {
+    "title": "Impressum",
+    "sections": {
+      "intro": {
+        "title": "Angaben gemäß § 5 TMG",
+        "content": "Backpack Wander GmbH\nKolonnenstrasse 8\n10827, Berlin\nDeutschland"
+      },
+      "director": {
+        "title": "Vertreten durch",
+        "content": "Biljana Habel"
+      },
+      "register": {
+        "title": "Registereintrag",
+        "content": "Eingetragen im Handelsregister\nRegistergericht:\nCharlottenburg, 14057 Berlin\nHandelsregisternummer:\nHRB 282058 B"
+      },
+      "vat": {
+        "title": "Umsatzsteuer-ID gemäß §27 a Umsatzsteuergesetz",
+        "content": "DE451725510"
+      },
+      "contact": {
+        "title": "Kontakt",
+        "content": "E-Mail: info@backpackwander.de"
+      },
+      "brand": {
+        "title": "Markeninformation",
+        "content": "Pipeline Quality ist eine Marke der Backpack Wander GmbH."
+      }
     }
   }
 }
